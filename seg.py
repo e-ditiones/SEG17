@@ -20,7 +20,7 @@ def transform_text(doc):
 
 def segment_text(text):
     """
-    This function is used to segment the text and wrap them with <seg> elements.
+    This function is used to segment the text and wrap these segments with <seg> elements.
 
     :param doc: text
     :return: a list of segments
