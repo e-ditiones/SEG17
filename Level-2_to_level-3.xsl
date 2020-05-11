@@ -20,19 +20,7 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:front">
-        <xsl:copy>
-            <xsl:apply-templates/>
-        </xsl:copy>
-    </xsl:template>
-    
     <xsl:template match="tei:body">
-        <xsl:copy>
-            <xsl:apply-templates/>
-        </xsl:copy>
-    </xsl:template>
-    
-    <xsl:template match="tei:back">
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
@@ -44,10 +32,6 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:l">
-        <xsl:copy>
-            <xsl:apply-templates/>
-        </xsl:copy>
-    </xsl:template>
-    
+    <xsl:template match="tei:fw"/>
+
 </xsl:stylesheet>
