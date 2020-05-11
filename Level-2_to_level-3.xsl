@@ -4,6 +4,8 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
     
+    <!-- This XSL stylesheet is used to remove all tags enclosed between <p> and <l>. 
+        The text is kept, only the tags are removed. -->
     <xsl:template match="tei:TEI">
         <xsl:copy>
             <xsl:apply-templates/>
@@ -26,12 +28,125 @@
         </xsl:copy>
     </xsl:template>
     
+    <xsl:template match="tei:front">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:back">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:opener">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:closer">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:div">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:head">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:lg">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:sp">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:stage">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:speaker">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:pb">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
     <xsl:template match="tei:p">
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:fw"/>
+    <xsl:template match="tei:l">
+        <xsl:copy>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="tei:p//tei:placeName/text() | tei:l//tei:placeName/text()">
+        <xsl:copy/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p//tei:persName/text() | tei:l//tei:persName/text()">
+        <xsl:copy/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p//tei:orgName/text() | tei:l//tei:orgName/text()">
+        <xsl:copy/>
+    </xsl:template>
+    
+    
+    <xsl:template match="tei:p//tei:lb | tei:l//tei:lb"/>
+    
+    <xsl:template match="tei:p//tei:pb | tei:l//tei:pb"/>
+    
+    <xsl:template match="tei:p//tei:fw | tei:l//tei:fw"/>
 
 </xsl:stylesheet>
