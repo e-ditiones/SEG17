@@ -64,22 +64,31 @@ def segment_document(doc):
     segment_elements(paragraphs)
     segment_elements(lines)
     segs = doc.xpath('//tei:seg', namespaces=ns)
-    lemmatize(segs)
+    lemmatize(segs) 
     return doc.write("Segmented_" + str(sys.argv[1]), pretty_print=True, encoding="utf-8")
 
+
 def lemmatize(segs):
-	"""
-    For each lines and paragraphs, this function segments the text and add new <seg> elements.
+    """
+    This function process a lemmatization and adds <w> elements.
 
     :param doc: a list of tags
-    :return:
-    :rtype:
     """
     model_name = "fr"
     tagger = get_tagger(model_name, batch_size=256, device="cpu", model_path=None)
     for seg in segs:
         iterator, processor = get_iterator_and_processor()
-        print(tagger.tag_str(seg.text, iterator=iterator, processor=processor) )
+        liste_lemma = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
+        liste = []
+        for entry in liste_lemma:
+            w = etree.Element("{http://www.tei-c.org/ns/1.0}w")
+            w.text = entry['form']
+            w.attrib['lemma']=entry['lemma']
+            w.attrib['pos']=entry['POS']
+            w.attrib['msd']=entry['morph']
+            liste.append(w)
+        seg.clear()
+        seg.extend(liste)
 
 
 
