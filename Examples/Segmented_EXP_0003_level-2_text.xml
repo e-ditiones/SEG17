@@ -1,0 +1,2430 @@
+<text xmlns="http://www.tei-c.org/ns/1.0">
+  <front><div>
+      <p><seg><w lemma="le" pos="PROper" msd="NOMB.=s|GENRE=m">LA</w><w lemma="comédie" pos="NOMpro"
+            msd="NOMB.=s|GENRE=m">COMEDIE</w><w lemma="de_le" pos="NOMpro" msd="MORPH=empty"
+            >DES</w><w lemma="académiste" pos="NOMpro" msd="GENRE=m">ACADEMISTES</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="pour" pos="NOMpro" msd="MORPH=empty"
+            >POVR</w><w lemma="le" pos="PROper" msd="NOMB.=s">LA</w><w lemma="réformation"
+            pos="NOMpro" msd="GENRE=m">REFORMATION</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+            >.</w></seg><seg><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="langue" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">Langue</w><w lemma="français" pos="NOMpro" msd="NOMB.=s|GENRE=f"
+            >Françoiſe</w><w lemma="." pos="PONfrt" msd="MORPH=empty">.</w></seg><seg><w
+            lemma="pièce" pos="NOMpro" msd="NOMB.=s|GENRE=m">PIECE</w><w lemma="comique"
+            pos="NOMpro" msd="GENRE=m">COMIQVE</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+          >.</w></seg></p>
+      <p><seg><w lemma="avec" pos="NOMpro" msd="NOMB.=s|GENRE=m">AVEC</w><w lemma="le" pos="PROper"
+            msd="NOMB.=s|GENRE=m">LE</w><w lemma="roôle" pos="NOMpro" msd="NOMB.=s|GENRE=m"
+            >ROOLE</w><w lemma="de_le" pos="NOMpro" msd="MORPH=empty">DES</w><w lemma="présentation"
+            pos="NOMpro" msd="MORPH=empty">PRESENTATIONS</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="faite" pos="NOMpro" msd="NOMB.=s|GENRE=m">FAITES</w><w
+            lemma="." pos="PONfrt" msd="MORPH=empty">.</w></seg><seg><w lemma="à_le"
+            pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">aux</w><w lemma="grand" pos="ADJqua"
+            msd="NOMB.=p|GENRE=m">grands</w><w lemma="jour" pos="NOMcom" msd="NOMB.=p">Iours</w><w
+            lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="laditeacademie" pos="NOMpro"
+            msd="NOMB.=s|GENRE=f">laditeAcademie</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+            >.</w></seg></p>
+      <p><seg><w lemma="imprimer" pos="VERppe" msd="NOMB.=s|GENRE=m">Imprimé</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s">l’</w><w lemma="an" pos="PROind" msd="MORPH=empty">An</w><w
+            lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=f">la</w><w lemma="reforme" pos="NOMcom" msd="NOMB.=s|GENRE=f"
+            >Reforme</w><w lemma="." pos="PONfrt" msd="MORPH=empty">.</w></seg></p>
+    </div><div>
+      <p><seg><w lemma="monsieur" pos="CONsub" msd="GENRE=f">M</w><w lemma="@card@" pos="DETndf"
+            msd="MORPH=empty">1</w><w lemma="avx" pos="NOMpro" msd="NOMB.=s|GENRE=m">AVX</w><w
+            lemma="avthevrs" pos="NOMpro" msd="NOMB.=s|GENRE=m">AVTHEVRS</w><w lemma="de" pos="PRE"
+            msd="MORPH=empty">DE</w><w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w><w
+            lemma="académie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Academie</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="qui" pos="PROrel" msd="MORPH=empty"
+            >qui</w><w lemma="il" pos="PROper" msd="MORPH=empty">ſe</w><w lemma="mettre"
+            pos="VERcjg" msd="PERS.=3|NOMB.=s">meſlent</w><w lemma="de" pos="PRE" msd="MORPH=empty"
+            >de</w><w lemma="réformer" pos="VERinf" msd="MORPH=empty">reformer</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="langue" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">Langue</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+            >.</w></seg><seg><w lemma="essieur" pos="NOMpro" msd="NOMB.=s|GENRE=m">ESSIEVRS</w><w
+            lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="il" pos="PROper"
+            msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w><w lemma="être" pos="VERcjg"
+            msd="MODE=ind|PERS.=3|NOMB.=s">eſt</w><w lemma="très" pos="VERppe" msd="NOMB.=s|GENRE=m"
+            >trés</w><w lemma="juster" pos="VERppe" msd="NOMB.=s|GENRE=f">iuſte</w><w lemma="de"
+            pos="PRE" msd="MORPH=empty">de</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p"
+            >vous</w><w lemma="dédier" pos="VERinf" msd="MORPH=empty">dedier</w><w lemma="ce"
+            pos="DETdem" msd="NOMB.=s|GENRE=m">cet</w><w lemma="ouvrage" pos="NOMcom"
+            msd="NOMB.=s|GENRE=m">ouurage</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w
+            lemma="puis" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">puis</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">vous</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">auez</w><w lemma="fournyr" pos="VERinf"
+            msd="NOMB.=s">fourny</w><w lemma="lé" pos="VERppe" msd="NOMB.=s|GENRE=m">lé</w><w
+            lemma="sujet" pos="VERppe" msd="NOMB.=p|GENRE=m">ſujet</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="et" pos="PROdem" msd="MORPH=empty">&amp;</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w><w lemma="il" pos="PROper"
+            msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w><w lemma="ne" pos="ADVneg" msd="MORPH=empty"
+            >n’</w><w lemma="y" pos="PROadv" msd="MORPH=empty">y</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w><w lemma="point" pos="ADVneg"
+            msd="MORPH=empty">point</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="gens" pos="NOMcom" msd="NOMB.=p|GENRE=f">gens</w><w lemma="à_le" pos="PRE.DETdef"
+            msd="NOMB.=s|GENRE=m">au</w><w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m"
+            >monde</w><w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w><w lemma="mériter"
+            pos="VERcjg" msd="MODE=sub|PERS.=3|NOMB.=s">meritent</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=m">le</w><w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=m"
+            >petit</w><w lemma="honneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">honneur</w><w lemma=")"
+            pos="PONpdr" msd="MORPH=empty">)</w><w lemma="oi" pos="INJ" msd="NOMB.=s">ſi</w><w
+            lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w
+            lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">vous</w><w lemma="laiser" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">laiſſez</w><w lemma="pas" pos="ADVneg"
+            msd="MORPH=empty">pas</w><w lemma="gagner" pos="VERinf" msd="MORPH=empty">gagner</w><w
+            lemma="à_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">aux</w><w lemma="excessiu"
+            pos="NOMcom" msd="NOMB.=p|GENRE=f">exceſſiues</w><w lemma="louange" pos="ADJqua"
+            msd="NOMB.=p">loüanges</w><w lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w
+            lemma="je" pos="VERcjg" msd="NOMB.=s|GENRE=f">ie</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">vous</w><w lemma="donner" pos="VERppe" msd="NOMB.=s|GENRE=m"
+            >donné</w><w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w></seg><seg><w lemma="car"
+            pos="CONcoo" msd="MORPH=empty">car</w><w lemma="ester" pos="VERppa" msd="MORPH=empty"
+            >eſtant</w><w lemma="généreux" pos="ADJqua" msd="NOMB.=s|GENRE=f">genereux</w><w
+            lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w><w lemma="je" pos="ADVgen"
+            msd="NOMB.=s|GENRE=f">ie</w><w lemma="être" pos="VERppe" msd="NOMB.=p|GENRE=m"
+            >ſuis</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="il" pos="PROper"
+            msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w><w lemma="je" pos="PROper"
+            msd="PERS.=1|NOMB.=s|CAS=r">me</w><w lemma="faicher" pos="VERcjg"
+            msd="MODE=con|TEMPS=ipf|PERS.=3|NOMB.=s">faſcheroit</w><w lemma="bien" pos="ADVgen"
+            msd="MORPH=empty">bien</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="corrompre" pos="VERinf" msd="NOMB.=s">corrompre</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s">l’</w><w lemma="intégril" pos="NOMcom" msd="NOMB.=s|GENRE=m"
+            >integriL</w><w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >A</w><w lemma="ij" pos="ADVgen" msd="NOMB.=s">ij</w><w lemma="eonmaneiadie"
+            pos="ADJqua" msd="NOMB.=s|GENRE=f">Eonmaneiadie</w><w lemma="eddaue" pos="ADVgen"
+            msd="NOMB.=s|GENRE=f">eddaue</w><w lemma="adiedie" pos="ADJqua" msd="NOMB.=s|GENRE=f"
+            >adiediee</w><w lemma="adlele" pos="NOMcom" msd="NOMB.=s|GENRE=m">adLLLE</w><w
+            lemma="à_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">Aux</w><w lemma="autheüi"
+            pos="NOMpro" msd="NOMB.=s|GENRE=m">Autheüi</w><w lemma=";" pos="PONfbl"
+            msd="MORPH=empty">;</w></seg><seg><w lemma="t" pos="PROper" msd="GENRE=m">t</w><w
+            lemma="té" pos="VERppe" msd="NOMB.=s|GENRE=m">té</w><w lemma="de" pos="PRE"
+            msd="MORPH=empty">de</w><w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=f"
+            >mes</w><w lemma="iugé" pos="NOMcom" msd="NOMB.=s|GENRE=m">iugés</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="et" pos="PROcar" msd="MORPH=empty"
+            >&amp;</w><w lemma="de" pos="PRE" msd="MORPH=empty">d’</w><w lemma="obtenir"
+            pos="VERinf" msd="MORPH=empty">obtenir</w><w lemma="par" pos="PRE" msd="MORPH=empty"
+            >par</w><w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">ma</w><w
+            lemma="complaiance" pos="NOMcom" msd="NOMB.=s|GENRE=f">complaiſance</w><w lemma="un"
+            pos="VERppe" msd="MORPH=empty">vne</w><w lemma="approbation" pos="ADJqua"
+            msd="NOMB.=s|GENRE=m">approbation</w><w lemma="que" pos="CONsub" msd="MORPH=empty"
+            >que</w><w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">ie</w><w lemma="ne"
+            pos="ADVneg" msd="MORPH=empty">n’</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=con|PERS.=2|NOMB.=s">aurois</w><w lemma="pas" pos="ADVneg" msd="MORPH=empty"
+            >pas</w><w lemma="mériter" pos="VERppe" msd="NOMB.=s|GENRE=m">meritée</w><w lemma=":"
+            pos="PONfbl" msd="MORPH=empty">:</w></seg><seg><w lemma="je" pos="PROper"
+            msd="NOMB.=s|GENRE=f">i’</w><w lemma="avoir" pos="PRE" msd="NOMB.=s">ay</w><w
+            lemma="craud" pos="VERppe" msd="MORPH=empty">crau</w><w lemma="de" pos="PRE"
+            msd="MORPH=empty">d’</w><w lemma="abord" pos="NOMcom" msd="NOMB.=s|GENRE=m">abord</w><w
+            lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="voir" pos="VERppa"
+            msd="MORPH=empty">Voyant</w><w lemma="tellement" pos="ADVgen" msd="MORPH=empty"
+            >tellement</w><w lemma="engager" pos="VERppe" msd="NOMB.=p|GENRE=m">engagez</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">vous</w><w lemma="être" pos="VERcjg"
+            msd="MODE=con|PERS.=2|NOMB.=p">ſeriez</w><w lemma="prévenir" pos="VERppe" msd="NOMB.=p"
+            >préuenus</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="paseron"
+            pos="NOMcom" msd="NOMB.=s">paſſion</w><w lemma="," pos="PONfbl" msd="MORPH=empty"
+            >,</w><w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w><w lemma="sur" pos="PRE"
+            msd="MORPH=empty">ſur</w><w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=f">cette</w><w
+            lemma="fantaisie" pos="NOMcom" msd="NOMB.=s|GENRE=f">fantaiſie</w><w lemma="qui"
+            pos="PROrel" msd="MORPH=empty">qui</w><w lemma="je" pos="PROper"
+            msd="PERS.=1|NOMB.=s|CAS=r">m’</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w><w lemma="tromper" pos="VERppe"
+            msd="NOMB.=s|GENRE=m">trompé</w><w lemma="quelque" pos="DETrel" msd="NOMB.=s|GENRE=m"
+            >quelque</w><w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">temps</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="je" pos="VERcjg" msd="NOMB.=s|GENRE=f"
+            >i’</w><w lemma="avoir" pos="PROind" msd="NOMB.=s">ay</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="connulter" pos="VERppe" msd="NOMB.=s|GENRE=m"
+            >conſulté</w><w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w><w lemma="auteur"
+            pos="NOMcom" msd="NOMB.=p|GENRE=m">Autheurs</w><w lemma="dont" pos="PROrel"
+            msd="MORPH=empty">dont</w><w lemma="le" pos="DETdef" msd="PERS.=3|NOMB.=s|GENRE=m"
+            >le</w><w lemma="iugement" pos="NOMcom" msd="NOMB.=s|GENRE=m">iugement</w><w
+            lemma="devoir" pos="VERcjg" msd="NOMB.=s">deuoit</w><w lemma="ettre" pos="ADJqua"
+            msd="MORPH=empty">eſtre</w><w lemma="de" pos="PRE" msd="MORPH=empty">d’</w><w
+            lemma="autant" pos="ADVgen" msd="MORPH=empty">autant</w><w lemma="plus" pos="ADVgen"
+            msd="MORPH=empty">plus</w><w lemma="aiin" pos="ADJqua" msd="NOMB.=s|GENRE=m">ſain</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w><w lemma="il" pos="PROper"
+            msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w><w lemma="être" pos="VERcjg"
+            msd="MODE=ind|PERS.=3|NOMB.=s">eſt</w><w lemma="plus" pos="ADVgen" msd="MORPH=empty"
+            >plus</w><w lemma="dénintérement" pos="VERppe" msd="NOMB.=s|GENRE=m">deſintereſſé</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=m">le</w><w lemma="voûtre" pos="NOMcom" msd="NOMB.=s|GENRE=m"
+            >voſtre</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="quand"
+            pos="CONsub" msd="MORPH=empty">quand</w><w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f"
+            >i’</w><w lemma="avoir" pos="NOMpro" msd="NOMB.=p">ay</w><w lemma="conidérer"
+            pos="VERppe" msd="NOMB.=s|GENRE=m">çonſidéré</w><w lemma="leur" pos="DETpos"
+            msd="PERS.=3|NOMB.=p|GENRE=f">leurs</w><w lemma="ouvrage" pos="NOMcom"
+            msd="NOMB.=p|GENRE=f">ouurages</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w
+            lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">i'</w><w lemma="y" pos="PROadv"
+            msd="MORPH=empty">y</w><w lemma="avoir" pos="VERcjg" msd="MORPH=empty">ay</w><w
+            lemma="trouver" pos="VERppe" msd="NOMB.=s|GENRE=m">trouué</w><w lemma="de" pos="PRE"
+            msd="MORPH=empty">de</w><w lemma="beau" pos="ADJqua" msd="NOMB.=p|GENRE=m">beaux</w><w
+            lemma="cen" pos="NOMcom" msd="NOMB.=p">ſen</w><w lemma="e" pos="PONfbl"
+            msd="MORPH=empty">¬</w><w lemma="j" pos="DETdef" msd="MORPH=empty">j</w><w
+            lemma="timens" pos="NOMcom" msd="NOMB.=p">timens</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="et" pos="CONsub" msd="MORPH=empty">&amp;</w><w
+            lemma="à" pos="PRE" msd="MORPH=empty">à</w><w lemma="dire" pos="VERinf"
+            msd="MORPH=empty">dire</w><w lemma="vrai" pos="ADVgen" msd="NOMB.=s">vray</w><w
+            lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">i’</w><w lemma="avoir" pos="ADJqua"
+            msd="NOMB.=s|GENRE=f">eûſſe</w><w lemma="çonnentir" pos="ADJqua" msd="NOMB.=s|GENRE=f"
+            >çonſenty</w><w lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w><w lemma="on"
+            pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w><w lemma="il" pos="PROper"
+            msd="PERS.=3|NOMB.=s|CAS=i">leur</w><w lemma="avoir" pos="VERcjg" msd="NOMB.=s"
+            >eûſt</w><w lemma="donner" pos="VERppe" msd="NOMB.=s|GENRE=m">donné</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="réputation" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">reputation</w><w lemma="que" pos="PROrel" msd="MORPH=empty"
+            >qu’</w><w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w><w
+            lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w><w
+            lemma="cherchéer" pos="VERinf" msd="MORPH=empty">cherchéer</w><w lemma=":" pos="PONfbl"
+            msd="MORPH=empty">:</w></seg><seg><w lemma="mais" pos="CONcoo" msd="MORPH=empty"
+            >Mais</w><w lemma="ii" pos="VERcjg" msd="MORPH=empty">ſi</w><w lemma="tout" pos="ADVgen"
+            msd="NOMB.=s|GENRE=m">toſt</w><w lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w
+            lemma="je" pos="DETpos" msd="NOMB.=s|GENRE=f">i'</w><w lemma="avoir" pos="NOMpro"
+            msd="NOMB.=p|GENRE=f">ay</w><w lemma="comparer" pos="VERppe" msd="NOMB.=s|GENRE=m"
+            >comparé</w><w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w><w lemma="meûnieur"
+            pos="NOMcom" msd="NOMB.=p|GENRE=f">Meſſieurs</w><w lemma="avec" pos="VERcjg"
+            msd="NOMB.=s|GENRE=f">auec</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p"
+            >vous</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="je" pos="PROper"
+            msd="NOMB.=s|GENRE=f">i’</w><w lemma="avoir" pos="PROadv" msd="NOMB.=p">ay</w><w
+            lemma="cognaître" pos="VERcjg" msd="NOMB.=s">cognu</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=f">la</w><w lemma="faible" pos="NOMcom" msd="NOMB.=s|GENRE=f"
+            >foibleſſe</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="leur"
+            pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f">leurs</w><w lemma="cens" pos="NOMcom"
+            msd="NOMB.=p">ſens</w><w lemma="par" pos="PRE" msd="MORPH=empty">par</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="force" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">force</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="voûtre" pos="NOMcom" msd="NOMB.=s">voſtre</w><w lemma="raisonnement" pos="ADJqua"
+            msd="NOMB.=s">raiſonnement</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w
+            lemma="et" pos="PROrel" msd="MORPH=empty">&amp;</w><w lemma="je" pos="PROper"
+            msd="PERS.=1|NOMB.=s|CAS=r">me</w><w lemma="être" pos="VERcjg"
+            msd="MODE=ind|PERS.=3|NOMB.=s">ſuis</w><w lemma="estonner" pos="VERppe"
+            msd="NOMB.=s|GENRE=m">eſtonné</w><w lemma="mille" pos="DETcar" msd="NOMB.=p">mille</w><w
+            lemma="foi" pos="NOMcom" msd="NOMB.=p|GENRE=f">fois</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">qu’</w><w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w><w
+            lemma="trouver" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">trouuaſt</w><w lemma="un"
+            pos="DETndf" msd="NOMB.=p">des</w><w lemma="beète" pos="NOMcom" msd="NOMB.=p|GENRE=f"
+            >beſtes</w><w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w><w lemma="de_le"
+            pos="PRE.DETdef" msd="NOMB.=p">des</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="le" pos="DETdef" msd="NOMB.=s">l'</w><w lemma="académie" pos="NOMpro"
+            msd="NOMB.=s|GENRE=f">Academie</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+          >.</w></seg><seg><w lemma="ange" pos="ADJqua" msd="MODE=imp|NOMB.=s|GENRE=m">Anges</w><w
+            lemma="parmi" pos="NOMcom" msd="NOMB.=s">parmy</w><w lemma="un" pos="PRE.DETdef"
+            msd="NOMB.=p">des</w><w lemma="homme" pos="NOMcom" msd="NOMB.=p|GENRE=m">hommes</w><w
+            lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="quelque" pos="DETrel"
+            msd="NOMB.=p|GENRE=m">quelques</w><w lemma="intérer" pos="NOMcom" msd="PERS.=2|NOMB.=p"
+            >intereſſez</w><w lemma="que" pos="PROrel" msd="MORPH=empty">que</w><w lemma="vous"
+            pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="pouvoir" pos="VERcjg"
+            msd="MODE=con|TEMPS=pst|PERS.=2|NOMB.=p">puiſſiez</w><w lemma="estré" pos="VERinf"
+            msd="MORPH=empty">eſtre</w><w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">i'</w><w
+            lemma="adveüer" pos="ADJqua" msd="NOMB.=s|GENRE=f">aduoüe</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w
+            lemma="enter" pos="VERcjg" msd="PERS.=2|NOMB.=p">eſtes</w><w lemma="seuls" pos="DETind"
+            msd="NOMB.=p">ſeuls</w><w lemma="capable" pos="NOMcom" msd="NOMB.=p">capables</w><w
+            lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="bien" pos="ADVgen"
+            msd="MORPH=empty">bien</w><w lemma="iuger" pos="VERinf" msd="NOMB.=s">iuger</w><w
+            lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="comme" pos="CONsub"
+            msd="MORPH=empty">comme</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w
+            lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">auez</w><w
+            lemma="le" pos="DETdef" msd="NOMB.=s">l’</w><w lemma="esprit" pos="NOMcom"
+            msd="NOMB.=s|GENRE=m">eſprit</w><w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m"
+            >excellent</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w
+            lemma="avoir" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p">auez</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s">l’</w><w lemma="âme" pos="NOMcom" msd="NOMB.=s">ame</w><w
+            lemma="parfaitement" pos="ADVgen" msd="MORPH=empty">parfaitement</w><w lemma="beau"
+            pos="ADJqua" msd="NOMB.=s|GENRE=f">belle</w><w lemma="," pos="PONfbl" msd="MORPH=empty"
+            >,</w><w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w><w lemma="qui" pos="PROrel"
+            msd="MORPH=empty">qui</w><w lemma="connidérer" pos="VERcjg"
+            msd="TEMPS=fut|PERS.=3|NOMB.=s">conſidérera</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w
+            lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">auez</w><w
+            lemma="paître" pos="VERppe" msd="NOMB.=s|GENRE=m">paſſé</w><w lemma="de_le" pos="DETndf"
+            msd="NOMB.=p">des</w><w lemma="année" pos="NOMcom" msd="NOMB.=p|GENRE=f">années</w><w
+            lemma="tout" pos="PROind" msd="NOMB.=p|GENRE=f">toutes</w><w lemma="-" pos="PONfbl"
+            msd="GENRE=f">-</w><w lemma="entier" pos="VERcjg" msd="NOMB.=p">entieres</w><w lemma="à"
+            pos="PRE" msd="MORPH=empty">à</w><w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f"
+            >la</w><w lemma="réformation" pos="NOMcom" msd="NOMB.=s|GENRE=f">reformation</w><w
+            lemma="de" pos="PRE" msd="MORPH=empty">d’</w><w lemma="un" pos="DETndf" msd="GENRE=m"
+            >vn</w><w lemma="mot" pos="NOMcom" msd="NOMB.=s|GENRE=m">mot</w><w lemma="il"
+            pos="ADJqua" msd="NOMB.=s">ſe</w><w lemma="pereuader" pos="NOMcom" msd="NOMB.=p"
+            >perſuadera</w><w lemma="aiément" pos="ADJqua" msd="NOMB.=s">aiſément</w><w lemma="que"
+            pos="CONsub" msd="MORPH=empty">que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p"
+            >vous</w><w lemma="employer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p"
+            >employez</w><w lemma="tout" pos="DETind" msd="MORPH=empty">toute</w><w lemma="votre"
+            pos="ADJqua" msd="NOMB.=s|GENRE=f">voſtre</w><w lemma="vie" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">vie</w><w lemma="à" pos="PRE" msd="MORPH=empty">à</w><w
+            lemma="combattre" pos="VERinf" msd="MORPH=empty">combattre</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=p|GENRE=m">les</w><w lemma="mauvais" pos="ADJqua" msd="NOMB.=p|GENRE=f"
+            >mauuaiſes</w><w lemma="inclination" pos="NOMcom" msd="NOMB.=p|GENRE=f"
+            >inclinations</w><w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w><w lemma="nous"
+            pos="PROper" msd="PERS.=1|NOMB.=p">nous</w><w lemma="perdre" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">perdent</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="je" pos="INJ" msd="NOMB.=s|GENRE=f">ie</w><w lemma="ne"
+            pos="ADVneg" msd="MORPH=empty">ne</w><w lemma="je" pos="PROper"
+            msd="PERS.=1|NOMB.=s|CAS=r">m’</w><w lemma="estonner" pos="VERcjg" msd="NOMB.=s"
+            >eſtonne</w><w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w><w lemma="oi"
+            pos="ADVgen" msd="MORPH=empty">ſi</w><w lemma="voûtre" pos="ADJqua" msd="NOMB.=s"
+            >voſtre</w><w lemma="esprit" pos="VERppe" msd="NOMB.=s|GENRE=m">eſprit</w><w lemma="ne"
+            pos="ADVneg" msd="MORPH=empty">ne</w><w lemma="trouver" pos="VERcjg" msd="MODE=sub"
+            >trouue</w><w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">rien</w><w lemma="qui"
+            pos="PROrel" msd="MORPH=empty">qui</w><w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s"
+            >luy</w><w lemma="empêcher" pos="VERcjg" msd="NOMB.=s">empeſche</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="liberté" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">liberté</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="le" pos="ADVgen" msd="NOMB.=p|GENRE=f">ſes</w><w lemma="fonction" pos="ADJqua"
+            msd="NOMB.=p|GENRE=m">fonctions</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w
+            lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="enter" pos="VERcjg"
+            msd="PERS.=2|NOMB.=p">eſtes</w><w lemma="oi" pos="ADVgen" msd="MORPH=empty">ſi</w><w
+            lemma="être" pos="ADJqua" msd="NOMB.=p">ſobres</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">qu’</w><w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n"
+            >il</w><w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w><w lemma="se" pos="PROper"
+            msd="PERS.=3|NOMB.=s|CAS=r">s’</w><w lemma="eslever" pos="VERcjg"
+            msd="MODE=sub|PERS.=3|NOMB.=s">eſleue</w><w lemma="aucun" pos="PROind"
+            msd="NOMB.=s|GENRE=f">aucune</w><w lemma="vapeur" pos="VERinf" msd="MORPH=empty"
+            >vapeur</w><w lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w><w
+            lemma="cerueau" pos="NOMcom" msd="NOMB.=s|GENRE=m">cerueau</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="et" pos="DETndf" msd="MORPH=empty">&amp;</w><w
+            lemma="oi" pos="VERcjg" msd="NOMB.=s">ſi</w><w lemma="chaster" pos="ADJqua"
+            msd="NOMB.=s">chaſtes</w><w lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w
+            lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="connerver"
+            pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">conſeruez</w><w lemma="tout"
+            pos="DETind" msd="NOMB.=p|GENRE=m">tous</w><w lemma="votre" pos="DETpos"
+            msd="PERS.=2|NOMB.=p|GENRE=m">vos</w><w lemma="esprit" pos="NOMcom"
+            msd="NOMB.=p|GENRE=m">eſprits</w><w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w><w
+            lemma="là" pos="ADVgen" msd="MORPH=empty">là</w><w lemma="continuel" pos="ADJqua"
+            msd="NOMB.=s|GENRE=f">continuelle</w><w lemma="méditation" pos="NOMcom"
+            msd="NOMB.=s|GENRE=m">méditation</w><w lemma="où" pos="PROrel" msd="MORPH=empty"
+            >où</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="vivre"
+            pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">viuez</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="aues" pos="VERppe" msd="MORPH=empty">auſſi</w><w
+            lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w><w lemma="être" pos="VERcjg"
+            msd="NOMB.=s">eſt</w><w lemma="-ce" pos="PROdem" msd="NOMB.=s|GENRE=n">-ce</w><w
+            lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w><w lemma="un" pos="VERppe"
+            msd="GENRE=m">vne</w><w lemma="meral" pos="ADJqua" msd="NOMB.=s|GENRE=m">merAux</w><w
+            lemma="autheur" pos="NOMpro" msd="NOMB.=s">Autheurs</w><w lemma="veiller" pos="ADJqua"
+            msd="NOMB.=s|GENRE=f">ueille</w><w lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w
+            lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="être" pos="VERcjg"
+            msd="TEMPS=pst|PERS.=2|NOMB.=p">ſoyez</w><w lemma="estimer" pos="VERppe"
+            msd="PERS.=2|NOMB.=p">eſtimez</w><w lemma="excellent" pos="ADJqua" msd="NOMB.=p"
+            >excellens</w><w lemma="prophète" pos="NOMpro" msd="NOMB.=s|GENRE=f">Prophetes</w><w
+            lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="puis" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">puis</w><w lemma="que" pos="CONsub"
+            msd="MORPH=empty">qu’</w><w lemma="outre" pos="PRE" msd="MORPH=empty">outre</w><w
+            lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="bonté" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">bonté</w><w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m"
+            >du</w><w lemma="tempérament" pos="NOMcom" msd="NOMB.=s|GENRE=m">tempérament</w><w
+            lemma="mélancolique" pos="ADJqua" msd="NOMB.=s|GENRE=f">melancolique</w><w lemma="vous"
+            pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|PERS.=2|NOMB.=p">auez</w><w lemma="encore" pos="VERppe" msd="NOMB.=s"
+            >encores</w><w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w><w lemma="deux" pos="ADJcar"
+            msd="NOMB.=p">deux</w><w lemma="qualité" pos="NOMcom" msd="PERS.=2|NOMB.=p"
+            >qualitez</w><w lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="balac"
+            pos="NOMpro" msd="NOMB.=s|GENRE=f">Balſac</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w><w lemma="tant" pos="ADVgen"
+            msd="MORPH=empty">tant</w><w lemma="dénirer" pos="VERppe" msd="NOMB.=s|GENRE=f"
+            >deſirées</w><w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="prophetié" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">prophetié</w><w lemma=":" pos="PONfbl" msd="MORPH=empty"
+          >:</w></seg><seg><w lemma="mais" pos="CONcoo" msd="MORPH=empty">mais</w><w lemma="être"
+            pos="VERcjg" msd="MODE=con|PERS.=2|NOMB.=p">ſeruez</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">-vous</w><w lemma="un" pos="DETndf" msd="NOMB.=p">des</w><w
+            lemma="diuination" pos="NOMcom" msd="NOMB.=p">diuinations</w><w lemma="à_le"
+            pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">aux</w><w lemma="affaire" pos="NOMcom"
+            msd="NOMB.=p|GENRE=f">affaires</w><w lemma="que" pos="PROrel" msd="MORPH=empty"
+            >que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="savoir"
+            pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">ſçauez</w><w lemma="oi"
+            pos="ADVgen" msd="MORPH=empty">ſi</w><w lemma="héureusement" pos="ADVgen" msd="NOMB.=p"
+            >héureuſement</w><w lemma="prédire" pos="VERinf" msd="NOMB.=s">prédire</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="je" pos="DETpos" msd="NOMB.=s|GENRE=f">moy</w><w lemma="je" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">ie</w><w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w><w
+            lemma="vouloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s">veux</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=f">la</w><w lemma="cenure" pos="NOMcom" msd="NOMB.=s|GENRE=f"
+            >cenſure</w><w lemma="où" pos="PROrel" msd="MORPH=empty">où</w><w lemma="le"
+            pos="DETdef" msd="PERS.=3|NOMB.=s">l’</w><w lemma="approbation" pos="NOMcom"
+            msd="NOMB.=s">approbation</w><w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m"
+            >du</w><w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=m">petit</w><w lemma="ouvrage"
+            pos="NOMcom" msd="NOMB.=s|GENRE=m">ouurage</w><w lemma="que" pos="PROrel"
+            msd="MORPH=empty">que</w><w lemma="je" pos="VERcjg" msd="NOMB.=s|GENRE=f">ie</w><w
+            lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma="offrir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">offre</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">ie</w><w
+            lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w><w lemma="avoir" pos="VERcjg"
+            msd="MORPH=empty">ay</w><w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w><w
+            lemma="vouloir" pos="VERppe" msd="NOMB.=s|GENRE=m">voulu</w><w lemma="connulter"
+            pos="VERinf" msd="NOMB.=s">conſulter</w><w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m"
+            >les</w><w lemma="mot" pos="NOMcom" msd="NOMB.=p|GENRE=m">mots</w><w lemma=","
+            pos="PONfbl" msd="MORPH=empty">,</w><w lemma="ni" pos="PROadv" msd="MORPH=empty"
+            >ny</w><w lemma="tirer" pos="VERinf" msd="MORPH=empty">tirer</w><w lemma="un"
+            pos="DETndf" msd="NOMB.=p">des</w><w lemma="règle" pos="NOMcom" msd="NOMB.=p|GENRE=f"
+            >regles</w><w lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w><w lemma="il"
+            pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w><w lemma="nous" pos="PROper"
+            msd="PERS.=1|NOMB.=p">nous</w><w lemma="avoir" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w><w lemma="laiser" pos="VERppe"
+            msd="NOMB.=s">laiſſées</w><w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w
+            lemma="éatisfaction" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſatisfaction</w><w lemma="que"
+            pos="PROrel" msd="MORPH=empty">que</w><w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f"
+            >i’</w><w lemma="attendre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s"
+            >attends</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="je" pos="PROper"
+            msd="NOMB.=s|GENRE=f">ie</w><w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w><w
+            lemma="trouver" pos="VERcjg" msd="MODE=sub|PERS.=3|NOMB.=s">trouue</w><w lemma="point"
+            pos="ADVneg" msd="MORPH=empty">point</w><w lemma="aues" pos="VERppe" msd="MORPH=empty"
+            >auſſi</w><w lemma="de" pos="PRE" msd="MORPH=empty">d’</w><w lemma="autheur"
+            pos="NOMpro" msd="NOMB.=s">Autheurs</w><w lemma="à" pos="PRE" msd="MORPH=empty">à</w><w
+            lemma="présent" pos="NOMcom" msd="NOMB.=s">préſent</w><w lemma="(" pos="PONpga"
+            msd="MORPH=empty">(</w><w lemma="excepté" pos="VERppe" msd="NOMB.=s|GENRE=m"
+            >excepté</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w><w lemma=")"
+            pos="PONpdr" msd="MORPH=empty">)</w><w lemma="que" pos="CONsub" msd="MORPH=empty"
+            >que</w><w lemma="je" pos="PROper" msd="NOMB.=s">ie</w><w lemma="vouloir" pos="VERcjg"
+            msd="NOMB.=s|GENRE=f">vueille</w><w lemma="croire" pos="VERinf" msd="MORPH=empty"
+            >croire</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="car" pos="CONcoo"
+            msd="MORPH=empty">car</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="suivre" pos="NOMcom" msd="NOMB.=s">ſuiure</w><w lemma="le" pos="DETdef"
+            msd="NOMB.=s|GENRE=m">le</w><w lemma="génie" pos="NOMcom" msd="NOMB.=s|GENRE=m"
+            >genie</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="théophile"
+            pos="NOMpro" msd="NOMB.=s|GENRE=f">Theophile</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="imiter" pos="VERinf" msd="MORPH=empty">imiter</w><w
+            lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w><w lemma="description" pos="NOMcom"
+            msd="NOMB.=p|GENRE=m">deſcriptions</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="saint" pos="NOMpro" msd="MORPH=empty">S</w><w lemma="." pos="PONfrt"
+            msd="MORPH=empty">.</w></seg><seg><w lemma="amand" pos="ADVgen" msd="MORPH=empty"
+            >Amand</w><w lemma="chercher" pos="VERinf" msd="MORPH=empty">chercher</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s">l’</w><w lemma="art" pos="NOMcom" msd="NOMB.=s|GENRE=m"
+            >Art</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="malherbe" pos="NOMpro"
+            msd="NOMB.=s|GENRE=f">Malherbe</w><w lemma="où" pos="PROrel" msd="MORPH=empty">où</w><w
+            lemma="le" pos="DETdef" msd="NOMB.=s">l’</w><w lemma="eigalité" pos="VERppe"
+            msd="NOMB.=s|GENRE=m">eſgalité</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w
+            lemma="racan" pos="NOMpro" msd="NOMB.=s">Racan</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">c’</w><w
+            lemma="être" pos="VERcjg" msd="NOMB.=s">eſt</w><w lemma="de" pos="PRE" msd="MORPH=empty"
+            >de</w><w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w><w lemma="academie" pos="NOMpro"
+            msd="NOMB.=s|GENRE=f">Academie</w><w lemma="." pos="PONfrt" msd="MORPH=empty"
+          >.</w></seg><seg><w lemma="un" pos="PROind" msd="NOMB.=s|GENRE=f">vne</w><w lemma="choe"
+            pos="NOMcom" msd="NOMB.=s|GENRE=f">choſe</w><w lemma="à" pos="PRE" msd="MORPH=empty"
+            >à</w><w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w><w lemma="aduis"
+            pos="NOMcom" msd="NOMB.=s|GENRE=m">aduis</w><w lemma="très" pos="ADVgen" msd="NOMB.=s"
+            >tres</w><w lemma="indigne" pos="ADJqua" msd="NOMB.=s|GENRE=f">indigne</w><w lemma="de"
+            pos="PRE" msd="MORPH=empty">d’</w><w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w><w
+            lemma="honne" pos="ADJqua" msd="NOMB.=s|GENRE=f">honneſte</w><w lemma="homme"
+            pos="NOMcom" msd="NOMB.=s|GENRE=m">homme</w><w lemma="," pos="PONfbl" msd="MORPH=empty"
+            >,</w><w lemma="puis" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">puis</w><w
+            lemma="que" pos="CONsub" msd="MORPH=empty">que</w><w lemma="vous" pos="PROper"
+            msd="PERS.=2|NOMB.=p">vous</w><w lemma="effacer" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">effacez</w><w lemma="par" pos="PRE"
+            msd="MORPH=empty">par</w><w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w><w
+            lemma="louange" pos="NOMcom" msd="NOMB.=p|GENRE=m">loüanges</w><w lemma="que"
+            pos="PROrel" msd="MORPH=empty">que</w><w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p"
+            >vous</w><w lemma="mériter" pos="VERcjg" msd="MODE=con|TEMPS=pst|PERS.=2|NOMB.=p"
+            >meritez</w><w lemma="tout" pos="DETind" msd="NOMB.=s">toute</w><w lemma="le"
+            pos="DETdef" msd="NOMB.=s|GENRE=f">la</w><w lemma="gloire" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">gloire</w><w lemma="que" pos="PROrel" msd="MORPH=empty">que</w><w
+            lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w><w lemma="meûnieur" pos="NOMcom"
+            msd="NOMB.=p">Meſſieurs</w><w lemma="-là" pos="ADVgen" msd="MORPH=empty">-là</w><w
+            lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w><w
+            lemma="acquérir" pos="VERppe" msd="MORPH=empty">acquiſe</w><w lemma=":" pos="PONfbl"
+            msd="MORPH=empty">:</w></seg><seg><w lemma="mais" pos="CONcoo" msd="MORPH=empty"
+            >Mais</w><w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w><w lemma="ne" pos="ADVneg"
+            msd="MORPH=empty">ne</w><w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w><w
+            lemma="parler" pos="VERinf" msd="MORPH=empty">parler</w><w lemma="couvertement"
+            pos="ADVgen" msd="MORPH=empty">couuertement</w><w lemma="," pos="PONfbl"
+            msd="MORPH=empty">,</w><w lemma="je" pos="ADVgen" msd="NOMB.=s">ie</w><w lemma="l"
+            pos="DETdef" msd="MORPH=empty">l</w><w lemma="suivre" pos="VERppe" msd="NOMB.=p|GENRE=m"
+            >ſuis</w><w lemma="de" pos="PRE" msd="MORPH=empty">de</w><w lemma="voûtre" pos="NOMcom"
+            msd="NOMB.=s|GENRE=f">voſtre</w><w lemma="reforme" pos="ADJqua" msd="NOMB.=s|GENRE=f"
+            >Reforme</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="vottre"
+            pos="VERinf" msd="NOMB.=s">Voſtre</w><w lemma="seruiteur" pos="VERinf" msd="MORPH=empty"
+            >Seruiteur</w><w lemma="," pos="PONfbl" msd="MORPH=empty">,</w><w lemma="de_le"
+            pos="NOMpro" msd="MORPH=empty">DES</w><w lemma="cavenet" pos="NOMpro" msd="GENRE=m"
+            >CAVENETS</w><w lemma="." pos="PONfrt" msd="MORPH=empty">.</w></seg></p>
+    </div><div>
+      <list>
+        <head><lb/>LES ACTEVRS.</head>
+        <item><lb/>TRISTAN.</item>
+        <item><lb/>SAINE AMAND.</item>
+        <item><lb/>GODEAV.</item>
+        <item><lb/>COLLETET.</item>
+        <item><lb/>CHAPEL'AIN.</item>
+        <item><lb/>GOMBAVD.</item>
+        <item><lb/>HABERT.</item>
+        <item><lb/>L’ESTOILLE. </item>
+        <item><lb/>LE MARQVIS DE BREVAL.</item>
+        <item><lb/>LE PRESIDENT SERISY.</item>
+        <item><lb/>BOISROBERT.</item>
+        <item><lb/>SIELOIN.</item>
+        <item><lb/>MADEMOISELLE DE GOVRNE’.</item>
+        <item><lb/>BAVDOVIN.</item>
+        <item><lb/>LE SERGEANT.</item>
+        <item><lb/>LE GEOLIER.</item>
+        <item><lb/>FARET.</item>
+        <item><lb/>MONSIEVR LE CHANCELIER.</item>
+        <item><lb/>LA TROVPPE.</item>
+      </list>
+    </div><lb/>La Scene eſt à Paris.</front>
+  <body>
+    <div>
+      <div>
+        <head><lb/>ACTE PREMIER. ai</head>
+        <div>
+          <head><lb/>SGENE PREMIERE. 161</head>
+          <stage><lb/>TRISTAN, SAINT AMAND, <lb/>qui ſe mocquent de l’Academie.</stage>
+          <sp>
+            <speaker><lb/>TRISTAN.</speaker>
+            <p>
+              <seg>
+                <w lemma="mt" pos="INJ" msd="NOMB.=s|GENRE=m">MT</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="raller" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">riroit</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="noter|notrer" pos="NOMcom" msd="NOMB.=s|GENRE=f">noſtre</w>
+                <w lemma="académie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Academie</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="mallet" pos="VERcjg" msd="NOMB.=s|GENRE=f">Mallet</w>
+                <w lemma="avoir" pos="CONsub" msd="NOMB.=s">a'</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="jamais" pos="VERcjg" msd="MODE=con|TEMPS=ipf|PERS.=3|NOMB.=s">iamais</w>
+                <w lemma="recevoir" pos="VERppe" msd="MORPH=empty">receu</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+                <w lemma="infamie" pos="NOMcom" msd="NOMB.=s|GENRE=f">infamie</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">Qu'</w>
+                <w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="voir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">voit</w>
+                <w lemma="aujourd'h" pos="ADJqua" msd="MORPH=empty">aujourd'</w>
+                <w lemma="hui" pos="NOMcom" msd="NOMB.=s|GENRE=f">huy</w>
+                <w lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=p|GENRE=m">petits</w>
+                <w lemma="auteur" pos="NOMcom" msd="NOMB.=p">Autheurs</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">Qui</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3">ſe</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">font</w>
+                <w lemma="estimer" pos="VERinf" msd="MORPH=empty">eſtimer</w>
+                <w lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+                <w lemma="rare" pos="ADJqua" msd="NOMB.=p|GENRE=f">rares</w>
+                <w lemma="docteur" pos="NOMcom" msd="NOMB.=p">Docteurs</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">Sont</w>
+                <w lemma="-ce" pos="PROdem" msd="NOMB.=s|GENRE=n">-ce</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">nos</w>
+                <w lemma="ménieur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Meßieurs</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="réformer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+                  >reforment</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="langue" pos="NOMcom" msd="NOMB.=s|GENRE=f">langue</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="dire" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=s">Dis</w>
+                <w lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+                <w lemma="je" pos="PROpos" msd="NOMB.=s">moy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="quand" pos="CONsub" msd="MORPH=empty">quand</w>
+                <w lemma="finir" pos="VERcjg" msd="TEMPS=fut|NOMB.=p">finira</w>
+                <w lemma="leur" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=i">leur</w>
+                <w lemma="dernier" pos="VERinf" msd="NOMB.=s|GENRE=f">derniere</w>
+                <w lemma="harangue" pos="NOMcom" msd="NOMB.=s|GENRE=f">harangue</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">Sont</w>
+                <w lemma="-il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">-ils</w>
+                <w lemma="venir" pos="VERppe" msd="NOMB.=p|GENRE=m">venus</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="bout" pos="NOMcom" msd="NOMB.=s|GENRE=m">bout</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+                <w lemma="auant" pos="VERppa" msd="NOMB.=p">auant</w>
+                <w lemma="-" pos="DETdef" msd="GENRE=m">-</w>
+                <w lemma="propos" pos="NOMcom" msd="NOMB.=s|GENRE=m">propos</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="respond" pos="NOMcom" msd="MODE=imp|NOMB.=p">Reſponds</w>
+                <w lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+                <w lemma="je" pos="PROpos" msd="NOMB.=s">moy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="cher" pos="ADJqua" msd="NOMB.=s|GENRE=m">cher</w>
+                <w lemma="trietan" pos="NOMpro" msd="NOMB.=s">Triſtan</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan.</speaker>
+            <p>
+              <seg>
+                <w lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">ma</w>
+                <w lemma="foi" pos="NOMcom" msd="NOMB.=s|GENRE=f">foy</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſont</w>
+                <w lemma="un" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+                <w lemma="éot" pos="NOMcom" msd="NOMB.=p|GENRE=m">ſots</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="quoyyque" pos="NOMpro" msd="MORPH=empty">Quoyyque</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="peu" pos="ADVgen" msd="MORPH=empty">peu</w>
+                <w lemma="écauer" pos="VERppa" msd="NOMB.=s|GENRE=m">ſçauans</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="courage" pos="NOMcom" msd="NOMB.=s|GENRE=m">courage</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+                <w lemma="gloer" pos="VERinf" msd="MORPH=empty">gloſer</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="jour" pos="NOMcom" msd="NOMB.=p|GENRE=m">iours</w>
+                <w lemma="dessus" pos="ADVgen" msd="NOMB.=p">deſſus</w>
+                <w lemma="notrer" pos="ADJqua" msd="NOMB.=s">noſtre</w>
+                <w lemma="langage" pos="NOMcom" msd="NOMB.=s|GENRE=m">langage</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">Mais</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="payer" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=p">paſſent</w>
+                <w lemma="deux" pos="DETcar" msd="NOMB.=p">deux</w>
+                <w lemma="an" pos="NOMcom" msd="NOMB.=p|GENRE=m">ans</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="réformer" pos="VERinf" msd="MORPH=empty">reformer</w>
+                <w lemma="tix" pos="DETind" msd="NOMB.=s">ſix</w>
+                <w lemma="mot" pos="NOMcom" msd="NOMB.=p|GENRE=m">mots</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="falloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">faut</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=r">les</w>
+                <w lemma="payer" pos="VERinf" msd="MORPH=empty">payer</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan.</speaker>
+            <p>
+              <seg>
+                <w lemma="que" pos="PROper" msd="GENRE=f">Quoy</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=i">leur</w>
+                <w lemma="rompre" pos="VERinf" msd="MORPH=empty">rompre</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="os" pos="NOMcom" msd="NOMB.=p|GENRE=m">os</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">Ces</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=p|GENRE=m">petits</w>
+                <w lemma="excroqueur" pos="NOMcom" msd="NOMB.=p">excroqueurs</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="-ils" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">-ils</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=f">bonne</w>
+                <w lemma="grâce" pos="NOMcom" msd="NOMB.=s|GENRE=f">grace</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">D'</w>
+                <w lemma="amuer" pos="VERinf" msd="MORPH=empty">amuſer</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="public" pos="NOMcom" msd="NOMB.=s|GENRE=m">public</w>
+                <w lemma="avec" pos="PRE" msd="NOMB.=s|GENRE=m">auecque</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+                <w lemma="grimace" pos="NOMcom" msd="NOMB.=s|GENRE=f">grimace</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="faire" pos="VERinf" msd="MORPH=empty">Faire</w>
+                <w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=m">petit</w>
+                <w lemma="recueil" pos="NOMcom" msd="NOMB.=s|GENRE=f">Recueil</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="un" pos="VERppe" msd="MORPH=empty">vne</w>
+                <w lemma="traduction" pos="NOMpro" msd="NOMB.=s|GENRE=m">Traduction</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="compoer" pos="VERinf" msd="MORPH=empty">Compoſer</w>
+                <w lemma="quatre" pos="DETcar" msd="NOMB.=p">quatre</w>
+                <w lemma="ver" pos="NOMcom" msd="NOMB.=p">vers</w>
+                <w lemma="plain" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">plains</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="déuotion" pos="NOMcom" msd="NOMB.=p">deuotion</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">Vn</w>
+                <w lemma="sonnet" pos="VERcjg" msd="NOMB.=p">Sonnet</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ou" pos="CONcoo" msd="MORPH=empty">ou</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="épitalame" pos="NOMcom" msd="NOMB.=s|GENRE=f">Epitalame</w>
+                <w lemma="ajouter" pos="VERinf" msd="NOMB.=s">Adjouſter</w>
+                <w lemma="si" pos="CONsub" msd="NOMB.=s">s’</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="on" pos="PROper" msd="PERS.=3|NOMB.=s">ſe</w>
+                <w lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">peut</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=f">petite</w>
+                <w lemma="épigrame" pos="NOMcom" msd="NOMB.=s|GENRE=f">Epigrame</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="renuer" pos="VERinf" msd="MORPH=empty">Reſuer</w>
+                <w lemma="cinq" pos="PROcar" msd="NOMB.=p">cinq</w>
+                <w lemma="ou" pos="CONcoo" msd="MORPH=empty">ou</w>
+                <w lemma="tix" pos="ADJqua" msd="NOMB.=s|GENRE=m">ſix</w>
+                <w lemma="mois" pos="NOMcom" msd="NOMB.=p|GENRE=m">mois</w>
+                <w lemma="sur" pos="PRE" msd="MORPH=empty">ſur</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="objet" pos="NOMcom" msd="NOMB.=s|GENRE=m">objet</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=m">beau</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">Pour</w>
+                <w lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+                <w lemma="voir" pos="VERinf" msd="MORPH=empty">voir</w>
+                <w lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+                <w lemma="jour" pos="NOMcom" msd="NOMB.=s|GENRE=m">iour</w>
+                <w lemma="quelque" pos="DETrel" msd="NOMB.=s|GENRE=m">quelque</w>
+                <w lemma="méchant" pos="VERppa" msd="NOMB.=s|GENRE=m">meſchant</w>
+                <w lemma="rondeau" pos="NOMpro" msd="NOMB.=s">Rondeau</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="mlespriser" pos="VERinf" msd="NOMB.=s">Mleſpriſer</w>
+                <w lemma="hautement" pos="ADVgen" msd="MORPH=empty">hautement</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="ver" pos="NOMcom" msd="NOMB.=p|GENRE=m">vers</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="theophile" pos="NOMpro" msd="NOMB.=s|GENRE=f">Theophile</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="sei|sey" pos="PROper" msd="NOMB.=p">ſey</w>
+                <w lemma="admirer" pos="VERinf" msd="MORPH=empty">Admirer</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="lieu" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieux</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="beauté" pos="NOMcom" msd="NOMB.=s|GENRE=f">beauté</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+                <w lemma="etile" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſtile</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">Se</w>
+                <w lemma="ravir" pos="VERinf" msd="NOMB.=s">rauir</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="premier" pos="PROord" msd="NOMB.=p|GENRE=m">premiers</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f">leurs</w>
+                <w lemma="inuention" pos="NOMcom" msd="NOMB.=p|GENRE=m">inuentions</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">C'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="vraiment" pos="VERppa" msd="NOMB.=s">vrayſment</w>
+                <w lemma="mériter" pos="VERinf" msd="MORPH=empty">meriter</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="bon" pos="ADJqua" msd="NOMB.=p|GENRE=f">bonnes</w>
+                <w lemma="peneron" pos="NOMcom" msd="NOMB.=p">penſions</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan.</speaker>
+            <p>
+              <seg>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">La</w>
+                <w lemma="vanité" pos="NOMcom" msd="NOMB.=s|GENRE=f">vanité</w>
+                <w lemma="chez" pos="PRE" msd="MORPH=empty">chez</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=i">eux</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="être" pos="VERcjg" msd="PERS.=3|NOMB.=s">eſt</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+                <w lemma="crime" pos="NOMcom" msd="NOMB.=s|GENRE=m">crime</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">Ils</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">font</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=m">leurs</w>
+                <w lemma="effort" pos="NOMcom" msd="NOMB.=p|GENRE=m">efforts</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="il" pos="PROper" msd="MORPH=empty">ſe</w>
+                <w lemma="mettre" pos="VERinf" msd="NOMB.=s">metrre</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="estime" pos="NOMcom" msd="NOMB.=s|GENRE=f">eſtime</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan</speaker>
+            <lb/>
+            <p>
+              <seg>
+                <w lemma="sans" pos="PRE" msd="MORPH=empty">Sans</w>
+                <w lemma="mentir" pos="VERinf" msd="MORPH=empty">mentir</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+                <w lemma="goût" pos="NOMcom" msd="NOMB.=s|GENRE=m">gouſt</w>
+                <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">rien</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="être" pos="VERcjg" msd="PERS.=3|NOMB.=s">eſt</w>
+                <w lemma="trouver" pos="VERppe" msd="NOMB.=s|GENRE=m">trouué</w>
+                <w lemma="parfait" pos="ADJqua" msd="NOMB.=s|GENRE=m">parfait</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=n">Rien</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="embler" pos="VERcjg" msd="MODE=ind|NOMB.=s">ſemble</w>
+                <w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m">excellent</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">ce</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">qu'</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="faire" pos="VERppe" msd="NOMB.=s|GENRE=m">fait</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="mollier" pos="NOMcom" msd="NOMB.=s">Molliere</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="leuraduis" pos="NOMcom" msd="NOMB.=s|GENRE=f">leuraduis</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">fait</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="proie" pos="NOMcom" msd="NOMB.=s|GENRE=f">proſe</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ton" pos="DETpos" msd="PERS.=2|NOMB.=s|GENRE=f">Ta</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=f">belle</w>
+                <w lemma="solitude" pos="NOMpro" msd="NOMB.=s|GENRE=f">Solitude</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="PRE" msd="MORPH=empty">&amp;</w>
+                <w lemma="ton" pos="DETpos" msd="PERS.=2|NOMB.=s|GENRE=f">ta</w>
+                <w lemma="metamorphoe" pos="NOMcom" msd="NOMB.=s|GENRE=f">Metamorphoſe</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ton" pos="DETpos" msd="PERS.=2|NOMB.=s|GENRE=f">Ta</w>
+                <w lemma="iouyieance" pos="NOMcom" msd="NOMB.=s|GENRE=f">ioüyſſance</w>
+                <w lemma="aue" pos="VERcjg" msd="NOMB.=s">außi</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ton" pos="DETpos" msd="PERS.=2|NOMB.=p|GENRE=f">tes</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=p|GENRE=f">belles</w>
+                <w lemma="vieion" pos="NOMcom" msd="NOMB.=p|GENRE=m">viſions</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">Ont</w>
+                <w lemma="abuser" pos="VERppe" msd="NOMB.=s|GENRE=m">abusé</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="peuple" pos="NOMcom" msd="NOMB.=s|GENRE=m">peuple</w>
+                <w lemma="ain" pos="VERppe" msd="NOMB.=s|GENRE=m">ainſi</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">qu'</w>
+                <w lemma="illuer" pos="NOMpro" msd="NOMB.=p|GENRE=f">illuſions</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">Qui</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="le" pos="DETind" msd="NOMB.=p">ſes</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+                <w lemma="docteur" pos="NOMcom" msd="NOMB.=p">Docteurs</w>
+                <w lemma="faire" pos="VERppe" msd="MODE=ind|PERS.=3|NOMB.=s|GENRE=m">fait</w>
+                <w lemma="voir" pos="VERinf" msd="MORPH=empty">voir</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="innolence" pos="NOMcom" msd="NOMB.=s|GENRE=f">inſolence</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan</speaker>
+            <p>
+              <seg>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">Pour</w>
+                <w lemma="je" pos="DETpos" msd="NOMB.=s|GENRE=f">moy</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="savoir" pos="VERcjg" msd="NOMB.=s">ſçay</w>
+                <w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="garder" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s|GENRE=f"
+                  >garde</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="lulence" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſulence</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">L'</w>
+                <w lemma="orgueilleux" pos="NOMcom" msd="NOMB.=s|GENRE=m">orgueilleux</w>
+                <w lemma="chappelain" pos="NOMpro" msd="NOMB.=s">Chappelain</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="eetoille" pos="NOMcom" msd="NOMB.=s|GENRE=f">Eſtoille</w>
+                <w lemma="avec" pos="ADJqua" msd="NOMB.=s|GENRE=f">auec</w>
+                <w lemma="godeau" pos="NOMpro" msd="NOMB.=s|GENRE=m">Godeau</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">N'</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="jamais" pos="VERppe" msd="NOMB.=s">iamais</w>
+                <w lemma="peu" pos="ADVgen" msd="NOMB.=s">pfu</w>
+                <w lemma="trouver" pos="VERinf" msd="MORPH=empty">trouuer</w>
+                <w lemma="ouvrage" pos="ADJqua" msd="NOMB.=s">ouurage</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="être" pos="VERcjg" msd="PERS.=3|NOMB.=s">fuſt</w>
+                <w lemma="beau" pos="ADVgen" msd="NOMB.=s|GENRE=m">beaus</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="baudouin" pos="NOMpro" msd="NOMB.=s|GENRE=m">Baudouin</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="colletet" pos="VERcjg" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="étoille" pos="NOMcom" msd="NOMB.=s|GENRE=f">Estoille</w>
+                <w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w>
+                <w lemma="ladreuille" pos="NOMpro" msd="NOMB.=s|GENRE=f">Ladreuille</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">Sont</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+                <w lemma="autheur" pos="NOMcom" msd="NOMB.=p|GENRE=m">Autheurs</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="courir|couvrir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p"
+                  >courent</w>
+                <w lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="ville" pos="NOMcom" msd="NOMB.=s|GENRE=f">ville</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="sans" pos="PRE" msd="MORPH=empty">Sans</w>
+                <w lemma="oublier" pos="VERinf" msd="MORPH=empty">oublier</w>
+                <w lemma="pourtant" pos="ADVgen" msd="MORPH=empty">pourtant</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="gentil" pos="NOMcom" msd="NOMB.=s|GENRE=m">gentil</w>
+                <w lemma="boierobert" pos="ADJqua" msd="NOMB.=s">Boiſrobert</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="gombaut" pos="VERppa" msd="MODE=ind|NOMB.=s">Gombaut</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="froid" pos="ADJqua" msd="NOMB.=s|GENRE=f">froide</w>
+                <w lemma="mine" pos="NOMcom" msd="NOMB.=s|GENRE=f">mine</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="PRE" msd="MORPH=empty">&amp;</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=m">petit</w>
+                <w lemma="habert" pos="NOMcom" msd="NOMB.=s">Habert</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="certes" pos="ADVgen" msd="MORPH=empty">Certes</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">i'</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="éouffrir" pos="VERcjg" msd="NOMB.=s|GENRE=f">ſouffrirois</w>
+                <w lemma="oi" pos="VERppe" msd="MORPH=empty">ſi</w>
+                <w lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f">leurs</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=p|GENRE=f">belles</w>
+                <w lemma="merueille" pos="NOMcom" msd="NOMB.=p|GENRE=f">merueilles</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="contenter" pos="VERcjg" msd="MODE=imp|NOMB.=p">Contentoient</w>
+                <w lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">nos</w>
+                <w lemma="eiprit" pos="NOMcom" msd="NOMB.=p|GENRE=m">eſprits</w>
+                <w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w>
+                <w lemma="charmer" pos="VERcjg" msd="NOMB.=p">charmoient</w>
+                <w lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=f">nos</w>
+                <w lemma="oreille" pos="NOMcom" msd="NOMB.=p|GENRE=f">oreilles</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">Mais</w>
+                <w lemma="chapelain" pos="NOMpro" msd="NOMB.=s">Chapelain</w>
+                <w lemma="est" pos="ADVgen" msd="NOMB.=s">eſt</w>
+                <w lemma="rude" pos="ADJqua" msd="NOMB.=s|GENRE=f">rude</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="le" pos="DETind" msd="NOMB.=s">ſes</w>
+                <w lemma="ver" pos="PRE" msd="MORPH=empty">vers</w>
+                <w lemma="amoureux" pos="ADJqua" msd="NOMB.=s|GENRE=m">amoureux</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="vouloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">veut</w>
+                <w lemma="galantir" pos="VERinf" msd="NOMB.=s">galantiſer</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="pauvre" pos="NOMcom" msd="NOMB.=s|GENRE=m">pauure</w>
+                <w lemma="malheureux" pos="ADJqua" msd="NOMB.=s|GENRE=m">malheureux</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w>
+                <w lemma="faire" pos="VERppa" msd="MODE=con">faiſant</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="portrait" pos="NOMcom" msd="NOMB.=s|GENRE=m">portraict</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="avoir" pos="ADVgen" msd="NOMB.=p">ſa</w>
+                <w lemma="cher" pos="ADJqua" msd="NOMB.=s">chere</w>
+                <w lemma="comte" pos="NOMcom" msd="NOMB.=s|GENRE=f">Comteſſe</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">Au</w>
+                <w lemma="lieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">lieu</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=m">beau</w>
+                <w lemma="vièage" pos="NOMcom" msd="NOMB.=s|GENRE=m">viſage</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="peindre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">peint</w>
+                <w lemma="un" pos="VERppe" msd="MORPH=empty">vne</w>
+                <w lemma="diable" pos="ADJqua" msd="NOMB.=s|GENRE=f">diableſſe</w>
+                <w lemma="godeau" pos="NOMpro" msd="NOMB.=s">Godeau</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+                <w lemma="court" pos="ADJqua" msd="NOMB.=s|GENRE=m">court</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="valoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">vaut</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="un" pos="VERppe" msd="MORPH=empty">vn</w>
+                <w lemma="teston" pos="PROind" msd="NOMB.=s|GENRE=m">teſton</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="avoir" pos="VERcjg" msd="NOMB.=s|GENRE=m">Euſt</w>
+                <w lemma="-l" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">-il</w>
+                <w lemma="toujours" pos="VERcjg" msd="NOMB.=s">touſiours</w>
+                <w lemma="sur" pos="VERinf" msd="MORPH=empty">ſur</w>
+                <w lemma="il" pos="PROind" msd="NOMB.=s">luy</w>
+                <w lemma="le" pos="PROper" msd="NOMB.=s">l'</w>
+                <w lemma="orange" pos="VERcjg" msd="NOMB.=s">Orange</w>
+                <w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="citron" pos="NOMcom" msd="NOMB.=s|GENRE=m">Citron</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="ladreuille" pos="NOMcom" msd="NOMB.=s|GENRE=m">Ladreuille</w>
+                <w lemma="dire" pos="VERcjg" msd="NOMB.=s|GENRE=m">dit</w>
+                <w lemma="-n" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">-on</w>
+                <w lemma="faire" pos="VERppe" msd="NOMB.=s|GENRE=m">fait</w>
+                <w lemma="asez" pos="VERppe" msd="PERS.=2|NOMB.=p">aſſez</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vn</w>
+                <w lemma="conte" pos="NOMcom" msd="NOMB.=s|GENRE=m">conte</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">L'</w>
+                <w lemma="étoille" pos="NOMpro" msd="NOMB.=s|GENRE=f">Estoille</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="madrigal" pos="NOMpro" msd="NOMB.=s|GENRE=f">Madrigal</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="PONfbl" msd="MORPH=empty">&amp;</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+                <w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="honte" pos="NOMcom" msd="NOMB.=s|GENRE=f">honte</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">fait</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="esprit" pos="NOMcom" msd="NOMB.=s|GENRE=m">Eſprit</w>
+                <w lemma="doux" pos="ADJqua" msd="NOMB.=s|GENRE=m">doux</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">mais</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">eſt</w>
+                <w lemma="plat" pos="ADJqua" msd="NOMB.=s|GENRE=m">plat</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="peu" pos="PROind" msd="MORPH=empty">peu</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="gombaud" pos="NOMpro" msd="MORPH=empty">Gombaud</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="chartrer" pos="VERppe" msd="NOMB.=s|GENRE=m">chaſtré</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="manquer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">manque</w>
+                <w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="seu" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſeu</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="baudouin" pos="NOMcom" msd="NOMB.=s|GENRE=m">Baudoüin</w>
+                <w lemma="faire" pos="VERppe" msd="NOMB.=s|GENRE=m">fait</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+                <w lemma="ver" pos="NOMcom" msd="MORPH=empty">vers</w>
+                <w lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+                <w lemma="dessous" pos="NOMcom" msd="NOMB.=s|GENRE=m">deſſous</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+                <w lemma="image" pos="NOMcom" msd="NOMB.=p|GENRE=f">images</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="colletet" pos="VERcjg" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="cinq" pos="DETcar" msd="NOMB.=p">cinq</w>
+                <w lemma="sol" pos="NOMcom" msd="NOMB.=p|GENRE=f">ſols</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">fera</w>
+                <w lemma="un" pos="DETndf" msd="NOMB.=p">des</w>
+                <w lemma="ouvrage" pos="NOMcom" msd="NOMB.=p|GENRE=f">ouurages</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="boierobert" pos="NOMcom" msd="MODE=imp|NOMB.=s">Boiſrobert</w>
+                <w lemma="est" pos="ADVgen" msd="NOMB.=p">eſt</w>
+                <w lemma="pasable" pos="ADJqua" msd="NOMB.=s|GENRE=f">paſſable</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="matière" pos="VERinf" msd="NOMB.=s">matiere</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="amour" pos="NOMcom" msd="NOMB.=s|GENRE=m">amour</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="adjuire" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">adjuſte</w>
+                <w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+                <w lemma="mal" pos="ADVgen" msd="GENRE=m">mal</w>
+                <w lemma="un" pos="VERppe" msd="GENRE=m">vn</w>
+                <w lemma="petit" pos="ADJqua" msd="NOMB.=s|GENRE=m">petit</w>
+                <w lemma="air" pos="NOMcom" msd="NOMB.=s|GENRE=m">air</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="cour" pos="NOMcom" msd="NOMB.=s|GENRE=f">Cour</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="on" pos="PROper" msd="PERS.=3|NOMB.=s">ſe</w>
+                <w lemma="vouloir" pos="VERcjg" msd="MODE=con|NOMB.=s">voudroit</w>
+                <w lemma="picquer" pos="VERinf" msd="MORPH=empty">picquer</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+                <w lemma="un" pos="VERppe" msd="MORPH=empty">vne</w>
+                <w lemma="élégie" pos="NOMcom" msd="NOMB.=s|GENRE=f">elegie</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="toutefois" pos="ADVgen" msd="MORPH=empty">Toutefois</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="fin" pos="ADJqua" msd="NOMB.=s|GENRE=f">fine</w>
+                <w lemma="magie" pos="NOMcom" msd="NOMB.=s|GENRE=f">magie</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="habert" pos="NOMcom" msd="NOMB.=s">Habert</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="moins" pos="NOMcom" msd="NOMB.=s|GENRE=m">moins</w>
+                <w lemma="paître" pos="VERppe" msd="NOMB.=s">paſſera</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="autheur" pos="NOMpro" msd="MORPH=empty">Autheur</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w>
+                <w lemma="peutyestre" pos="ADJqua" msd="NOMB.=s">peutyeſtre</w>
+                <w lemma="estimer" pos="VERppe" msd="NOMB.=s|GENRE=m">eſtimé</w>
+                <w lemma="icune" pos="ADVgen" msd="GENRE=f">icune</w>
+                <w lemma="prédicateur" pos="VERinf" msd="MORPH=empty">Predicateur</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan.</speaker>
+            <p>
+              <seg>
+                <w lemma="tu" pos="PROper" msd="PERS.=2|NOMB.=s|CAS=n">Tu</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+                <w lemma="parler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s">parles</w>
+                <w lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+                <w lemma="marquis" pos="NOMcom" msd="NOMB.=s|GENRE=m">marquis</w>
+                <w lemma="ans" pos="ADJqua" msd="NOMB.=s">ſans</w>
+                <w lemma="espée" pos="VERppe" msd="NOMB.=s|GENRE=f">eſpée</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">Sa</w>
+                <w lemma="verue" pos="NOMcom" msd="NOMB.=s|GENRE=f">verue</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">cet</w>
+                <w lemma="endroit" pos="NOMcom" msd="NOMB.=s|GENRE=m">endroit</w>
+                <w lemma="être" pos="VERppe" msd="MODE=con|NOMB.=s">ſeroit</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="occuper" pos="VERppe" msd="NOMB.=s|GENRE=f">occupée</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="encore" pos="ADVgen" msd="MORPH=empty">Encor</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="dire" pos="VERcjg" msd="NOMB.=s">dirois</w>
+                <w lemma="-tu" pos="PROper" msd="PERS.=2|NOMB.=s|CAS=n">-tu</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+                <w lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="breual" pos="NOMpro" msd="NOMB.=s|GENRE=f">Breual</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">ſeroit</w>
+                <w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m">excellent</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">mais</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="rimer" pos="VERcjg" msd="MODE=sub|NOMB.=s|GENRE=f">rime</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="cheual" pos="NOMcom" msd="NOMB.=s|GENRE=f">cheual</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan.</speaker>
+            <p>
+              <seg>
+                <w lemma="dieu" pos="NOMcom" msd="NOMB.=p|GENRE=m">Dieux</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+              <seg>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſont</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="despeindre" pos="ADVgen" msd="NOMB.=p">deſpeints</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="falloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">faut</w>
+                <w lemma="-l" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">-il</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="auantage" pos="NOMcom" msd="NOMB.=s|GENRE=f">auantage</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Triſtan</speaker>
+            <p>
+              <seg>
+                <w lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">c'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="aser" pos="VERcjg" msd="PERS.=2|NOMB.=p">aſſez</w>
+                <w lemma="parler" pos="VERppe" msd="NOMB.=s|GENRE=m">parlé</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="auteur" pos="NOMcom" msd="NOMB.=s">autheurs</w>
+                <w lemma="et" pos="VERppe" msd="MORPH=empty">&amp;</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="langage" pos="NOMcom" msd="NOMB.=s|GENRE=m">langage</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>S. Amand.</speaker>
+            <p>
+              <seg>
+                <w lemma="aller" pos="VERcjg" msd="MODE=imp|PERS.=1|NOMB.=p">Allons</w>
+                <w lemma="-nous" pos="PROper" msd="PERS.=1|NOMB.=p">-nous</w>
+                <w lemma="-n" pos="PROadv" msd="MORPH=empty">-en</w>
+                <w lemma="trouver" pos="VERinf" msd="MORPH=empty">trouuer</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="compère" pos="NOMcom" msd="NOMB.=s|GENRE=m">compere</w>
+                <w lemma="faret|farêt" pos="NOMpro" msd="NOMB.=s">Faret</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w>
+                <w lemma="réformer" pos="VERinf" msd="MORPH=empty">reformer</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="mot" pos="NOMcom" msd="NOMB.=p|GENRE=m">mots</w>
+                <w lemma="dedans" pos="PRE" msd="MORPH=empty">dedans</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="cabarei" pos="NOMcom" msd="NOMB.=s|GENRE=m">Cabarei</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+        </div>
+        <div>
+          <head><lb/>ACTE PREMIER. <lb/>Ldore SCENE II.</head>
+          <stage><lb/>GODEAV, COLLETET.</stage>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="heaur" pos="INJ" msd="NOMB.=s">HE</w>
+                <w lemma="que" pos="PROint" msd="MORPH=empty">quoy</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+              <seg>
+                <w lemma="cher" pos="ADJqua" msd="NOMB.=p|GENRE=m">chers</w>
+                <w lemma="nourrir" pos="NOMcom" msd="NOMB.=p">nourriſſons</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="un" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+                <w lemma="fille" pos="NOMcom" msd="NOMB.=p|GENRE=f">filles</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="mémoire" pos="NOMcom" msd="NOMB.=s">memoire</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">Qui</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+                <w lemma="éiècle" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſiecle</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="venir" pos="VERinf" msd="MORPH=empty">venir</w>
+                <w lemma="obtenir" pos="VERppe" msd="PERS.=2|NOMB.=p">obtiendrez</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="victoire" pos="NOMcom" msd="NOMB.=s|GENRE=f">victoire</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=m">Beaux</w>
+                <w lemma="mignon" pos="NOMcom" msd="NOMB.=p">mignons</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="pallas" pos="NOMpro" msd="NOMB.=s|GENRE=f">Pallas</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="vrai" pos="VERppa" msd="NOMB.=p">vrays</w>
+                <w lemma="fauoris" pos="VERppe" msd="NOMB.=p">fauoris</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+                <w lemma="dieu" pos="NOMcom" msd="NOMB.=p|GENRE=m">Dieux</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">Vous</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="enter" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=s">eſtes</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="encore" pos="VERppe" msd="NOMB.=s">encores</w>
+                <w lemma="arriéer" pos="VERppe" msd="NOMB.=p">arriuez</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+                <w lemma="lieu" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieux</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Auriez</w>
+                <w lemma="-vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="oi" pos="VERppe" msd="MORPH=empty">ſi</w>
+                <w lemma="tard" pos="ADVgen" msd="MORPH=empty">tard</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="pied" pos="NOMcom" msd="NOMB.=p|GENRE=m">pieds</w>
+                <w lemma="descous" pos="VERcjg" msd="NOMB.=p">deſſous</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="table" pos="NOMcom" msd="NOMB.=s|GENRE=f">table</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="doux" pos="ADJqua" msd="NOMB.=p|GENRE=m">doux</w>
+                <w lemma="featin" pos="NOMcom" msd="NOMB.=p|GENRE=m">feſtins</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">rien</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="aimable" pos="ADJqua" msd="NOMB.=s|GENRE=f">aimable</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">Les</w>
+                <w lemma="lièvre" pos="NOMpro" msd="NOMB.=p|GENRE=m">Liéures</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="lappin" pos="NOMpro" msd="NOMB.=p|GENRE=m">Lappins</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="caille" pos="NOMcom" msd="NOMB.=p|GENRE=f">Cailles</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="il" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="perdrix" pos="NOMpro" msd="NOMB.=p|GENRE=m">Perdrix</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">Les</w>
+                <w lemma="canars" pos="NOMpro" msd="NOMB.=p|GENRE=m">Canars</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="faire" pos="NOMpro" msd="NOMB.=p|GENRE=m">Faiſans</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|NOMB.=p">ſont</w>
+                <w lemma="tout" pos="PROind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="meûpris" pos="NOMcom" msd="NOMB.=p">meſpris</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ginfame" pos="NOMpro" msd="NOMB.=s|GENRE=f">Ginfame</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="laiser" pos="NOMcom" msd="MODE=imp|NOMB.=p">Laiſſons</w>
+                <w lemma="-là" pos="ADVgen" msd="MORPH=empty">-là</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+                <w lemma="ragout" pos="NOMcom" msd="NOMB.=p|GENRE=m">ragouſts</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="bien" pos="NOMcom" msd="GENRE=m">bien</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w>
+                <w lemma="prendre" pos="VERcjg" msd="MODE=imp|PERS.=1|NOMB.=p">prenons</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="plaisir" pos="NOMcom" msd="NOMB.=p|GENRE=m">plaiſirs</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+                <w lemma="trouver" pos="VERcjg" msd="NOMB.=s|GENRE=f">trouue</w>
+                <w lemma="un" pos="DETndf" msd="GENRE=f">vne</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=f">belle</w>
+                <w lemma="âme" pos="NOMcom" msd="NOMB.=s|GENRE=f">ame</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">Mais</w>
+                <w lemma="voici" pos="ADJqua" msd="NOMB.=s">voicy</w>
+                <w lemma="colletet" pos="NOMcom" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="hater|hattre" pos="VERcjg" msd="PERS.=3|NOMB.=s">haſte</w>
+                <w lemma="un" pos="PROadv" msd="MORPH=empty">vn</w>
+                <w lemma="peu" pos="ADVgen" msd="MORPH=empty">peu</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=r">le</w>
+                <w lemma="pas" pos="NOMcom" msd="NOMB.=s|GENRE=m">pas</w>
+                <w lemma="ie" pos="PONfrt" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="il" pos="DETdef" msd="NOMB.=s">l'</w>
+                <w lemma="avoir" pos="NOMpro" msd="NOMB.=s">ay</w>
+                <w lemma="touer" pos="VERcjg" msd="NOMB.=s">touſiours</w>
+                <w lemma="connaître" pos="ADJqua" msd="NOMB.=p|GENRE=m">cognu</w>
+                <w lemma="sobre" pos="NOMcom" msd="NOMB.=s">ſobre</w>
+                <w lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+                <w lemma="le" pos="DETind" msd="NOMB.=p">ſes</w>
+                <w lemma="repas" pos="NOMcom" msd="NOMB.=p|GENRE=m">repas</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="bon" pos="INJ" msd="MORPH=empty">Bon</w>
+                <w lemma="jour" pos="VERinf" msd="NOMB.=s">iour</w>
+                <w lemma="cher" pos="ADJqua" msd="NOMB.=s|GENRE=m">cher</w>
+                <w lemma="colletet" pos="NOMcom" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+                <w lemma="euesque" pos="NOMcom" msd="NOMB.=s|GENRE=m">Eueſque</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="grâce" pos="NOMcom" msd="NOMB.=s|GENRE=f">grace</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="dire" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Dites</w>
+                <w lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s">moy</w>
+                <w lemma="si" pos="PROper" msd="NOMB.=s">s'</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="plaire" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">plaiſt</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+                <w lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="falloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">faut</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="faire" pos="ADJqua" msd="NOMB.=s|GENRE=f">faſſe</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">Ne</w>
+                <w lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">dois</w>
+                <w lemma="-je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=n">-je</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="baier" pos="VERinf" msd="MORPH=empty">baiſer</w>
+                <w lemma="voûtre" pos="VERinf" msd="NOMB.=s">voſtre</w>
+                <w lemma="cacrer" pos="VERppe" msd="NOMB.=s|GENRE=m">ſacré</w>
+                <w lemma="talon" pos="NOMcom" msd="NOMB.=s">tallon</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">Nous</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p">ſommes</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="eigau" pos="NOMcom" msd="NOMB.=p|GENRE=m">eſgaux</w>
+                <w lemma="estant" pos="ADJqua" msd="NOMB.=p|GENRE=m">eſtans</w>
+                <w lemma="fils" pos="NOMcom" msd="NOMB.=s|GENRE=m">fils</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="appollen" pos="NOMpro" msd="NOMB.=s|GENRE=f">Appollen</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="lever" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Leuez</w>
+                <w lemma="-vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="colletet" pos="VERcjg" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="voûtre" pos="ADJqua" msd="NOMB.=s|GENRE=f">voſtre</w>
+                <w lemma="magnificence" pos="NOMcom" msd="NOMB.=s|GENRE=f">magnificence</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">Ne</w>
+                <w lemma="permettre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+                  >permet</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="monergneur" pos="VERinf" msd="MORPH=empty">Monſeigneur</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vne</w>
+                <w lemma="tel" pos="DETind" msd="NOMB.=s|GENRE=f">telle</w>
+                <w lemma="licence" pos="NOMcom" msd="NOMB.=s|GENRE=f">licence</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="lever" pos="INJ" msd="MODE=imp|PERS.=2|NOMB.=p">Leuez</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="promptement" pos="ADVgen" msd="MORPH=empty">promptement</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s">ie</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">ſuis</w>
+                <w lemma="tout" pos="PROind" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="courroux" pos="NOMcom" msd="NOMB.=s|GENRE=m">courroux</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="voir" pos="VERinf" msd="MORPH=empty">voir</w>
+                <w lemma="devoir" pos="VERppa" msd="MORPH=empty">deuant</w>
+                <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">moy</w>
+                <w lemma="on" pos="ADVgen" msd="NOMB.=s">ſi</w>
+                <w lemma="long" pos="ADJqua" msd="NOMB.=s|GENRE=m">long</w>
+                <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">temps</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="genou" pos="NOMcom" msd="NOMB.=p|GENRE=m">genoux</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="traire" pos="ADVgen" msd="NOMB.=s|GENRE=m">Tres</w>
+                <w lemma="reuerend" pos="ADJqua" msd="NOMB.=s">reuerend</w>
+                <w lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+                <w lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="valoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">vaut</w>
+                <w lemma="mieux" pos="ADVgen" msd="MORPH=empty">mieux</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="complaire" pos="VERinf" msd="MORPH=empty">complaire</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="attendre" pos="VERppa" msd="MORPH=empty">Attendant</w>
+                <w lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=f">nos</w>
+                <w lemma="méeieur" pos="NOMcom" msd="NOMB.=p|GENRE=m">Meßieurs</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+                <w lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+                <w lemma="faudracil" pos="VERcjg" msd="MODE=con|TEMPS=pst|NOMB.=s">faudracil</w>
+                <w lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſuis</w>
+                <w lemma="prêt" pos="VERppe" msd="NOMB.=p">preſt</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="obéir" pos="NOMcom" msd="NOMB.=s">obeirà</w>
+                <w lemma="votre" pos="ADJqua" msd="NOMB.=s">voſtre</w>
+                <w lemma="volonté" pos="NOMcom" msd="NOMB.=s|GENRE=f">volonté</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="parler" pos="VERcjg" msd="MODE=imp|PERS.=1|NOMB.=p">Parlons</w>
+                <w lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+                <w lemma="autresfois" pos="VERppe" msd="NOMB.=p">autresfois</w>
+                <w lemma="avec" pos="ADJqua" msd="NOMB.=p|GENRE=f">auecques</w>
+                <w lemma="liberté" pos="NOMcom" msd="NOMB.=s|GENRE=f">liberté</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">Vous</w>
+                <w lemma="savoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">ſçauez</w>
+                <w lemma="colletet" pos="ADVgen" msd="NOMB.=s">Colletet</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="quel" pos="DETrel" msd="NOMB.=s|GENRE=m">quel</w>
+                <w lemma="point" pos="NOMcom" msd="NOMB.=s|GENRE=m">poinct</w>
+                <w lemma="je" pos="PONfrt" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="aimer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">aime</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+                <w lemma="votre" pos="ADJqua" msd="NOMB.=s">voſtre</w>
+                <w lemma="amitié" pos="NOMcom" msd="NOMB.=s|GENRE=f">amitié</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m'</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">eſt</w>
+                <w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+                <w lemma="honneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">honneur</w>
+                <w lemma="extrême" pos="VERppe" msd="NOMB.=s|GENRE=f">extréme</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="celletet" pos="ADVint" msd="NOMB.=s|GENRE=m">Celletet</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="aimer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">aime</w>
+                <w lemma="et" pos="DETndf" msd="MORPH=empty">&amp;</w>
+                <w lemma="cherir" pos="VERinf" msd="NOMB.=s">chery</w>
+                <w lemma="eur" pos="PRE" msd="MORPH=empty">ſur</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">ma</w>
+                <w lemma="foi" pos="NOMcom" msd="NOMB.=s|GENRE=f">foy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="souffrir" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Souffrez</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="donc" pos="ADVgen" msd="MORPH=empty">donc</w>
+                <w lemma="un" pos="DETndf" msd="GENRE=m">vn</w>
+                <w lemma="moment" pos="NOMcom" msd="NOMB.=s|GENRE=m">moment</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="parler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">parle</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s|GENRE=f">moy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="auez" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Auez</w>
+                <w lemma="-vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="voir" pos="VERcjg" msd="NOMB.=p">veu</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+                <w lemma="ver" pos="NOMcom" msd="NOMB.=p|GENRE=m">vers</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=p|GENRE=m">beaux</w>
+                <w lemma="ver" pos="NOMcom" msd="GENRE=m">vers</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">qu'</w>
+                <w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w>
+                <w lemma="adorer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">adore</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="il" pos="DETdef" msd="PERS.=3|NOMB.=p|GENRE=m">les</w>
+                <w lemma="avoir" pos="PROind" msd="NOMB.=p|GENRE=m">ay</w>
+                <w lemma="desia" pos="VERcjg" msd="NOMB.=p">deſià</w>
+                <w lemma="lire" pos="PROind" msd="NOMB.=s">leus</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">mais</w>
+                <w lemma="je" pos="VERcjg" msd="MORPH=empty">ie</w>
+                <w lemma="il" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="lire" pos="VERcjg" msd="NOMB.=p|GENRE=m">lis</w>
+                <w lemma="encore" pos="ADVgen" msd="MORPH=empty">encore</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">C'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+                <w lemma="entretien" pos="NOMcom" msd="NOMB.=s|GENRE=m">entretien</w>
+                <w lemma="dedans" pos="PRE" msd="MORPH=empty">dedans</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+                <w lemma="cabinet" pos="NOMcom" msd="NOMB.=s|GENRE=m">cabinet</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="tout" pos="ADVgen" msd="MORPH=empty">Tout</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">eſt</w>
+                <w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m">excellent</w>
+                <w lemma="tout" pos="PROind" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="être" pos="ADVgen" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="beau" pos="ADJqua" msd="NOMB.=s|GENRE=m">beau</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="tout" pos="ADVgen" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="evoir" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="net" pos="ADVgen" msd="MORPH=empty">net</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="manquer" pos="NOMcom" msd="NOMB.=s">Manquay</w>
+                <w lemma="-je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=n">-je</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="quelque" pos="DETrel" msd="NOMB.=s|GENRE=m">quelque</w>
+                <w lemma="endroit" pos="NOMcom" msd="NOMB.=s|GENRE=m">endroit</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="garder" pos="VERinf" msd="MORPH=empty">garder</w>
+                <w lemma="là" pos="ADVgen" msd="MORPH=empty">là</w>
+                <w lemma="ceur" pos="ADJqua" msd="MORPH=empty">ceſure</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">A</w>
+                <w lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+                <w lemma="von" pos="PROind" msd="NOMB.=s|GENRE=m">von</w>
+                <w lemma="voir" pos="VERppe" msd="NOMB.=s">veu</w>
+                <w lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+                <w lemma="ver" pos="NOMcom" msd="NOMB.=p|GENRE=m">vers</w>
+                <w lemma="un" pos="VERppe" msd="NOMB.=p">vne</w>
+                <w lemma="seule" pos="ADJind" msd="NOMB.=s|GENRE=f">ſeule</w>
+                <w lemma="rature" pos="NOMcom" msd="NOMB.=s|GENRE=f">rature</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="suivre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">Suis</w>
+                <w lemma="-je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=n">-je</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="icrupuleux" pos="ADJqua" msd="NOMB.=s">ſcrupuleux</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="choirir" pos="VERinf" msd="NOMB.=s">choiſir</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="mot" pos="NOMcom" msd="NOMB.=p|GENRE=m">mots</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſuis</w>
+                <w lemma="très" pos="ADVgen" msd="NOMB.=s">tres</w>
+                <w lemma="-" pos="DETdef" msd="GENRE=m">-</w>
+                <w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m">excellent</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">quoy</w>
+                <w lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+                <w lemma="dire" pos="VERcjg" msd="MODE=ind|NOMB.=p">diſent</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="éot" pos="NOMcom" msd="NOMB.=p|GENRE=m">ſots</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet</speaker>
+            <p>
+              <seg>
+                <w lemma="colleéet" pos="INJ" msd="NOMB.=s|GENRE=f">Colleéet</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="vraiment" pos="VERppa" msd="MODE=imp|NOMB.=s">Vrayſment</w>
+                <w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+                <w lemma="ennieux" pos="NOMcom" msd="NOMB.=s|GENRE=f">enuieux</w>
+                <w lemma="être" pos="VERppe" msd="NOMB.=p">ſeroit</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="mièerable" pos="ADJqua" msd="NOMB.=s|GENRE=f">miſerable</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">Qui</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="trouver" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=p">trouueroît</w>
+                <w lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+                <w lemma="tout" pos="ADVgen" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="incomparable" pos="ADJqua" msd="NOMB.=s|GENRE=m">incomparable</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="savoir" pos="NOMpro" msd="NOMB.=s">ſçay</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="monergneur" pos="VERinf" msd="MORPH=empty">Monſeigneur</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="menser" pos="VERppe" msd="GENRE=f">meſS’</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="lire" pos="VERcjg" msd="MODE=sub|PERS.=3|NOMB.=p">liſent</w>
+                <w lemma="votre" pos="DETpos" msd="PERS.=2|NOMB.=p|GENRE=m">vos</w>
+                <w lemma="ercrit" pos="NOMcom" msd="NOMB.=p|GENRE=m">eſcrits</w>
+                <w lemma="devenir" pos="ADJqua" msd="NOMB.=p">deuiendront</w>
+                <w lemma="complaire" pos="VERppa" msd="NOMB.=p">complaiſants</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="cher" pos="ADJqua" msd="NOMB.=s|GENRE=m">cher</w>
+                <w lemma="colletet" pos="NOMcom" msd="NOMB.=s|GENRE=m">Colletet</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=f">cette</w>
+                <w lemma="menchant" pos="ADJqua" msd="NOMB.=s|GENRE=f">meſchante</w>
+                <w lemma="race" pos="NOMcom" msd="NOMB.=s|GENRE=f">race</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">Peut</w>
+                <w lemma="dire" pos="VERinf" msd="MORPH=empty">dire</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+                <w lemma="ver" pos="NOMcom" msd="NOMB.=p|GENRE=m">vers</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=p">ſont</w>
+                <w lemma="froid" pos="VERppe" msd="NOMB.=p">froids</w>
+                <w lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+                <w lemma="là" pos="ADVgen" msd="MORPH=empty">là</w>
+                <w lemma="shaise" pos="NOMpro" msd="NOMB.=s|GENRE=f">Shaice</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet. </speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">Ils</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p">ſe</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">feront</w>
+                <w lemma="moquer" pos="VERinf" msd="MORPH=empty">mocquer</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="seig" pos="NOMpro" msd="MORPH=empty">SR</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="vrai" pos="NOMcom" msd="NOMB.=s">vray</w>
+                <w lemma=")" pos="PONpdr" msd="MORPH=empty">)</w>
+                <w lemma="ment" pos="CONsub" msd="NOMB.=s">ment</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">ils</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+                <w lemma="beau" pos="ADJqua" msd="GENRE=m">beau</w>
+                <w lemma="jeu" pos="NOMcom" msd="NOMB.=s|GENRE=m">ieü</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=n">Ils</w>
+                <w lemma="savoir" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=p">ſçauent</w>
+                <w lemma="votre" pos="ADJqua" msd="NOMB.=s">voſtre</w>
+                <w lemma="ardeur" pos="NOMcom" msd="NOMB.=s|GENRE=f">ardeur</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=m">ie</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſuis</w>
+                <w lemma="tout" pos="ADVgen" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="plein" pos="ADJqua" msd="NOMB.=s|GENRE=m">plein</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="feu" pos="NOMcom" msd="NOMB.=s|GENRE=m">feu</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">Mon</w>
+                <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">s'</w>
+                <w lemma="éiafil" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">eiafil</w>
+                <w lemma="estyras" pos="VERppa" msd="NOMB.=p">estyras</w>
+                <w lemma="colletet" pos="ADVgen" msd="NOMB.=s|GENRE=f">Colſetet</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+              <seg>
+                <w lemma="gagu" pos="NOMcom" msd="NOMB.=s|GENRE=m">gagV</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">c'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">eſt</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="tort" pos="NOMcom" msd="NOMB.=s|GENRE=m">tort</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+                <w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m'</w>
+                <w lemma="accuer" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">accuſe</w>
+                <w lemma="se" pos="PROper" msd="CAS=r">S'</w>
+                <w lemma="attaquer" pos="VERinf" msd="MORPH=empty">attaquer</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="godeau" pos="NOMpro" msd="NOMB.=s|GENRE=m">Godeau</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">c'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">eſt</w>
+                <w lemma="il" pos="PROper" msd="MORPH=empty">ſe</w>
+                <w lemma="prendre" pos="VERinf" msd="MORPH=empty">prendre</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="là" pos="ADVgen" msd="MORPH=empty">là</w>
+                <w lemma="mu" pos="ADJqua" msd="NOMB.=s|GENRE=f">muſe</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="c" pos="PROdem" msd="GENRE=n">C</w>
+                <w lemma="et" pos="CONcoo" msd="MORPH=empty">Et</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m'</w>
+                <w lemma="accuyer" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+                  >accuſera</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="étérilité" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſterilité</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">N'</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">qu'</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="lire" pos="VERinf" msd="MORPH=empty">lire</w>
+                <w lemma="un" pos="ADJqua" msd="GENRE=f">vne</w>
+                <w lemma="foi" pos="NOMcom" msd="NOMB.=p|GENRE=f">fois</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">mon</w>
+                <w lemma="benedioité" pos="NOMcom" msd="NOMB.=s|GENRE=m">Benedioité</w>
+                <w lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+              </seg>
+              <seg>
+                <w lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+                <w lemma="le" pos="DETdef" msd="PERS.=3|NOMB.=s">l'</w>
+                <w lemma="ouvrage" pos="NOMcom" msd="NOMB.=s">ouurage</w>
+                <w lemma="excellent" pos="ADJqua" msd="NOMB.=s|GENRE=m">excellent</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="ô" pos="INJ" msd="MORPH=empty">ô</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="pièce" pos="NOMcom" msd="NOMB.=s|GENRE=f">piece</w>
+                <w lemma="admirable" pos="ADJqua" msd="NOMB.=s|GENRE=f">admirable</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="chef" pos="INJ" msd="NOMB.=s">Chef</w>
+                <w lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="œuvre" pos="NOMcom" msd="NOMB.=s">œuure</w>
+                <w lemma="précieux" pos="ADJqua" msd="NOMB.=s|GENRE=f">precieux</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="merueille" pos="NOMcom" msd="NOMB.=s|GENRE=f">merueille</w>
+                <w lemma="adorable" pos="ADJqua" msd="NOMB.=s|GENRE=f">adorable</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="que" pos="PROint" msd="MORPH=empty">Que</w>
+                <w lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">peut</w>
+                <w lemma="-n" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">-on</w>
+                <w lemma="dédirer" pos="VERinf" msd="MORPH=empty">deſirer</w>
+                <w lemma="après" pos="VERppe" msd="NOMB.=s">apres</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vn</w>
+                <w lemma="tel" pos="DETind" msd="NOMB.=s|GENRE=m">tel</w>
+                <w lemma="effort" pos="NOMcom" msd="NOMB.=s|GENRE=m">effort</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">Qui</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſera</w>
+                <w lemma="content" pos="ADJqua" msd="NOMB.=s|GENRE=m">content</w>
+                <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">aura</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">ma</w>
+                <w lemma="foi" pos="NOMcom" msd="NOMB.=s|GENRE=f">foy</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+                <w lemma="ge" pos="NOMcom" msd="NOMB.=s|GENRE=f">ge</w>
+                <w lemma="mais" pos="CONcoo" msd="MORPH=empty">Mais</w>
+                <w lemma="ans" pos="ADVgen" msd="MORPH=empty">ſans</w>
+                <w lemma="parler" pos="VERinf" msd="MORPH=empty">parler</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s">moy</w>
+                <w lemma="trop" pos="ADVgen" msd="MORPH=empty">trop</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+                <w lemma="aduantage" pos="NOMcom" msd="NOMB.=s|GENRE=m">aduantage</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="suis" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">Suis</w>
+                <w lemma="-jet" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=n">-je</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="monergneur" pos="VERinf" msd="MORPH=empty">Monſeigneur</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vn</w>
+                <w lemma="très" pos="DETind" msd="NOMB.=p">tres</w>
+                <w lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+                <w lemma="perrornage" pos="NOMcom" msd="NOMB.=s|GENRE=m">perſornage</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="colletet" pos="VERcjg" msd="NOMB.=s|GENRE=m">Colletet</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+                <w lemma="ami" pos="NOMcom" msd="NOMB.=s|GENRE=f">amy</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">faites</w>
+                <w lemma="pas" pos="ADVneg" msd="MORPH=empty">pas</w>
+                <w lemma="mal" pos="ADVgen" msd="GENRE=m">mal</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="que" pos="PROper" msd="GENRE=f">Quoy</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+              <seg>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=m">ie</w>
+                <w lemma="prétendre" pos="VERcjg" msd="NOMB.=p">pretens</w>
+                <w lemma="traiter" pos="VERinf" msd="MORPH=empty">traiter</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=s|GENRE=m">tout</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="eigal" pos="NOMcom" msd="NOMB.=s|GENRE=f">eſgal</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=m">I'</w>
+                <w lemma="avoir" pos="PROadv" msd="NOMB.=p">ay</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="vigueur" pos="NOMcom" msd="MORPH=empty">vigueur</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">n'</w>
+                <w lemma="avoir" pos="VERcjg" msd="PERS.=2|NOMB.=s">auoit</w>
+                <w lemma="théophile" pos="NOMpro" msd="NOMB.=s|GENRE=f">Théophile</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">Ie</w>
+                <w lemma="croire" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=s">crois</w>
+                <w lemma="fort" pos="ADVgen" msd="MORPH=empty">fort</w>
+                <w lemma="approcher" pos="VERinf" msd="MORPH=empty">approcher</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+                <w lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=m">bon</w>
+                <w lemma="père" pos="NOMcom" msd="NOMB.=s">pere</w>
+                <w lemma="virgile" pos="ADJqua" msd="NOMB.=s|GENRE=f">Virgile</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="que" pos="PROint" msd="MORPH=empty">Que</w>
+                <w lemma="pouvoir" pos="VERcjg" msd="MODE=con|PERS.=2|NOMB.=p">pourriez</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="encore" pos="ADVgen" msd="MORPH=empty">encor</w>
+                <w lemma="reprendre" pos="VERinf" msd="MORPH=empty">reprendre</w>
+                <w lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+                <w lemma="veit" pos="NOMcom" msd="NOMB.=p|GENRE=f">veys</w>
+                <w lemma="?" pos="PONfrt" msd="MORPH=empty">?</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="colleter" pos="DETind" msd="NOMB.=s|GENRE=m">Colletet</w>
+                <w lemma="ton" pos="DETpos" msd="PERS.=2|NOMB.=p|GENRE=m">tes</w>
+                <w lemma="diccours" pos="NOMcom" msd="NOMB.=p|GENRE=m">diſcours</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">ſont</w>
+                <w lemma="un" pos="PROind" msd="MORPH=empty">vn</w>
+                <w lemma="peu" pos="ADVgen" msd="MORPH=empty">peu</w>
+                <w lemma="trop" pos="ADVgen" msd="MORPH=empty">trop</w>
+                <w lemma="court" pos="VERppe" msd="NOMB.=p|GENRE=m">couuerts</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">Il</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">eſt</w>
+                <w lemma="certain" pos="ADJqua" msd="NOMB.=s|GENRE=m">certain</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">i'</w>
+                <w lemma="avoir" pos="PRE" msd="NOMB.=s">ay</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="stile" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſtile</w>
+                <w lemma="magnifique" pos="ADJqua" msd="NOMB.=s|GENRE=m">magnifique</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">Vous</w>
+                <w lemma="parler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">parlez</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vn</w>
+                <w lemma="peu" pos="ADVgen" msd="MORPH=empty">peu</w>
+                <w lemma="mieux" pos="ADVgen" msd="MORPH=empty">mieux</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">qu'</w>
+                <w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+                <w lemma="garçon" pos="NOMcom" msd="NOMB.=s|GENRE=m">garçon</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="j" pos="PONfrt" msd="NOMB.=s|GENRE=m">Jl</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="ha" pos="INJ" msd="MORPH=empty">Ha</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="le" pos="PROper" msd="NOMB.=s|GENRE=m">le</w>
+                <w lemma="reipect" pos="VERcjg" msd="NOMB.=s|GENRE=m">reſpect</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m'</w>
+                <w lemma="eschapper" pos="VERcjg" msd="MODE=sub|NOMB.=s">eſchappe</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="et" pos="DETndf" msd="MORPH=empty">&amp;</w>
+                <w lemma="mieux" pos="ADVgen" msd="MORPH=empty">mieux</w>
+                <w lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="auer" pos="VERcjg" msd="MORPH=empty">außi</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="parler" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Parlez</w>
+                <w lemma="bas" pos="ADVgen" msd="MORPH=empty">bas</w>
+                <w lemma="colletet" pos="ADJqua" msd="NOMB.=s|GENRE=f">Colletet</w>
+                <w lemma="quand" pos="CONsub" msd="MORPH=empty">quand</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="parler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">parlez</w>
+                <w lemma="aini" pos="VERppe" msd="MORPH=empty">ainſi</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <lb/>
+            <speaker>Colletet.</speaker>
+            <lb/>
+            <p>
+              <seg>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">C'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſt</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="monnieur" pos="VERinf" msd="NOMB.=s">Monſieur</w>
+                <w lemma="godeau" pos="NOMpro" msd="NOMB.=s">Godeau</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+                <w lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">faites</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">Me</w>
+                <w lemma="vouloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">voulez</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="contraindre" pos="VERinf" msd="MORPH=empty">contraindre</w>
+                <w lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+                <w lemma="louer" pos="VERinf" msd="NOMB.=s">loüer</w>
+                <w lemma="voûtre" pos="ADJqua" msd="NOMB.=s">voſtre</w>
+                <w lemma="vnil" pos="NOMcom" msd="NOMB.=s|GENRE=m">VNil</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m">le</w>
+                <w lemma="mériter" pos="VERcjg" msd="NOMB.=s|GENRE=m">meritoit</w>
+                <w lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">Ie</w>
+                <w lemma="il" pos="DETdef" msd="PERS.=3|NOMB.=s|GENRE=m">le</w>
+                <w lemma="trouver" pos="VERcjg" msd="NOMB.=s|GENRE=m">trouue</w>
+                <w lemma="fort" pos="ADVgen" msd="MORPH=empty">fort</w>
+                <w lemma="plat" pos="ADJqua" msd="NOMB.=s|GENRE=m">plat</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="tout" pos="PROrel" msd="GENRE=f">ſt</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="celer" pos="VERinf" msd="MORPH=empty">celer</w>
+                <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">rien</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+              <seg>
+                <w lemma="ttoinon" pos="NOMcom" msd="NOMB.=s">ttoinonqre</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="si" pos="CONsub" msd="MORPH=empty">Si</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="parler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">parlez</w>
+                <w lemma="mal" pos="ADVgen" msd="MORPH=empty">mal</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="enter" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p">eſtes</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="colère" pos="NOMcom" msd="NOMB.=s">colere</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="si" pos="CONsub" msd="MORPH=empty">Si</w>
+                <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">i'</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="avoir" pos="PROadv" msd="NOMB.=s">ay</w>
+                <w lemma="dire" pos="VERppe" msd="NOMB.=s|GENRE=m">dit</w>
+                <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+                <w lemma="bien" pos="NOMcom" msd="NOMB.=s|GENRE=m">bien</w>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">c'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s|GENRE=m">eſtoit</w>
+                <w lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="com" pos="VERcjg" msd="MORPH=empty">com</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="colletet" pos="NOMcom" msd="NOMB.=s|GENRE=m">Colletet</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="je" pos="VERcjg" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="treuver" pos="VERcjg" msd="NOMB.=s">treuue</w>
+                <w lemma="unt" pos="ADVgen" msd="MORPH=empty">vnt</w>
+                <w lemma="gentil" pos="ADJqua" msd="NOMB.=s|GENRE=f">gentil</w>
+                <w lemma="violon" pos="NOMcom" msd="NOMB.=s|GENRE=f">violon</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">Nous</w>
+                <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p">ſommes</w>
+                <w lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+                <w lemma="eigau" pos="NOMcom" msd="NOMB.=p|GENRE=m">eſgaux</w>
+                <w lemma="ester" pos="ADJqua" msd="NOMB.=p|GENRE=m">eſtans</w>
+                <w lemma="fils" pos="NOMcom" msd="NOMB.=s|GENRE=m">fils</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d'</w>
+                <w lemma="apollon" pos="NOMcom" msd="NOMB.=s|GENRE=f">Apollon</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Godeau.</speaker>
+            <p>
+              <seg>
+                <w lemma="retirer" pos="VERcjg" msd="MODE=imp|PERS.=2|NOMB.=p">Retirez</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">-vous</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+                <w lemma="ici" pos="NOMcom" msd="NOMB.=s|GENRE=f">icy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="sortir" pos="VERppe" msd="MODE=imp|PERS.=2|NOMB.=p">ſortez</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="donc" pos="ADVgen" msd="MORPH=empty">donc</w>
+                <w lemma="gros" pos="ADJqua" msd="NOMB.=s|GENRE=f">groſſe</w>
+                <w lemma="beate" pos="NOMcom" msd="NOMB.=s|GENRE=f">beſte</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker><lb/>Colletet.</speaker>
+            <p>
+              <seg>
+                <w lemma="oui" pos="PROind" msd="NOMB.=s|GENRE=m">ouy</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="je" pos="INJ" msd="NOMB.=s|GENRE=f">ie</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m'</w>
+                <w lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+                <w lemma="aller" pos="VERcjg" msd="NOMB.=s">vay</w>
+                <w lemma="sortir" pos="VERinf" msd="MORPH=empty">ſortir</w>
+                <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+                <w lemma="rompre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">rompez</w>
+                <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+                <w lemma="teste" pos="NOMcom" msd="NOMB.=s|GENRE=f">teſte</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+          <sp>
+            <speaker>Godeau</speaker>
+            <p>
+              <seg>
+                <w lemma="sur" pos="PRE" msd="MORPH=empty">Sur</w>
+                <w lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+                <w lemma="dieu" pos="NOMpro" msd="NOMB.=s|GENRE=m">Dieu</w>
+                <w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+                <w lemma="maraut" pos="NOMcom" msd="NOMB.=s|GENRE=m">maraut</w>
+                <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+                <w lemma="mettre" pos="VERcjg" msd="MODE=con|TEMPS=psp|PERS.=3|NOMB.=s">mettroit</w>
+                <w lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+                <w lemma="péché" pos="VERppe" msd="NOMB.=s|GENRE=f">peché</w>
+                <w lemma="si" pos="CONsub" msd="MORPH=empty">Si</w>
+                <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">i'</w>
+                <w lemma="etter" pos="VERppe" msd="NOMB.=p|GENRE=f">eſtois</w>
+                <w lemma="avec" pos="ADJqua" msd="NOMB.=s|GENRE=f">auec</w>
+                <w lemma="il" pos="DETdef" msd="NOMB.=s|GENRE=m">luy</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="long" pos="ADJqua" msd="NOMB.=s|GENRE=m">long</w>
+                <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">temps</w>
+                <w lemma="attacher" pos="VERppe" msd="NOMB.=s|GENRE=m">attaché</w>
+                <w lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+              </seg>
+              <seg>
+                <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">C'</w>
+                <w lemma="être" pos="VERcjg" msd="NOMB.=s">eſt</w>
+                <w lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+                <w lemma="gueux" pos="NOMcom" msd="NOMB.=s|GENRE=m">gueux</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="un" pos="PRE" msd="MORPH=empty">vn</w>
+                <w lemma="coquin" pos="NOMcom" msd="NOMB.=s|GENRE=m">coquin</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">dit</w>
+                <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">rien</w>
+                <w lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+                <w lemma="valoir" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">vaille</w>
+                <w lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+                <w lemma="ha" pos="INJ" msd="MORPH=empty">Ha</w>
+                <w lemma="!" pos="PONfrt" msd="MORPH=empty">!</w>
+              </seg>
+              <seg>
+                <w lemma="dieu" pos="NOMpro" msd="NOMB.=s|GENRE=m">Dieu</w>
+                <w lemma="je" pos="NOMcom" msd="NOMB.=s">ie</w>
+                <w lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+                <w lemma="vouloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s">veux</w>
+                <w lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+                <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+                <w lemma="pareil" pos="ADJqua" msd="NOMB.=s|GENRE=f">pareille</w>
+                <w lemma="canatue" pos="NOMcom" msd="NOMB.=s">canatuë</w>
+                <w lemma="." pos="PONfrt" msd="MORPH=empty">.</w>
+              </seg>
+            </p>
+          </sp>
+        </div>
+      </div>
+    </div>
+  </body>
+</text>
