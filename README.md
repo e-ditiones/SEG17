@@ -11,7 +11,6 @@ To use it, you just have to :
 
 The output file will be : `Segmented_YourFile.xml`
 
-Then this file can be lemmatized, using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers).
 
 ## How it works
 
