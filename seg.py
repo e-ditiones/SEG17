@@ -1,4 +1,6 @@
 from lxml import etree
+from pie_extended.cli.sub import get_tagger, get_model
+from pie_extended.models.fr.imports import get_iterator_and_processor
 import re
 import sys
 
@@ -29,7 +31,7 @@ def segment_text(text):
     segments = re.findall(r"[^\.\?:\;!]+[\.\?:\;!]?", text)
     list = []
     for segment in segments:
-        seg = etree.Element("seg")
+        seg = etree.Element("{http://www.tei-c.org/ns/1.0}seg")
         seg.text = segment
         list.append(seg)
     return list
@@ -58,10 +60,27 @@ def segment_document(doc):
     :rtype: a new XLM doc
     """
     paragraphs = doc.xpath('//tei:text//tei:p', namespaces=ns)
-    lines = doc.xpath('TEI//tei:text//tei:l', namespaces=ns)
+    lines = doc.xpath('//tei:text//tei:l', namespaces=ns)
     segment_elements(paragraphs)
     segment_elements(lines)
+    segs = doc.xpath('//tei:seg', namespaces=ns)
+    lemmatize(segs)
     return doc.write("Segmented_" + str(sys.argv[1]), pretty_print=True, encoding="utf-8")
+
+def lemmatize(segs):
+	"""
+    For each lines and paragraphs, this function segments the text and add new <seg> elements.
+
+    :param doc: a list of tags
+    :return:
+    :rtype:
+    """
+    model_name = "fr"
+    tagger = get_tagger(model_name, batch_size=256, device="cpu", model_path=None)
+    for seg in segs:
+        iterator, processor = get_iterator_and_processor()
+        print(tagger.tag_str(seg.text, iterator=iterator, processor=processor) )
+
 
 
 if __name__ == "__main__":
