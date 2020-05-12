@@ -2,7 +2,12 @@ from lxml import etree
 from pie_extended.cli.sub import get_tagger, get_model
 from pie_extended.models.fr.imports import get_iterator_and_processor
 import re
-import sys
+import argparse
+arg_parser = argparse.ArgumentParser()
+arg_parser.add_argument("file", help="file to process")
+arg_parser.add_argument("-l", "--lemmatize", help="used to lemmatize a text", action="store_true")
+arg_parser.add_argument("-n", "--normalize", help="used to normalize a text", action="store_true")
+args = arg_parser.parse_args()
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -64,8 +69,11 @@ def segment_document(doc):
     segment_elements(paragraphs)
     segment_elements(lines)
     segs = doc.xpath('//tei:seg', namespaces=ns)
-    lemmatize(segs) 
-    return doc.write("Segmented_" + str(sys.argv[1]), pretty_print=True, encoding="utf-8")
+    if args.lemmatize:
+        lemmatize(segs)
+    # indent() inserts tail whitespace for pretty-printing an XML tree.
+    etree.indent(doc)
+    return doc.write("Segmented_" + str(args.file), pretty_print=True, encoding="utf-8", method="xml")
 
 
 def lemmatize(segs):
@@ -78,22 +86,22 @@ def lemmatize(segs):
     tagger = get_tagger(model_name, batch_size=256, device="cpu", model_path=None)
     for seg in segs:
         iterator, processor = get_iterator_and_processor()
-        liste_lemma = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
-        liste = []
-        for entry in liste_lemma:
+        lemmas = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
+        words = []
+        for entry in lemmas:
             w = etree.Element("{http://www.tei-c.org/ns/1.0}w")
             w.text = entry['form']
             w.attrib['lemma']=entry['lemma']
             w.attrib['pos']=entry['POS']
             w.attrib['msd']=entry['morph']
-            liste.append(w)
+            words.append(w)
         seg.clear()
-        seg.extend(liste)
+        seg.extend(words)
 
 
 
 if __name__ == "__main__":
     parser = etree.XMLParser(remove_blank_text=True)
-    doc = etree.parse(sys.argv[1], parser)
+    doc = etree.parse(args.file, parser)
     text_transformed = transform_text(doc)
     segment_document(text_transformed)
