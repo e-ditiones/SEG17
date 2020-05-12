@@ -35,7 +35,7 @@ This repository is developed by Alexandre Bartz with the help of Simon Gabay, as
 
 ## Cite this repository
 
-Alexandre Bartz, Simon Gabay. 2019. _Segmentation and normalization for French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
+Alexandre Bartz, Simon Gabay. 2019. _Lemmatization and normalization for French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
 
 
 
