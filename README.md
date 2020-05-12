@@ -21,7 +21,7 @@ For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), 
 
 The text is then lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
 
-You will find some examples [here](https://github.com/e-ditiones/SEG17/Examples).
+You will find some examples [here](https://github.com/e-ditiones/SEG17/tree/master/Examples).
 
 ## Credits
 
