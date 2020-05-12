@@ -18,6 +18,8 @@ Then this file can be lemmatized, using [_Pie-extended_](https://github.com/hips
 Using a XSL stylesheet, the script add XML-TEI tags to split the text in segments.
 For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), the script `seg.py` split the text in segments captured in `<seg>`elements.
 
+The text is then lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
+
 ## Credits
 
 This repository is developed by Alexandre Bartz with the help of Simon Gabay, as part of the project [e-ditiones](https://github.com/e-ditiones).
@@ -30,7 +32,7 @@ This repository is developed by Alexandre Bartz with the help of Simon Gabay, as
 
 ## Cite this repository
 
-Alexandre Bartz, Simon Gabay. 2019. _Segmentation and normalization of for French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
+Alexandre Bartz, Simon Gabay. 2019. _Segmentation and normalization for French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
 
 
 
