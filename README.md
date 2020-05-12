@@ -6,7 +6,9 @@ In order to process the lemmatization of encoded XML-TEI files, we use this scri
 
 To use it, you just have to :
 * install all the python librairies needed with `pip install -r requirements.txt`
-* run the scrit with `python3 seg.py path/to/file.xml`
+* download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr`
+* then, if you want to **split** your text, use `python3 seg.py path/to/file`
+* if you want to **split and lemmatize** your text, use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 seg.py -l path/to/file`
 
 
 The output file will be : `Segmented_YourFile.xml`
