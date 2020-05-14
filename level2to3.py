@@ -90,7 +90,8 @@ def segment_document(doc):
         lemmatize(tags)
     # Indent() inserts tail whitespace for pretty-printing an XML tree.
     etree.indent(doc)
-    return doc.write("Segmented_" + str(args.file), pretty_print=True, encoding="utf-8", method="xml")
+    # This output file is specific to the project e-ditiones, you can easily change the output with e.g. doc.write("New" + args.file, ...)
+    return doc.write(args.file.replace("level-2", "level-3"), pretty_print=True, encoding="utf-8", method="xml")
 
 
 def normalize(segs):
@@ -125,7 +126,6 @@ def normalize(segs):
         os.remove(file.name + ".tok_into_fr.test.beam10")
         file.close()
 
-# !!!! gérer les problèmes de segments vides, fait bugger le programme
 
 def lemmatize(segs):
     """
