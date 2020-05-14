@@ -1,6 +1,6 @@
 # SEG17
 
-This script process segmentation, normalization and lemmatization of encoded XML-TEI files. xcept the first, each step can be activated separately. 
+This script process segmentation, normalization and lemmatization of XML-TEI encoded files. Except the first, each step can be activated separately. 
 
 ## Getting starded
 
