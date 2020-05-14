@@ -26,12 +26,12 @@ For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), 
 
 The text can be normalized using [_PARALLEL17_](https://github.com/e-ditiones/PARALLEL17).
 
-For now, normalization is only processed on the original transcription (`<orig>`).
-
 
 ### The lemmazition
 
 The text can also be lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
+
+For now, lemmatization is only processed on the original transcription (`<orig>` or `<seg>` if the text isn't normalized).
 
 
 ## Credits
