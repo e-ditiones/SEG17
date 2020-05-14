@@ -1,27 +1,38 @@
 # SEG17
 
-In order to process the lemmatization of encoded XML-TEI files, we use this script to split the text in segments.
+This script process segmentation, normalization and lemmatization of encoded XML-TEI files. xcept the first, each step can be activated separately. 
 
 ## Getting starded
 
 To use it, you just have to :
+* download this repository
 * install all the python librairies needed with `pip install -r requirements.txt`
-* download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr`
-* then, if you want to **split** your text, use `python3 seg.py path/to/file`
-* if you want to **split and lemmatize** your text, use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 seg.py -l path/to/file`
+* if you want to **split** your text, use `python3 level2to3.py path/to/file`
+* if you want to **split and normalize** your text, use `python3 level2to3.py -n path/to/file`
+* if you want to **split and lemmatize** your text, start to download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr` and then use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file`
+* if you want to **split, normalize and lemmatize** your text, use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/file`
 
 
-The output file will be : `Segmented_YourFile.xml`
-
+You will find some examples [here](https://github.com/e-ditiones/SEG17/tree/master/Examples).
 
 ## How it works
 
+### The segmentation
+
 Using a XSL stylesheet, the script add XML-TEI tags to split the text in segments.
-For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), the script `seg.py` split the text in segments captured in `<seg>`elements.
+For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), the script `seg.py` split the text in segments captured in `<seg>` elements.
 
-The text is then lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
+### The normalization
 
-You will find some examples [here](https://github.com/e-ditiones/SEG17/tree/master/Examples).
+The text can be normalized using [_PARALLEL17_](https://github.com/e-ditiones/PARALLEL17).
+
+For now, normalization is only processed on the original transcription (`<orig>`).
+
+
+### The lemmazition
+
+The text can also be lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
+
 
 ## Credits
 
@@ -35,7 +46,7 @@ This repository is developed by Alexandre Bartz with the help of Simon Gabay, as
 
 ## Cite this repository
 
-Alexandre Bartz, Simon Gabay. 2019. _Lemmatization and normalization for French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
+Alexandre Bartz, Simon Gabay. 2019. _Lemmatization and normalization of French modern manuscripts and printed documents_. Retrieved from https://github.com/e-ditiones/SEG17.
 
 
 
