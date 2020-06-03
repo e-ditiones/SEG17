@@ -158,20 +158,18 @@ For the entry "abbaye", you get :
 			</entry>
 ```
 
-and, in JSON :
+* in JSON :
 
 ```json
-"abbaye": 
-	{"id": "e69", 
-	"lemma": 
-		{"orth": "abbaye", 
-		"pron": "a b E i @", 
-		"gramGrp": 
-			{"pos": "commonNoun", 
-			"gen": "feminine"}}, 
-	"inflected": 
-		[
+"abbaye": {"id": "e69", 
+		"lemma": 
 			{"orth": "abbaye", 
+			"pron": "a b E i @", 
+			"gramGrp": 
+				{"pos": "commonNoun", 
+				"gen": "feminine"}}, 
+		"inflected": 
+			[{"orth": "abbaye", 
 			"pron": "a b E i @", 
 			"gramGrp": 
 				{"number": "singular"}}, 
