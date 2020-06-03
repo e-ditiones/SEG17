@@ -1,41 +1,75 @@
 # SEG17
 
-This script process segmentation, normalization and lemmatization of XML-TEI encoded files. Except the first, each step can be activated separately. 
+This script process segmentation, normalization and lemmatization of XML-TEI encoded files. Except the first, each step can be activated separately.
 
 ## Getting starded
 
-To use it, you just have to :
-* clone ord download this repository  
-* create a virtual environment with `virtual env`and activate it with `source env/bin/activate`
-* in this virtual env, install all the python librairies required with `pip install -r requirements.txt`
-* if you want to **split** your text, use `python3 level2to3.py path/to/file`
-* if you want to **split and normalize** your text, use `python3 level2to3.py -n path/to/file`
-* if you want to **split and lemmatize** your text
-	* start to download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr`
-	* then use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file`
-* if you want to **split, normalize and lemmatize** your text, use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/file`
+To install SEG17, using command lines, you have to :
+1. clone or download this repository
+```bash
+git clone git@github.com:e-ditiones/SEG17.git
+cd SEG17
+```
+2. create a virtual environment and activate it
+```bash
+python3 -m venv env
+source env/bin/activate
+```
+3. install dependencies
+```bash
+pip install -r requirements.txt
+```
+4. install lemmatisation models
+```
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr
+```
+
+Now you can use SEG17
+
+* if you want to **split** your text
+```bash
+python3 level2to3.py path/to/file
+```
+* if you want to **split and normalize** your text
+```bash
+python3 level2to3.py -n path/to/file`
+``
+* if you want to **split and lemmatize**
+```bash
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file
+``
+* if you want to **split, normalize and lemmatize** your text
+`````bash
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/file
+```
 
 ## How it works
 
 ### The segmentation
 
-Using a XSL stylesheet, the script add XML-TEI tags to split the text in segments.
-For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), the script `seg.py` split the text in segments captured in `<seg>` elements.
+Using the `Level-2_to_level-3.xsl` XSL stylesheet, the script adds XML-TEI tags to split the text in segments (`<seg>`).
+For each `<p>`(paragraph) and `<l>`(line), using some poncuation marks (.;:!?), the script `level2to3.py` split the text in segments captured in `<seg>` elements.
 
-### The normalization
+### The normalization via NMT
 
-The text can be normalized using [_PARALLEL17_](https://github.com/e-ditiones/PARALLEL17).
+For the normalisation, we use [_PARALLEL17_](https://github.com/e-ditiones/PARALLEL17).
 
 
 ### The lemmazition
 
-The text can also be lemmatized using [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the modef "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)".
+For lemmatisation, we use [_Pie-extended_](https://github.com/hipster-philology/nlp-pie-taggers) and the "[fr](https://github.com/hipster-philology/nlp-pie-taggers/tree/f3dd5197cd0a70381e008ab8239d47aff04c9737/pie_extended/models/fr)" model.
 
-For now, lemmatization is only processed on the original transcription (`<orig>` or `<seg>` if the text isn't normalized).
+The original version, and not the normalised version, is lemmatised.
 
-The dictionnary used for the normalization of each token is based on [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
+### The normalisation via lemmas
+
+Using [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
+We offer an alternative normlisation, not seg-based but token-based. The script offer a normalised version for each token
+
 
 ## Examples
+
+### Processing level2to3.Py on XML-TEI files 
 
 Extract of the file to be processed (available [here](https://github.com/e-ditiones/SEG17/blob/master/Examples/EXP_0001_level-2_text.xml)) :
 
@@ -89,6 +123,68 @@ votre maison , puisque ce sont des ressentiments publiques .
 </p>
 ```
 The output file can be found [here](https://github.com/e-ditiones/SEG17/blob/master/Examples/EXP_0001_level-3_text.xml).
+
+### The dictionary
+
+Based on the dictionary provided in TEI by Morphalou, we created a new dictionary, in JSON, using [this script](https://github.com/e-ditiones/SEG17/blob/master/Dictionary/dico.py).
+
+For the entry "abbaye", you get :
+
+* in TEI :
+```xml
+<entry xml:id="e69">
+				<form type="lemma" corresp="morphalou2-tlf#ABBAYE{commonNoun} dela#abbaye{N+z1} dicollecte#abbaye{nom} lefff#abbaye{nc}">
+					<orth>abbaye</orth>
+					<pron>a b E i @</pron>
+					<gramGrp>
+						<pos>commonNoun</pos>
+						<gen>feminine</gen>
+					</gramGrp>
+				</form>
+				<form type="inflected" corresp="morphalou2-morphalou1#abbaye dela#abbaye dicollecte#abbaye lefff#abbaye">
+					<orth>abbaye</orth>
+					<pron>a b E i @</pron>
+					<gramGrp>
+						<number>singular</number>
+					</gramGrp>
+				</form>
+				<form type="inflected" corresp="morphalou2-morphalou1#abbayes dela#abbayes dicollecte#abbayes lefff#abbayes">
+					<orth>abbayes</orth>
+					<pron>a b E i</pron>
+					<gramGrp>
+						<number>plural</number>
+					</gramGrp>
+				</form>
+			</entry>
+```
+
+and, in JSON :
+
+```json
+"abbaye": 
+	{"id": "e69", 
+	"lemma": 
+		{"orth": "abbaye", 
+		"pron": "a b E i @", 
+		"gramGrp": 
+			{"pos": "commonNoun", 
+			"gen": "feminine"}}, 
+	"inflected": 
+		[
+			{"orth": "abbaye", 
+			"pron": "a b E i @", 
+			"gramGrp": 
+				{"number": "singular"}}, 
+			{"orth": "abbayes", 
+			"pron": "a b E i", 
+			"gramGrp": 
+				{"number": "plural"}
+			}
+		]
+	}
+```
+
+
 
 ## Credits
 
