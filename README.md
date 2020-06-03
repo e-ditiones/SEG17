@@ -160,33 +160,35 @@ For the entry "abbaye", you get :
 
 * in JSON :
 
-```yalm
-"abbaye":{
-   "id":"e69",
-   "lemma":{
-      "orth":"abbaye",
-      "pron":"a b E i @",
-      "gramGrp":{
-         "pos":"commonNoun",
-         "gen":"feminine"
-      }
-   },
-   "inflected":[
-      {
+```json
+{
+   "abbaye":{
+      "id":"e69",
+      "lemma":{
          "orth":"abbaye",
          "pron":"a b E i @",
          "gramGrp":{
-            "number":"singular"
+            "pos":"commonNoun",
+            "gen":"feminine"
          }
       },
-      {
-         "orth":"abbayes",
-         "pron":"a b E i",
-         "gramGrp":{
-            "number":"plural"
+      "inflected":[
+         {
+            "orth":"abbaye",
+            "pron":"a b E i @",
+            "gramGrp":{
+               "number":"singular"
+            }
+         },
+         {
+            "orth":"abbayes",
+            "pron":"a b E i",
+            "gramGrp":{
+               "number":"plural"
+            }
          }
-      }
-   ]
+      ]
+   }
 }
 ```
 
