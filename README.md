@@ -6,7 +6,8 @@ This script process segmentation, normalization and lemmatization of XML-TEI enc
 
 To use it, you just have to :
 * download this repository
-* install all the python librairies needed with `pip install -r requirements.txt`
+* create a virtual environment
+* in this virtual env, install all the python librairies needed with `pip install -r requirements.txt`
 * if you want to **split** your text, use `python3 level2to3.py path/to/file`
 * if you want to **split and normalize** your text, use `python3 level2to3.py -n path/to/file`
 * if you want to **split and lemmatize** your text, start to download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr` and then use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file`
@@ -33,10 +34,14 @@ The text can also be lemmatized using [_Pie-extended_](https://github.com/hipste
 
 For now, lemmatization is only processed on the original transcription (`<orig>` or `<seg>` if the text isn't normalized).
 
+The dictionnary used for the normalization of each token is based on [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
+
 
 ## Credits
 
 This repository is developed by Alexandre Bartz with the help of Simon Gabay, as part of the project [e-ditiones](https://github.com/e-ditiones).
+
+For the dictionnary : Analyse et traitement informatique de la langue française - UMR 7118 (ATILF) (2019). Morphalou [Lexique]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, https://hdl.handle.net/11403/morphalou/v3.1.
 
 ## Licences
 
