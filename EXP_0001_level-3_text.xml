@@ -42,19 +42,19 @@
                 <orig>cõme</orig>
                 <reg>cõme</reg>
               </w>
-              <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">
+              <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">
                 <orig>ie</orig>
                 <reg>ie</reg>
               </w>
-              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">
                 <orig>ſuis</orig>
-                <reg>été</reg>
+                <reg>suis</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="voûtre" pos="VERinf" msd="NOMB.=s">
+              <w lemma="votre" pos="VERinf" msd="NOMB.=s">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
@@ -70,7 +70,7 @@
                 <orig>humble</orig>
                 <reg>humble</reg>
               </w>
-              <w lemma="éeruiteur" pos="NOMcom" msd="NOMB.=s">
+              <w lemma="seruiteur" pos="NOMcom" msd="NOMB.=s">
                 <orig>ſeruiteur</orig>
                 <reg>ſeruiteur</reg>
               </w>
@@ -94,9 +94,9 @@
                 <orig>ie</orig>
                 <reg>ie</reg>
               </w>
-              <w lemma="fuer" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="être" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>fuſſe</orig>
-                <reg>fuſſe</reg>
+                <reg>été</reg>
               </w>
               <w lemma="mauvais" pos="NOMcom" msd="NOMB.=p">
                 <orig>mauuais</orig>
@@ -118,7 +118,7 @@
                 <orig>me</orig>
                 <reg>j'|je</reg>
               </w>
-              <w lemma="reivouir" pos="VERinf" msd="MORPH=empty">
+              <w lemma="résiouir" pos="VERinf" msd="MORPH=empty">
                 <orig>reſioüir</orig>
                 <reg>reſioüir</reg>
               </w>
@@ -130,7 +130,7 @@
                 <orig>des</orig>
                 <reg>des</reg>
               </w>
-              <w lemma="contetement" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="contetement" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>contẽtemens</orig>
                 <reg>contẽtemens</reg>
               </w>
@@ -138,11 +138,11 @@
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="voûtre" pos="NOMcom" msd="NOMB.=s">
+              <w lemma="votre" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
-              <w lemma="maison" pos="ADJqua" msd="NOMB.=s">
+              <w lemma="maison" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>maiſon</orig>
                 <reg>maison</reg>
               </w>
@@ -158,15 +158,15 @@
                 <orig>que</orig>
                 <reg>que</reg>
               </w>
-              <w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">
+              <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">
                 <orig>ce</orig>
-                <reg>ç'</reg>
+                <reg>c'|ç'</reg>
               </w>
-              <w lemma="être" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
-                <reg>été</reg>
+                <reg>sont|st</reg>
               </w>
-              <w lemma="un" pos="PRE.DETdef" msd="NOMB.=p">
+              <w lemma="un" pos="DETndf" msd="NOMB.=p">
                 <orig>des</orig>
                 <reg>unes|uns</reg>
               </w>
@@ -200,9 +200,9 @@ votre maison , puisque ce sont des ressentiments publiques .
                 <orig>auõs</orig>
                 <reg>auõs</reg>
               </w>
-              <w lemma="acevoir" pos="VERppe" msd="NOMB.=s">
+              <w lemma="savoir" pos="VERppe" msd="NOMB.=s">
                 <orig>ſçeu</orig>
-                <reg>ſçeu</reg>
+                <reg>su|sue</reg>
               </w>
               <w lemma="le" pos="DETdef" msd="NOMB.=s">
                 <orig>l’</orig>
@@ -212,7 +212,7 @@ votre maison , puisque ce sont des ressentiments publiques .
                 <orig>heureux</orig>
                 <reg>heureux</reg>
               </w>
-              <w lemma="succé" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="succès" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>ſuccés</orig>
                 <reg>ſuccés</reg>
               </w>
@@ -379,7 +379,7 @@ entreprendre :
                 <orig>le</orig>
                 <reg>il</reg>
               </w>
-              <w lemma="éervir" pos="VERinf" msd="NOMB.=s|GENRE=m">
+              <w lemma="servir" pos="VERinf" msd="NOMB.=s|GENRE=m">
                 <orig>ſeruir</orig>
                 <reg>ſeruir</reg>
               </w>
@@ -387,11 +387,11 @@ entreprendre :
                 <orig>en</orig>
                 <reg>en</reg>
               </w>
-              <w lemma="un" pos="PROind" msd="GENRE=f">
+              <w lemma="un" pos="DETind" msd="NOMB.=s|GENRE=f">
                 <orig>vne</orig>
-                <reg>une|unes</reg>
+                <reg>une</reg>
               </w>
-              <w lemma="occarion" pos="ADJqua" msd="NOMB.=s">
+              <w lemma="occasion" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>occaſion</orig>
                 <reg>occaſion</reg>
               </w>
@@ -411,15 +411,15 @@ entreprendre :
                 <orig>a</orig>
                 <reg>a</reg>
               </w>
-              <w lemma="ester" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſté</orig>
-                <reg>esté</reg>
+                <reg>été</reg>
               </w>
-              <w lemma="ou" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="si" pos="ADVgen" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
-              <w lemma="généralement" pos="ADVgen" msd="NOMB.=p">
+              <w lemma="généralement" pos="ADVgen" msd="NOMB.=p|GENRE=m">
                 <orig>generalement</orig>
                 <reg>generalement</reg>
               </w>
@@ -435,7 +435,7 @@ entreprendre :
                 <orig>que</orig>
                 <reg>que</reg>
               </w>
-              <w lemma="ii" pos="VERcjg" msd="MORPH=empty">
+              <w lemma="si" pos="CONsub" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
@@ -571,9 +571,9 @@ entreprendre :
                 <orig>n’</orig>
                 <reg>n’</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>est|fut|sera|était</reg>
+                <reg>est</reg>
               </w>
               <w lemma="pas" pos="ADVneg" msd="MORPH=empty">
                 <orig>pas</orig>
@@ -583,7 +583,7 @@ entreprendre :
                 <orig>la</orig>
                 <reg>la</reg>
               </w>
-              <w lemma="seule" pos="ADJind" msd="NOMB.=s|GENRE=f">
+              <w lemma="seule" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>ſeule</orig>
                 <reg>ſeule</reg>
               </w>
@@ -679,15 +679,15 @@ différence entre les hommes .
                 <orig>la</orig>
                 <reg>la</reg>
               </w>
-              <w lemma="puidance" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="puissance" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>puiſſance</orig>
                 <reg>puiſſance</reg>
               </w>
-              <w lemma="on" pos="PROper" msd="NOMB.=s">
+              <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
-                <reg>on</reg>
+                <reg>s'|se</reg>
               </w>
-              <w lemma="rencontrer" pos="VERppa" msd="MORPH=empty">
+              <w lemma="rencontrer" pos="VERppa" msd="MODE=con|PERS.=3">
                 <orig>rencontrant</orig>
                 <reg>rencontrant</reg>
               </w>
@@ -699,7 +699,7 @@ différence entre les hommes .
                 <orig>meſme</orig>
                 <reg>meſme</reg>
               </w>
-              <w lemma="coûté" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="côté" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>coſté</orig>
                 <reg>coſté</reg>
               </w>
@@ -719,9 +719,9 @@ différence entre les hommes .
                 <orig>des</orig>
                 <reg>des</reg>
               </w>
-              <w lemma="cho" pos="NOMcom" msd="NOMB.=p|GENRE=f">
+              <w lemma="chose" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>choſes</orig>
-                <reg>choſes</reg>
+                <reg>choses</reg>
               </w>
               <w lemma="ne" pos="ADVneg" msd="MORPH=empty">
                 <orig>ne</orig>
@@ -743,7 +743,7 @@ différence entre les hommes .
                 <orig>nous</orig>
                 <reg>nous</reg>
               </w>
-              <w lemma="déeron" pos="VERcjg" msd="MODE=sub|TEMPS=pst|NOMB.=p">
+              <w lemma="désirer" pos="VERcjg" msd="MODE=sub|TEMPS=pst|NOMB.=p">
                 <orig>deſirons</orig>
                 <reg>deſirons</reg>
               </w>
@@ -792,7 +792,7 @@ Puis du même côté , l " événement des choses ne soit celui que nous aider ;
                 <orig>auez</orig>
                 <reg>aurez|avez|aviez|eûtes</reg>
               </w>
-              <w lemma="desia" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="déjà" pos="VERcjg" msd="MORPH=empty">
                 <orig>deſia</orig>
                 <reg>deſia</reg>
               </w>
@@ -864,7 +864,7 @@ Puis du même côté , l " événement des choses ne soit celui que nous aider ;
                 <orig>l’</orig>
                 <reg>la|le</reg>
               </w>
-              <w lemma="estat" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="état" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Eſtat</orig>
                 <reg>Eſtat</reg>
               </w>
@@ -880,25 +880,25 @@ Puis du même côté , l " événement des choses ne soit celui que nous aider ;
                 <orig>pas</orig>
                 <reg>pas</reg>
               </w>
-              <w lemma="ester" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſté</orig>
-                <reg>esté</reg>
+                <reg>été</reg>
               </w>
-              <w lemma="iucque" pos="ADVgen" msd="NOMB.=s|GENRE=f">
+              <w lemma="iusque" pos="ADVgen" msd="NOMB.=p|GENRE=f">
                 <orig>iuſques</orig>
                 <reg>iuſques</reg>
               </w>
-              <w lemma="ici" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="ici" pos="ADVgen" msd="NOMB.=s|GENRE=f">
                 <orig>icy</orig>
                 <reg>icy</reg>
               </w>
-              <w lemma="oi" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="si" pos="ADVgen" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
-              <w lemma="connidérable" pos="ADJqua" msd="NOMB.=p|GENRE=f">
+              <w lemma="considérable" pos="ADJqua" msd="NOMB.=p|GENRE=f">
                 <orig>conſiderables</orig>
-                <reg>conſiderables</reg>
+                <reg>considérables</reg>
               </w>
               <w lemma="par" pos="PRE" msd="MORPH=empty">
                 <orig>par</orig>
@@ -979,11 +979,11 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
                 <orig>]</orig>
                 <reg>]</reg>
               </w>
-              <w lemma="maintent" pos="ADVgen" msd="MODE=imp|NOMB.=p">
+              <w lemma="maintent" pos="ADJqua" msd="MODE=imp|NOMB.=s">
                 <orig>Maintenãt</orig>
                 <reg>Maintenãt</reg>
               </w>
-              <w lemma="monergneur" pos="VERinf" msd="MORPH=empty">
+              <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
                 <reg>Monſeigneur</reg>
               </w>
@@ -995,9 +995,9 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
                 <orig>il</orig>
                 <reg>il</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>est|fut|sera|était</reg>
+                <reg>est</reg>
               </w>
               <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>temps</orig>
@@ -1059,7 +1059,7 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
                 <orig>par</orig>
                 <reg>par|pars</reg>
               </w>
-              <w lemma="dessus" pos="NOMcom" msd="NOMB.=p">
+              <w lemma="dessus" pos="PRE" msd="MORPH=empty">
                 <orig>deſſus</orig>
                 <reg>deſſus</reg>
               </w>
@@ -1067,7 +1067,7 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
                 <orig>le</orig>
                 <reg>le</reg>
               </w>
-              <w lemma="rete" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="reste" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>reſte</orig>
                 <reg>reſte</reg>
               </w>
@@ -1113,7 +1113,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>vous</orig>
                 <reg>vous</reg>
               </w>
-              <w lemma="éoudenir" pos="VERinf" msd="MORPH=empty">
+              <w lemma="souuenir" pos="VERinf" msd="MORPH=empty">
                 <orig>ſouuenir</orig>
                 <reg>ſouuenir</reg>
               </w>
@@ -1125,9 +1125,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>qu’</orig>
                 <reg>qu’</reg>
               </w>
-              <w lemma="ester" pos="VERppa" msd="NOMB.=p">
+              <w lemma="être" pos="VERppa" msd="MORPH=empty">
                 <orig>eſtant</orig>
-                <reg>eſtant</reg>
+                <reg>étant</reg>
               </w>
               <w lemma="las" pos="ADJqua" msd="GENRE=m">
                 <orig>las</orig>
@@ -1137,9 +1137,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>des</orig>
                 <reg>des</reg>
               </w>
-              <w lemma="choe" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="chose" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>choſes</orig>
-                <reg>choſes</reg>
+                <reg>choses</reg>
               </w>
               <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">
                 <orig>du</orig>
@@ -1157,9 +1157,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>&amp;</orig>
                 <reg>&amp;</reg>
               </w>
-              <w lemma="elloigner" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="éloigner" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſloigné</orig>
-                <reg>eſloigné</reg>
+                <reg>éloigné</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -1205,9 +1205,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>pas</orig>
                 <reg>pas</reg>
               </w>
-              <w lemma="etter" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſté</orig>
-                <reg>eſté</reg>
+                <reg>été</reg>
               </w>
               <w lemma="chercher" pos="VERinf" msd="MORPH=empty">
                 <orig>chercher</orig>
@@ -1229,11 +1229,11 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="voûtre" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="votre" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
-              <w lemma="maison" pos="ADJqua" msd="NOMB.=s">
+              <w lemma="maison" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>maiſon</orig>
                 <reg>maison</reg>
               </w>
@@ -1277,7 +1277,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>Roy</orig>
                 <reg>Roy</reg>
               </w>
-              <w lemma="oi" pos="VERcjg" msd="NOMB.=s|GENRE=m">
+              <w lemma="si" pos="CONsub" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
@@ -1289,9 +1289,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>n’</orig>
                 <reg>n’</reg>
               </w>
-              <w lemma="ettenir" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="PERS.=2|NOMB.=p">
                 <orig>eſtiez</orig>
-                <reg>eſtiez</reg>
+                <reg>fussiez|fûtes|serez|seriez|soyez|soyez|étiez|êtes</reg>
               </w>
               <w lemma="celui" pos="VERppe" msd="NOMB.=s">
                 <orig>celuy</orig>
@@ -1325,7 +1325,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>le</orig>
                 <reg>le</reg>
               </w>
-              <w lemma="retiblièment" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="restablissement" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>reſtabliſſement</orig>
                 <reg>reſtabliſſement</reg>
               </w>
@@ -1333,9 +1333,9 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="le" pos="DETind" msd="NOMB.=p|GENRE=f">
+              <w lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=f">
                 <orig>ſes</orig>
-                <reg>les</reg>
+                <reg>ſes</reg>
               </w>
               <w lemma="affaire" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>affaires</orig>
@@ -1410,9 +1410,9 @@ affaires .
                 <orig>veuille</orig>
                 <reg>veuille</reg>
               </w>
-              <w lemma="respondrer" pos="VERinf" msd="MORPH=empty">
+              <w lemma="répondre" pos="VERinf" msd="MORPH=empty">
                 <orig>reſpondre</orig>
-                <reg>reſpondre</reg>
+                <reg>répondre</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -1450,7 +1450,7 @@ affaires .
                 <orig>ie</orig>
                 <reg>j'|je</reg>
               </w>
-              <w lemma="condidérer" pos="VERinf" msd="MORPH=empty">
+              <w lemma="considérer" pos="VERinf" msd="NOMB.=s">
                 <orig>conſidere</orig>
                 <reg>conſidere</reg>
               </w>
@@ -1458,15 +1458,15 @@ affaires .
                 <orig>les</orig>
                 <reg>les</reg>
               </w>
-              <w lemma="actios" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="actif" pos="NOMcom" msd="NOMB.=p|GENRE=m">
                 <orig>actiõs</orig>
-                <reg>actiõs</reg>
+                <reg>actifs</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="voûtre" pos="DETind" msd="NOMB.=s|GENRE=f">
+              <w lemma="votre" pos="DETind" msd="NOMB.=s|GENRE=f">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
@@ -1478,9 +1478,9 @@ affaires .
                 <orig>qui</orig>
                 <reg>qui</reg>
               </w>
-              <w lemma="avoir" pos="VERcjg" msd="MODE=ind|NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
-                <reg>aurez|aurons|auront|avaient|avez|aviez|avions|avons|eurent|eûmes|eûtes|ont</reg>
+                <reg>sont|st</reg>
               </w>
               <w lemma="tel" pos="ADJind" msd="NOMB.=p|GENRE=f">
                 <orig>telles</orig>
@@ -1566,7 +1566,7 @@ affaires .
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="que" pos="CONsub" msd="MORPH=empty">
+              <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
                 <reg>qu’</reg>
               </w>
@@ -1574,17 +1574,17 @@ affaires .
                 <orig>il</orig>
                 <reg>il</reg>
               </w>
-              <w lemma="embler" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">
+              <w lemma="sembler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>ſemble</orig>
-                <reg>embla|emblait|emble|emblera</reg>
+                <reg>semble</reg>
               </w>
               <w lemma="à_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">
                 <orig>aux</orig>
                 <reg>aux</reg>
               </w>
-              <w lemma="ettranger" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="étranger" pos="NOMcom" msd="NOMB.=p|GENRE=m">
                 <orig>eſtrangers</orig>
-                <reg>eſtrangers</reg>
+                <reg>étrangers</reg>
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
@@ -1614,7 +1614,7 @@ affaires .
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="noter|nortrer" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="notre" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>noſtre</orig>
                 <reg>noſtre</reg>
               </w>
@@ -1630,13 +1630,13 @@ affaires .
                 <orig>ie</orig>
                 <reg>ie</reg>
               </w>
-              <w lemma="pendre|pener" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="penser" pos="VERcjg" msd="MODE=sub|PERS.=3|NOMB.=s">
                 <orig>penſe</orig>
                 <reg>penſe</reg>
               </w>
-              <w lemma="pouvoir" pos="VERinf" msd="NOMB.=s">
+              <w lemma="pouvoir" pos="VERinf" msd="MORPH=empty">
                 <orig>pouuoir</orig>
-                <reg>pouuoir</reg>
+                <reg>pouvoir</reg>
               </w>
               <w lemma="dire" pos="VERinf" msd="MORPH=empty">
                 <orig>dire</orig>
@@ -1682,9 +1682,9 @@ affaires .
                 <orig>quelque</orig>
                 <reg>quelque</reg>
               </w>
-              <w lemma="choe" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="chose" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>choſe</orig>
-                <reg>choſe</reg>
+                <reg>chose</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -1738,15 +1738,15 @@ affaires .
                 <orig>que</orig>
                 <reg>que</reg>
               </w>
-              <w lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">
+              <w lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">
                 <orig>ce</orig>
-                <reg>ç'</reg>
+                <reg>c'|ç'</reg>
               </w>
-              <w lemma="être" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>ſoit</orig>
-                <reg>été</reg>
+                <reg>ſoit</reg>
               </w>
-              <w lemma="un" pos="PRE.DETdef" msd="MORPH=empty">
+              <w lemma="un" pos="PROadv" msd="MORPH=empty">
                 <orig>vn</orig>
                 <reg>un|une|unes|uns</reg>
               </w>
@@ -1798,9 +1798,9 @@ autre que vous qui l' entreprenne .
                 <orig>auez</orig>
                 <reg>aurez|avez|aviez|eûtes</reg>
               </w>
-              <w lemma="poder" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="posséder" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>poſſedé</orig>
-                <reg>poſſedé</reg>
+                <reg>possédé</reg>
               </w>
               <w lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">
                 <orig>les</orig>
@@ -1838,13 +1838,13 @@ autre que vous qui l' entreprenne .
                 <orig>qui</orig>
                 <reg>qui</reg>
               </w>
-              <w lemma="il" pos="PROper" msd="PERS.=3">
+              <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
-                <reg>elle|elles|il|ils</reg>
+                <reg>s'|se</reg>
               </w>
-              <w lemma="pouvoir" pos="VERcjg" msd="PERS.=3|NOMB.=p">
+              <w lemma="pouvoir" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=p">
                 <orig>peuuent</orig>
-                <reg>peuvent|pourraient|pourront|pouvaient|puissent|purent|pussent</reg>
+                <reg>peuvent|pourront|pouvaient|purent</reg>
               </w>
               <w lemma="perdre" pos="VERinf" msd="MORPH=empty">
                 <orig>perdre</orig>
@@ -1882,9 +1882,9 @@ autre que vous qui l' entreprenne .
                 <orig>leur</orig>
                 <reg>leur</reg>
               </w>
-              <w lemma="pas" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="passif" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>paſſiõ</orig>
-                <reg>paſſiõ</reg>
+                <reg>passif</reg>
               </w>
               <w lemma="devoir" pos="VERcjg" msd="NOMB.=p">
                 <orig>deuſt</orig>
@@ -1902,7 +1902,7 @@ autre que vous qui l' entreprenne .
                 <orig>que</orig>
                 <reg>que</reg>
               </w>
-              <w lemma="voûtre" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="votre" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
@@ -1944,9 +1944,9 @@ innocence ;
                 <orig>vous</orig>
                 <reg>vous</reg>
               </w>
-              <w lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">
+              <w lemma="avoir" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p">
                 <orig>auiez</orig>
-                <reg>avez</reg>
+                <reg>aurez|avez|aviez|eûtes</reg>
               </w>
               <w lemma="acquérir" pos="ADVsub" msd="MORPH=empty">
                 <orig>acquiſe</orig>
@@ -1956,7 +1956,7 @@ innocence ;
                 <orig>par</orig>
                 <reg>par|pars</reg>
               </w>
-              <w lemma="voûtre" pos="VERinf" msd="NOMB.=s">
+              <w lemma="votre" pos="VERinf" msd="NOMB.=s">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
@@ -1984,7 +1984,7 @@ innocence ;
                 <orig>depuis</orig>
                 <reg>depuis</reg>
               </w>
-              <w lemma="toujiour" pos="NOMcom" msd="NOMB.=p">
+              <w lemma="tousiour" pos="NOMcom" msd="NOMB.=p">
                 <orig>touſiours</orig>
                 <reg>touſiours</reg>
               </w>
@@ -1996,7 +1996,7 @@ innocence ;
                 <orig>par</orig>
                 <reg>par|pars</reg>
               </w>
-              <w lemma="voutre" pos="ADJqua" msd="NOMB.=s">
+              <w lemma="votre" pos="ADJqua" msd="NOMB.=s">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
@@ -2053,7 +2053,7 @@ depuis toujours maintenue par votre courage .
                 <orig>l’</orig>
                 <reg>la|le</reg>
               </w>
-              <w lemma="veurpation" pos="NOMcom" msd="NOMB.=s">
+              <w lemma="vsurpation" pos="NOMcom" msd="NOMB.=s">
                 <orig>vſurpation</orig>
                 <reg>vſurpation</reg>
               </w>
@@ -2069,7 +2069,7 @@ depuis toujours maintenue par votre courage .
                 <orig>puiſſance</orig>
                 <reg>puiſſance</reg>
               </w>
-              <w lemma="légitime" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="légitime" pos="VERcjg" msd="NOMB.=s|GENRE=f">
                 <orig>legitime</orig>
                 <reg>légitime</reg>
               </w>
@@ -2081,7 +2081,7 @@ depuis toujours maintenue par votre courage .
                 <orig>auez</orig>
                 <reg>aurez|avez|aviez|eûtes</reg>
               </w>
-              <w lemma="connerver" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="conseruer" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>conſerué</orig>
                 <reg>conſerué</reg>
               </w>
@@ -2089,7 +2089,7 @@ depuis toujours maintenue par votre courage .
                 <orig>tout</orig>
                 <reg>tout|tt</reg>
               </w>
-              <w lemma="seul" pos="DETind" msd="NOMB.=s|GENRE=f">
+              <w lemma="seul" pos="ADJqua" msd="NOMB.=s|GENRE=m">
                 <orig>ſeul</orig>
                 <reg>ſeul</reg>
               </w>
@@ -2130,9 +2130,9 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
                 <orig>Qui</orig>
                 <reg>Qui</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>es|est|fus|fusse|fusses|fut|fût|sera|serai|serais|serait|seras|sois|sois|soit|suis|étais|était|été|fussé|sois|étais|fus|serais</reg>
+                <reg>est</reg>
               </w>
               <w lemma="-ce" pos="PROdem" msd="NOMB.=s|GENRE=n">
                 <orig>-ce</orig>
@@ -2158,7 +2158,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="foi" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="se" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>ſoy</orig>
                 <reg>ſoy</reg>
               </w>
@@ -2178,9 +2178,9 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
                 <orig>Où</orig>
                 <reg>Où</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
-                <reg>furent|fussent|fussiez|fussions|fûmes|fûtes|seraient|serez|seriez|serions|serons|seront|soient|sommes|sont|soyez|soyez|soyons|soyons|étaient|étiez|étions|êtes|été|st</reg>
+                <reg>sont|st</reg>
               </w>
               <w lemma="celui" pos="PROdem" msd="NOMB.=p|GENRE=m">
                 <orig>ceux</orig>
@@ -2190,13 +2190,13 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
                 <orig>qui</orig>
                 <reg>qui</reg>
               </w>
-              <w lemma="il" pos="PROper" msd="MORPH=empty">
+              <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
-                <reg>elle|elles|il|ils</reg>
+                <reg>s'|se</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
-                <reg>furent|fussent|fussiez|fussions|fûmes|fûtes|seraient|serez|seriez|serions|serons|seront|soient|sommes|sont|soyez|soyez|soyons|soyons|étaient|étiez|étions|êtes|été|st</reg>
+                <reg>sont|st</reg>
               </w>
               <w lemma="tenir" pos="VERppe" msd="NOMB.=p|GENRE=m">
                 <orig>tenus</orig>
@@ -2226,7 +2226,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
                 <orig>la</orig>
                 <reg>la</reg>
               </w>
-              <w lemma="écuitude" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="séruitude" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>ſeruitude</orig>
                 <reg>ſeruitude</reg>
               </w>
@@ -2263,25 +2263,25 @@ rébellion et la servitude ?
                 <orig>t’</orig>
                 <reg>tu</reg>
               </w>
-              <w lemma="o" pos="PROadv" msd="MORPH=empty">
+              <w lemma="y" pos="PROadv" msd="MORPH=empty">
                 <orig>õ</orig>
-                <reg>o</reg>
+                <reg>y</reg>
               </w>
               <w lemma="voir" pos="VERppe" msd="NOMB.=s">
                 <orig>veu</orig>
                 <reg>veu</reg>
               </w>
-              <w lemma="un" pos="VERppe" msd="MORPH=empty">
+              <w lemma="un" pos="ADJqua" msd="GENRE=f">
                 <orig>vne</orig>
-                <reg>vne</reg>
+                <reg>une|unes</reg>
               </w>
-              <w lemma="vieille" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="vieillesse" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>vieilleſſe</orig>
                 <reg>vieilleſſe</reg>
               </w>
-              <w lemma="oui" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="si" pos="ADVgen" msd="MORPH=empty">
                 <orig>ſi</orig>
-                <reg>oui</reg>
+                <reg>ſi</reg>
               </w>
               <w lemma="nécessaire" pos="VERinf" msd="NOMB.=s">
                 <orig>neceſſaire</orig>
@@ -2352,7 +2352,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
         <seg>
           <choice>
             <orig>
-              <w lemma="monergneur" pos="VERinf" msd="NOMB.=s">
+              <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
                 <reg>Monſeigneur</reg>
               </w>
@@ -2376,7 +2376,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="cognais" pos="NOMcom" msd="GENRE=f">
+              <w lemma="connaissance" pos="NOMcom" msd="GENRE=f">
                 <orig>cognoiſſance</orig>
                 <reg>cognoiſſance</reg>
               </w>
@@ -2388,17 +2388,17 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
                 <orig>vous</orig>
                 <reg>vous</reg>
               </w>
-              <w lemma="même" pos="ADJind" msd="NOMB.=s">
+              <w lemma="même" pos="ADJind" msd="NOMB.=p">
                 <orig>meſme</orig>
-                <reg>même</reg>
+                <reg>mêmes</reg>
               </w>
               <w lemma="pour" pos="PRE" msd="MORPH=empty">
                 <orig>pour</orig>
                 <reg>pour|pours</reg>
               </w>
-              <w lemma="pener" pos="VERinf" msd="MORPH=empty">
+              <w lemma="penser" pos="VERinf" msd="MORPH=empty">
                 <orig>penſer</orig>
-                <reg>penſer</reg>
+                <reg>penser</reg>
               </w>
               <w lemma="que" pos="CONsub" msd="MORPH=empty">
                 <orig>que</orig>
@@ -2432,17 +2432,17 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
                 <orig>humeur</orig>
                 <reg>humeur</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>es|est|fus|fusse|fusses|fut|fût|sera|serai|serais|serait|seras|sois|sois|soit|suis|étais|était|été|fussé|sois|étais|fus|serais</reg>
+                <reg>est</reg>
               </w>
-              <w lemma="ou" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="si" pos="ADVgen" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
-              <w lemma="elloigner" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="éloigner" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>eſloignee</orig>
-                <reg>eſloignee</reg>
+                <reg>éloignée</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -2456,7 +2456,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
                 <orig>action</orig>
                 <reg>action</reg>
               </w>
-              <w lemma="éeruile" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="seruile" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>ſeruile</orig>
                 <reg>ſeruile</reg>
               </w>
@@ -2516,7 +2516,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
                 <orig>ma</orig>
                 <reg>ma|mes|mon</reg>
               </w>
-              <w lemma="cyccience" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="cyscience" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>cõſcience</orig>
                 <reg>cõſcience</reg>
               </w>
@@ -2554,7 +2554,7 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>la</orig>
                 <reg>la</reg>
               </w>
-              <w lemma="orte" pos="NOMcom" msd="NOMB.=s|GENRE=f">
+              <w lemma="sorte" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>ſorte</orig>
                 <reg>ſorte</reg>
               </w>
@@ -2566,11 +2566,11 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>le</orig>
                 <reg>le</reg>
               </w>
-              <w lemma="seul" pos="NOMcom" msd="NOMB.=s|GENRE=m">
+              <w lemma="seul" pos="ADJqua" msd="NOMB.=s|GENRE=m">
                 <orig>ſeul</orig>
                 <reg>ſeul</reg>
               </w>
-              <w lemma="intérer" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="intérêt" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>intereſt</orig>
                 <reg>intereſt</reg>
               </w>
@@ -2594,7 +2594,7 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>&amp;</orig>
                 <reg>&amp;</reg>
               </w>
-              <w lemma="ii" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="si" pos="CONsub" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
@@ -2606,9 +2606,9 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>n’</orig>
                 <reg>n’</reg>
               </w>
-              <w lemma="etter" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="PERS.=3|NOMB.=s">
                 <orig>eſtoit</orig>
-                <reg>eſtoit</reg>
+                <reg>est|fut|fût|sera|serait|soit|était</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -2618,7 +2618,7 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>noſtre</orig>
                 <reg>noſtre</reg>
               </w>
-              <w lemma="coûté" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="côté" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>coſté</orig>
                 <reg>coſté</reg>
               </w>
@@ -2638,7 +2638,7 @@ donner pour me faire rien dire contre ma conscience .
                 <orig>irois</orig>
                 <reg>aille|ailles|alla|allai|allais|allait|allas|allasse|allasses|allât|ira|irai|irais|irait|iras|va|vais|vas|allé|allée|va|aille|allais|irais</reg>
               </w>
-              <w lemma="plutôtuer" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="plutôt" pos="ADVgen" msd="NOMB.=p">
                 <orig>pluſtoſt</orig>
                 <reg>pluſtoſt</reg>
               </w>
@@ -2708,7 +2708,7 @@ les ennemis , afin de lui rendre ce qu' elle mérite .
         <seg>
           <choice>
             <orig>
-              <w lemma="per" pos="NOMcom" msd="NOMB.=s">
+              <w lemma="personné" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>Perſonne</orig>
                 <reg>Perſonne</reg>
               </w>
@@ -2894,17 +2894,17 @@ faire fortune en Hollande :
                 <orig>comme</orig>
                 <reg>comme</reg>
               </w>
-              <w lemma="oi" pos="VERcjg" msd="MORPH=empty">
+              <w lemma="si" pos="CONsub" msd="MORPH=empty">
                 <orig>ſi</orig>
                 <reg>ſi</reg>
               </w>
-              <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">
+              <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">
                 <orig>i’</orig>
                 <reg>i’</reg>
               </w>
-              <w lemma="etter" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=p|GENRE=m">
                 <orig>eſtois</orig>
-                <reg>eſtois</reg>
+                <reg>été</reg>
               </w>
               <w lemma="un" pos="PRE.DETdef" msd="NOMB.=p">
                 <orig>des</orig>
@@ -2960,7 +2960,7 @@ deux partis contraires en même temps :
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="monergneur" pos="VERinf" msd="NOMB.=s">
+              <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
                 <reg>Monſeigneur</reg>
               </w>
@@ -2968,13 +2968,13 @@ deux partis contraires en même temps :
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="je" pos="PROper" msd="NOMB.=s">
+              <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">
                 <orig>ie</orig>
-                <reg>j'|je</reg>
+                <reg>ie</reg>
               </w>
-              <w lemma="pendre" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="penser" pos="VERcjg" msd="MODE=sub|PERS.=3|NOMB.=s">
                 <orig>penſe</orig>
-                <reg>pend|pendais|pendait|pende|pendes|pendis|pendisse|pendisses|pendit|pendra|pendrai|pendrais|pendrait|pendras|pends|pends|pendît|pendu|pendue|pende|pends|pendais|pendis|pendrais</reg>
+                <reg>penſe</reg>
               </w>
               <w lemma="avoir" pos="VERinf" msd="MORPH=empty">
                 <orig>auoir</orig>
@@ -3028,7 +3028,7 @@ deux partis contraires en même temps :
                 <orig>mettre</orig>
                 <reg>mettre</reg>
               </w>
-              <w lemma="ennemble" pos="ADJqua" msd="NOMB.=s|GENRE=f">
+              <w lemma="ensemble" pos="ADVgen" msd="MORPH=empty">
                 <orig>enſemble</orig>
                 <reg>enſemble</reg>
               </w>
@@ -3048,9 +3048,9 @@ deux partis contraires en même temps :
                 <orig>rares</orig>
                 <reg>rares</reg>
               </w>
-              <w lemma="choe" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="chose" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>choſes</orig>
-                <reg>choſes</reg>
+                <reg>choses</reg>
               </w>
               <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">
                 <orig>du</orig>
@@ -3068,15 +3068,15 @@ deux partis contraires en même temps :
                 <orig>c’</orig>
                 <reg>c'|ç'</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>es|est|fus|fusse|fusses|fut|fût|sera|serai|serais|serait|seras|sois|sois|soit|suis|étais|était|été|fussé|sois|étais|fus|serais</reg>
+                <reg>est</reg>
               </w>
               <w lemma="à" pos="PRE" msd="MORPH=empty">
                 <orig>à</orig>
                 <reg>à</reg>
               </w>
-              <w lemma="cauvoir" pos="VERinf" msd="NOMB.=s">
+              <w lemma="savoir" pos="VERinf" msd="NOMB.=s">
                 <orig>ſçauoir</orig>
                 <reg>ſçauoir</reg>
               </w>
@@ -3116,7 +3116,7 @@ deux partis contraires en même temps :
                 <orig>auez</orig>
                 <reg>aurez|avez|aviez|eûtes</reg>
               </w>
-              <w lemma="tousiour" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="tousiours" pos="ADVgen" msd="NOMB.=s">
                 <orig>touſiours</orig>
                 <reg>touſiours</reg>
               </w>
@@ -3192,7 +3192,7 @@ deux partis contraires en même temps :
                 <orig>de</orig>
                 <reg>de</reg>
               </w>
-              <w lemma="monergneur" pos="VERinf" msd="NOMB.=s">
+              <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
                 <reg>Monſeigneur</reg>
               </w>
@@ -3204,11 +3204,11 @@ deux partis contraires en même temps :
                 <orig>Cardinal</orig>
                 <reg>cardinal</reg>
               </w>
-              <w lemma="voûtre" pos="ADJqua" msd="NOMB.=s">
+              <w lemma="votre" pos="ADJqua" msd="NOMB.=s">
                 <orig>voſtre</orig>
                 <reg>voſtre</reg>
               </w>
-              <w lemma="fils" pos="NOMpro" msd="NOMB.=s|GENRE=m">
+              <w lemma="fil" pos="NOMpro" msd="NOMB.=s|GENRE=m">
                 <orig>Fils</orig>
                 <reg>Fils</reg>
               </w>
@@ -3240,7 +3240,7 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>qu’</orig>
                 <reg>qu’</reg>
               </w>
-              <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
+              <w lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
                 <orig>il</orig>
                 <reg>il</reg>
               </w>
@@ -3248,9 +3248,9 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>en</orig>
                 <reg>en</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="PERS.=3|NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>ſoit</orig>
-                <reg>est|fut|fût|sera|serait|soit|était</reg>
+                <reg>ſoit</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -3264,9 +3264,9 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>vous</orig>
                 <reg>vous</reg>
               </w>
-              <w lemma="upplier" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="supplier" pos="VERcjg" msd="NOMB.=s">
                 <orig>ſupplie</orig>
-                <reg>ſupplie</reg>
+                <reg>supplia|suppliai|suppliais|suppliait|supplias|suppliasse|suppliasses|supplie|supplie|supplie|supplie|suppliera|supplierai|supplierais|supplierait|supplieras|supplies|supplies|suppliât|supplié|suppliée|supplie|suppliais|supplierais</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -3288,13 +3288,13 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>affection</orig>
                 <reg>affection</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
-                <reg>es|est|fus|fusse|fusses|fut|fût|sera|serai|serais|serait|seras|sois|sois|soit|suis|étais|était|été|fussé|sois|étais|fus|serais</reg>
+                <reg>est</reg>
               </w>
-              <w lemma="tout" pos="ADVgen" msd="NOMB.=s|GENRE=f">
+              <w lemma="tout" pos="ADVgen" msd="NOMB.=s">
                 <orig>toute</orig>
-                <reg>toute|tte</reg>
+                <reg>tout|toute|tt|tte</reg>
               </w>
               <w lemma="pur" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>pure</orig>
@@ -3316,7 +3316,7 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>mes</orig>
                 <reg>mes</reg>
               </w>
-              <w lemma="intéret" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="intérêt" pos="NOMcom" msd="NOMB.=p|GENRE=m">
                 <orig>intereſts</orig>
                 <reg>intereſts</reg>
               </w>
@@ -3324,13 +3324,13 @@ Monseigneur le Cardinal votre Fils ;
                 <orig>ne</orig>
                 <reg>ne</reg>
               </w>
-              <w lemma="'e" pos="VERcjg" msd="PERS.=3">
+              <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
-                <reg>ſe</reg>
+                <reg>s'|se</reg>
               </w>
-              <w lemma="mettre" pos="VERcjg" msd="NOMB.=s">
+              <w lemma="mêler" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">
                 <orig>meſlent</orig>
-                <reg>met|mets|mets|mettais|mettait|mette|mettes|mettra|mettrai|mettrais|mettrait|mettras|mis|misse|misses|mit|mît|mis|mise|mette|mets|mettais|mis|mettrais</reg>
+                <reg>mêla|mêlait|mêle|mêlera</reg>
               </w>
               <w lemma="point" pos="ADVneg" msd="MORPH=empty">
                 <orig>point</orig>
@@ -3386,9 +3386,9 @@ point avec elle :
                 <orig>auoir</orig>
                 <reg>avoir</reg>
               </w>
-              <w lemma="erruire" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="servir" pos="ADVgen" msd="NOMB.=s">
                 <orig>ſeruy</orig>
-                <reg>ſeruy</reg>
+                <reg>sers|sers|sert|servais|servait|serve|serves|servira|servirai|servirais|servirait|serviras|servis|servisse|servisses|servit|servît|servi|servie|serve|sers|servais|servis|servirais</reg>
               </w>
               <w lemma="en" pos="PRE" msd="MORPH=empty">
                 <orig>en</orig>
@@ -3402,7 +3402,7 @@ point avec elle :
                 <orig>mauuaiſe</orig>
                 <reg>mauuaiſe</reg>
               </w>
-              <w lemma="saion" pos="NOMcom" msd="NOMB.=s">
+              <w lemma="saison" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>ſaiſon</orig>
                 <reg>ſaiſon</reg>
               </w>
@@ -3422,9 +3422,9 @@ point avec elle :
                 <orig>auoir</orig>
                 <reg>auoir</reg>
               </w>
-              <w lemma="ester" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſté</orig>
-                <reg>esté</reg>
+                <reg>été</reg>
               </w>
               <w lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">
                 <orig>du</orig>
@@ -3458,9 +3458,9 @@ point avec elle :
                 <orig>que</orig>
                 <reg>que</reg>
               </w>
-              <w lemma="je" pos="ADVgen" msd="NOMB.=s">
+              <w lemma="je" pos="ADVgen" msd="NOMB.=s|GENRE=f">
                 <orig>ie</orig>
-                <reg>j'|je</reg>
+                <reg>ie</reg>
               </w>
               <w lemma="croire" pos="VERppe" msd="NOMB.=p|GENRE=m">
                 <orig>croyois</orig>
@@ -3486,9 +3486,9 @@ point avec elle :
                 <orig>plus</orig>
                 <reg>plus</reg>
               </w>
-              <w lemma="honnent" pos="ADJqua" msd="NOMB.=s|GENRE=m">
+              <w lemma="honnête" pos="ADJqua" msd="NOMB.=s|GENRE=m">
                 <orig>honneſte</orig>
-                <reg>honneſte</reg>
+                <reg>honnête</reg>
               </w>
               <w lemma=":" pos="PONfbl" msd="MORPH=empty">
                 <orig>:</orig>
@@ -3559,7 +3559,7 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
                 <orig>les</orig>
                 <reg>les</reg>
               </w>
-              <w lemma="raison" pos="NOMcom" msd="NOMB.=p|GENRE=m">
+              <w lemma="raison" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>raiſons</orig>
                 <reg>raiſons</reg>
               </w>
@@ -3611,9 +3611,9 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="euter" pos="VERcjg" msd="NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="NOMB.=p">
                 <orig>eſtãt</orig>
-                <reg>eſtãt</reg>
+                <reg>furent|fussent|fussiez|fussions|fûmes|fûtes|seraient|serez|seriez|serions|serons|seront|soient|sommes|sont|soyez|soyez|soyons|soyons|étaient|étiez|étions|êtes|été|st</reg>
               </w>
               <w lemma="encore" pos="ADVgen" msd="MORPH=empty">
                 <orig>encore</orig>
@@ -3631,13 +3631,13 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="ie" pos="PROper" msd="NOMB.=s|GENRE=m">
+              <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">
                 <orig>Ie</orig>
                 <reg>Ie</reg>
               </w>
-              <w lemma="être" pos="VERcjg" msd="NOMB.=p">
+              <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">
                 <orig>ſuis</orig>
-                <reg>furent|fussent|fussiez|fussions|fûmes|fûtes|seraient|serez|seriez|serions|serons|seront|soient|sommes|sont|soyez|soyez|soyons|soyons|étaient|étiez|étions|êtes|été|st</reg>
+                <reg>suis</reg>
               </w>
               <w lemma="véritablement" pos="ADJqua" msd="NOMB.=p">
                 <orig>veritablement</orig>
@@ -3655,13 +3655,13 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
                 <orig>ay</orig>
                 <reg>aient|auraient|aurez|auriez|aurions|aurons|auront|avaient|avez|aviez|avions|avons|ayez|ayez|ayons|ayons|eurent|eussent|eussiez|eussions|eûmes|eûtes|ont|eus|eues</reg>
               </w>
-              <w lemma="tousiour" pos="ADJqua" msd="NOMB.=p">
+              <w lemma="toujours" pos="ADJqua" msd="NOMB.=p">
                 <orig>touſiours</orig>
                 <reg>touſiours</reg>
               </w>
-              <w lemma="ester" pos="VERppe" msd="NOMB.=s|GENRE=m">
+              <w lemma="être" pos="VERppe" msd="NOMB.=s|GENRE=m">
                 <orig>eſté</orig>
-                <reg>esté</reg>
+                <reg>été</reg>
               </w>
               <w lemma="." pos="PONfrt" msd="MORPH=empty">
                 <orig>.</orig>
@@ -3684,7 +3684,7 @@ que j' ai fait , étant encore les mêmes , je suis véritablement comme j' ai t
                 <orig>,</orig>
                 <reg>,</reg>
               </w>
-              <w lemma="vottre" pos="VERinf" msd="NOMB.=s">
+              <w lemma="votre" pos="VERinf" msd="NOMB.=s">
                 <orig>Voſtre</orig>
                 <reg>Voſtre</reg>
               </w>
@@ -3712,11 +3712,11 @@ que j' ai fait , étant encore les mêmes , je suis véritablement comme j' ai t
                 <orig>-</orig>
                 <reg>-</reg>
               </w>
-              <w lemma="obeiedant" pos="VERppa" msd="NOMB.=p">
+              <w lemma="obeissant" pos="VERppa" msd="NOMB.=p">
                 <orig>obeiſſant</orig>
                 <reg>obeiſſant</reg>
               </w>
-              <w lemma="éeruiteur" pos="VERinf" msd="MORPH=empty">
+              <w lemma="seruiteur" pos="VERinf" msd="MORPH=empty">
                 <orig>ſeruiteur</orig>
                 <reg>ſeruiteur</reg>
               </w>
