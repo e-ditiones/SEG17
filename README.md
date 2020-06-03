@@ -160,7 +160,7 @@ For the entry "abbaye", you get :
 
 * in JSON :
 
-```json
+```yalm
 "abbaye":{
    "id":"e69",
    "lemma":{
