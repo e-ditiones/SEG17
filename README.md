@@ -133,29 +133,29 @@ For the entry "abbaye", you get :
 * in TEI :
 ```xml
 <entry xml:id="e69">
-				<form type="lemma" corresp="morphalou2-tlf#ABBAYE{commonNoun} dela#abbaye{N+z1} dicollecte#abbaye{nom} lefff#abbaye{nc}">
-					<orth>abbaye</orth>
-					<pron>a b E i @</pron>
-					<gramGrp>
-						<pos>commonNoun</pos>
-						<gen>feminine</gen>
-					</gramGrp>
-				</form>
-				<form type="inflected" corresp="morphalou2-morphalou1#abbaye dela#abbaye dicollecte#abbaye lefff#abbaye">
-					<orth>abbaye</orth>
-					<pron>a b E i @</pron>
-					<gramGrp>
-						<number>singular</number>
-					</gramGrp>
-				</form>
-				<form type="inflected" corresp="morphalou2-morphalou1#abbayes dela#abbayes dicollecte#abbayes lefff#abbayes">
-					<orth>abbayes</orth>
-					<pron>a b E i</pron>
-					<gramGrp>
-						<number>plural</number>
-					</gramGrp>
-				</form>
-			</entry>
+	<form type="lemma" corresp="morphalou2-tlf#ABBAYE{commonNoun} dela#abbaye{N+z1} dicollecte#abbaye{nom} lefff#abbaye{nc}">
+		<orth>abbaye</orth>
+		<pron>a b E i @</pron>
+		<gramGrp>
+			<pos>commonNoun</pos>
+			<gen>feminine</gen>
+		</gramGrp>
+	</form>
+	<form type="inflected" corresp="morphalou2-morphalou1#abbaye dela#abbaye dicollecte#abbaye lefff#abbaye">
+		<orth>abbaye</orth>
+		<pron>a b E i @</pron>
+		<gramGrp>
+			<number>singular</number>
+		</gramGrp>
+	</form>
+	<form type="inflected" corresp="morphalou2-morphalou1#abbayes dela#abbayes dicollecte#abbayes lefff#abbayes">
+		<orth>abbayes</orth>
+		<pron>a b E i</pron>
+		<gramGrp>
+			<number>plural</number>
+		</gramGrp>
+	</form>
+</entry>
 ```
 
 * in JSON :
