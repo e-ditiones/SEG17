@@ -9,7 +9,6 @@ import subprocess
 import argparse
 arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument("file", help="file to process")
-arg_parser.add_argument("dict", help="dictionnary used for normalisation")
 arg_parser.add_argument("-l", "--lemmatize", help="used to lemmatize a text", action="store_true")
 arg_parser.add_argument("-n", "--normalize", help="used to normalize a text", action="store_true")
 args = arg_parser.parse_args()
@@ -75,7 +74,7 @@ def segment_document(doc):
     :rtype: a new XLM doc
     """
     # Only the text enclosed between <p> and <l> is segmented.
-    with open(args.dict, 'r') as f:
+    with open('Dictionnary/dictionnaire.json', 'r') as f:
         dico = json.loads(f.read()) 
     paragraphs = doc.xpath('//tei:text//tei:p', namespaces=ns)
     lines = doc.xpath('//tei:text//tei:l', namespaces=ns)
@@ -182,7 +181,12 @@ def normalize_word(word, dico):
 
 
 def normalize_w(words, dico):
-    # Cette fonction permet de normaliser chaque mot en utilisant le lemmatiseur
+    """
+    This function normalize each word using the dictionnary. 
+
+    :param doc: a list of words 
+    :param doc: the dictionnay
+    """
     for word in words:
         orig = etree.Element("{http://www.tei-c.org/ns/1.0}orig")
         reg = etree.Element("{http://www.tei-c.org/ns/1.0}reg")
@@ -237,18 +241,23 @@ def lemmatize(segs):
     model_name = "fr"
     tagger = get_tagger(model_name, batch_size=256, device="cpu", model_path=None)
     for seg in segs:
-        iterator, processor = get_iterator_and_processor()
-        lemmas = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
-        words = []
-        for entry in lemmas:
-            w = etree.Element("{http://www.tei-c.org/ns/1.0}w")
-            w.text = entry['form']
-            w.attrib['lemma']=entry['lemma']
-            w.attrib['pos']=entry['POS']
-            w.attrib['msd']=entry['morph']
-            words.append(w)
-        seg.clear()
-        seg.extend(words)
+    	seg_s = seg.text.replace('ſ', 's')
+    	iterator, processor = get_iterator_and_processor()
+    	# On procède à deux lemmatisations, l'une avec l'ancien texte et l'autre avec le nouveau
+    	orig_lemmas = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
+    	lemmas = tagger.tag_str(seg_s, iterator=iterator, processor=processor)
+    	words = []
+    	assert len(orig_lemmas) == len(lemmas)
+    	for index in range(len(lemmas)):
+    		w = etree.Element("{http://www.tei-c.org/ns/1.0}w")
+    		# On conserve ainsi la forme "ſ" 
+    		w.text = orig_lemmas[index]['form']
+    		w.attrib['lemma']=lemmas[index]['lemma']
+    		w.attrib['pos']=lemmas[index]['POS']
+    		w.attrib['msd']=lemmas[index]['morph']
+    		words.append(w)
+    	seg.clear()
+    	seg.extend(words)
 
 
 if __name__ == "__main__":
