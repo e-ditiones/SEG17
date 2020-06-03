@@ -25,7 +25,7 @@ def transform_text(doc):
     :return: XML doc after transformation
     :rtype: XLM doc
     """
-    xslt = etree.parse('Level-2_to_level-3.xsl')
+    xslt = etree.parse('XSLT/Level-2_to_level-3.xsl')
     transform = etree.XSLT(xslt)
     doc_transf = transform(doc)
     return doc_transf

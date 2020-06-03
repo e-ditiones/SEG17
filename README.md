@@ -10,7 +10,9 @@ To use it, you just have to :
 * in this virtual env, install all the python librairies required with `pip install -r requirements.txt`
 * if you want to **split** your text, use `python3 level2to3.py path/to/file`
 * if you want to **split and normalize** your text, use `python3 level2to3.py -n path/to/file`
-* if you want to **split and lemmatize** your text, start to download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr` and then use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file`
+* if you want to **split and lemmatize** your text
+	* start to download the `fr` model with `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr`
+	* then use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file`
 * if you want to **split, normalize and lemmatize** your text, use `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/file`
 
 ## How it works
