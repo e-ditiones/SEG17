@@ -161,25 +161,33 @@ For the entry "abbaye", you get :
 * in JSON :
 
 ```json
-"abbaye": {"id": "e69", 
-		"lemma": 
-			{"orth": "abbaye", 
-			"pron": "a b E i @", 
-			"gramGrp": 
-				{"pos": "commonNoun", 
-				"gen": "feminine"}}, 
-		"inflected": 
-			[{"orth": "abbaye", 
-			"pron": "a b E i @", 
-			"gramGrp": 
-				{"number": "singular"}}, 
-			{"orth": "abbayes", 
-			"pron": "a b E i", 
-			"gramGrp": 
-				{"number": "plural"}
-			}
-		]
-	}
+"abbaye":{
+   "id":"e69",
+   "lemma":{
+      "orth":"abbaye",
+      "pron":"a b E i @",
+      "gramGrp":{
+         "pos":"commonNoun",
+         "gen":"feminine"
+      }
+   },
+   "inflected":[
+      {
+         "orth":"abbaye",
+         "pron":"a b E i @",
+         "gramGrp":{
+            "number":"singular"
+         }
+      },
+      {
+         "orth":"abbayes",
+         "pron":"a b E i",
+         "gramGrp":{
+            "number":"plural"
+         }
+      }
+   ]
+}
 ```
 
 
