@@ -42,6 +42,7 @@ Extract of the file to be processed (available [here](https://github.com/e-ditio
     <persName>Monseignevr</persName>, Quand ie ne ſerois pas nay cõme ie ſuis, voſtre tres-humble
     ſeruiteur, il faudroit que ie fuſſe mauuais François pour ne me reſioüir pas des contẽtemens de
     voſtre <orgName>maiſon</orgName>, puis que ce ſont des felicités publiques.
+</p>
 ```
 
 Using `PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/EXP_0001_level-2_text.xml`, you get :
@@ -85,14 +86,12 @@ votre maison , puisque ce sont des ressentiments publiques .
         </seg>
 </p>
 ```
-The output file can be found [here](https://github.com/e-ditiones/SEG17/blob/master/Examples/EXP_0001_level-3_text.xml))
+The output file can be found [here](https://github.com/e-ditiones/SEG17/blob/master/Examples/EXP_0001_level-3_text.xml).
 
 ## Credits
 
 This repository is developed by Alexandre Bartz with the help of Simon Gabay, as part of the project [e-ditiones](https://github.com/e-ditiones).
 
-The dictionary is generated using Morphalou. 
-Analyse et traitement informatique de la langue française - UMR 7118 (ATILF) (2019). Morphalou [Lexique]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, https://hdl.handle.net/11403/morphalou/v3.1.
 
 ## Licences
 
