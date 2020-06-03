@@ -74,7 +74,7 @@ def segment_document(doc):
     :rtype: a new XLM doc
     """
     # Only the text enclosed between <p> and <l> is segmented.
-    with open('Dictionnary/dictionnaire.json', 'r') as f:
+    with open('Dictionary/dictionnaire.json', 'r') as f:
         dico = json.loads(f.read()) 
     paragraphs = doc.xpath('//tei:text//tei:p', namespaces=ns)
     lines = doc.xpath('//tei:text//tei:l', namespaces=ns)
