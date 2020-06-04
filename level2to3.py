@@ -74,8 +74,6 @@ def segment_document(doc):
     :rtype: a new XLM doc
     """
     # Only the text enclosed between <p> and <l> is segmented.
-    with open('Dictionary/dictionnaire.json', 'r') as f:
-        dico = json.loads(f.read()) 
     paragraphs = doc.xpath('//tei:text//tei:p', namespaces=ns)
     lines = doc.xpath('//tei:text//tei:l', namespaces=ns)
     segment_elements(paragraphs)
@@ -95,11 +93,27 @@ def segment_document(doc):
         lemmatize(tags)
         for tag in tags:
             words = tag.xpath('./tei:w', namespaces=ns)
-            normalize_w(words, dico)
+            for word in words:
+                normalize_w(word)
     # Indent() inserts tail whitespace for pretty-printing an XML tree.
     etree.indent(doc)
     # This output file is specific to the project e-ditiones, you can easily change the output with e.g. doc.write("New" + args.file, ...)
     return doc.write(args.file.replace("level-2", "level-3"), pretty_print=True, encoding="utf-8", method="xml")
+
+
+# DICTIONARIES ################################################################
+
+def load_dict(path):
+    with open(path, 'r') as Dict:
+        return json.loads(Dict.read()) 
+
+morphalou = load_dict('Dictionaries/dictionnaire.json')
+corrections = load_dict('Dictionaries/test.json')
+
+def get_dict_entry(lemma):
+    if lemma in corrections:
+        return corrections[lemma]
+    return morphalou.get(lemma)
 
 
 # NORMALIZATION - W ###########################################################
@@ -154,6 +168,7 @@ def create_gram(pos, msd):
         gram["mood"] = "infinitive"
     return gram
 
+
 def match_gram(gram, dict_gram):
     for key in gram:
         if key not in dict_gram:
@@ -163,37 +178,42 @@ def match_gram(gram, dict_gram):
     return True
 
 
-def normalize_word(word, dico):
+def normalize_word(word):
+    """
+    This function normalize each token
+
+    :param word: a token
+    """
     result = []
     lemma = word.get("lemma")
     pos = word.get("pos")
     msd = word.get("msd")
-    entry = dico.get(lemma)
+    entry = get_dict_entry(lemma)
     if not entry:
-        return word.text
+        return word.text, "low"
     gram = create_gram(pos, msd)
     for inflected in entry["inflected"]:
         if "gramGrp" in inflected and match_gram(gram, inflected["gramGrp"]):
             result.append(inflected["orth"])
-    if len(result) > 0:
-        return "|".join(result)
-    return word.text
+    if len(result) == 1:
+        return result[0], "high"
+    elif len(result) > 1:
+        return result[0], "medium"
+    return word.text, "low"
 
 
-def normalize_w(words, dico):
+def normalize_w(word):
     """
-    This function normalize each word using the dictionnary. 
+    This function get the token normalized. 
 
-    :param doc: a list of words 
-    :param doc: the dictionnay
+    :param word: a word
     """
-    for word in words:
-        orig = etree.Element("{http://www.tei-c.org/ns/1.0}orig")
-        reg = etree.Element("{http://www.tei-c.org/ns/1.0}reg")
-        orig.text = word.text
-        reg.text = normalize_word(word, dico)
-        word.text = ""
-        word.extend([orig, reg])
+    orig = etree.Element("{http://www.tei-c.org/ns/1.0}orig")
+    reg = etree.Element("{http://www.tei-c.org/ns/1.0}reg")
+    orig.text = word.text
+    reg.text, reg.attrib["cert"] = normalize_word(word)
+    word.text = ""
+    word.extend([orig, reg])
 
 # NORMALIZATION - SEG #########################################################
 
