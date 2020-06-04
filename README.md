@@ -32,14 +32,14 @@ python3 level2to3.py path/to/file
 ```
 * if you want to **split and normalize** your text
 ```bash
-python3 level2to3.py -n path/to/file`
-``
+python3 level2to3.py -n path/to/file
+```
 * if you want to **split and lemmatize**
 ```bash
 PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l path/to/file
-``
+```
 * if you want to **split, normalize and lemmatize** your text
-`````bash
+```bash
 PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 level2to3.py -l -n path/to/file
 ```
 
@@ -64,7 +64,7 @@ The original version, and not the normalised version, is lemmatised.
 ### The normalisation via lemmas
 
 Using [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
-We offer an alternative normlisation, not seg-based but token-based. The script offer a normalised version for each token
+We offer an alternative normalisation, not seg-based but token-based. The script offer a normalised version for each token
 
 
 ## Examples
