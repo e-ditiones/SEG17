@@ -4,7 +4,7 @@ This script process segmentation, normalization and lemmatization of XML-TEI enc
 
 ## Getting starded
 
-To install SEG17, using command lines, you have to :
+#### To install SEG17, using command lines, you have to :
 1. clone or download this repository
 ```bash
 git clone git@github.com:e-ditiones/SEG17.git
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr
 ```
 
-Now you can use SEG17
+#### Now you can use SEG17
 
 * if you want to **split** your text
 ```bash
