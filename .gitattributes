@@ -2,3 +2,4 @@ Dictionnary/dictionnaire.json filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 Dictionary/dictionnaire.json filter=lfs diff=lfs merge=lfs -text
 Dictionaries/dictionnaire.json filter=lfs diff=lfs merge=lfs -text
+Dictionaries/morphalou_dict.json filter=lfs diff=lfs merge=lfs -text
