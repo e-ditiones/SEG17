@@ -107,8 +107,8 @@ def load_dict(path):
     with open(path, 'r') as Dict:
         return json.loads(Dict.read()) 
 
-morphalou = load_dict('Dictionaries/dictionnaire.json')
-corrections = load_dict('Dictionaries/test.json')
+morphalou = load_dict('Dictionaries/morphalou_dict.json')
+corrections = load_dict('Dictionaries/intermediary_dict.json')
 
 def get_dict_entry(lemma):
     if lemma in corrections:
@@ -263,14 +263,14 @@ def lemmatize(segs):
     for seg in segs:
     	seg_s = seg.text.replace('ſ', 's')
     	iterator, processor = get_iterator_and_processor()
-    	# On procède à deux lemmatisations, l'une avec l'ancien texte et l'autre avec le nouveau
+    	# There are two lemmatizations, one with the text with 'ſ', the other with 's'
     	orig_lemmas = tagger.tag_str(seg.text, iterator=iterator, processor=processor)
     	lemmas = tagger.tag_str(seg_s, iterator=iterator, processor=processor)
     	words = []
     	assert len(orig_lemmas) == len(lemmas)
     	for index in range(len(lemmas)):
     		w = etree.Element("{http://www.tei-c.org/ns/1.0}w")
-    		# On conserve ainsi la forme "ſ" 
+    		# This way, we conserve the 'ſ' form.
     		w.text = orig_lemmas[index]['form']
     		w.attrib['lemma']=lemmas[index]['lemma']
     		w.attrib['pos']=lemmas[index]['POS']
