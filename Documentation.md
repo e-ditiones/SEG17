@@ -75,7 +75,7 @@ This part explains how you can add some new entries in the intermediary dictiona
 			<pos>adjective</pos>
 		</gramGrp>
 	</form>
-	<form type="inflected" corresp="morphalou2-morphalou1#abaissable dela#abaissable dicollecte#abaissable lefff#abaissable">
+	<form type="inflected">
 		<orth>abaissable</orth>
 		<gramGrp>
 			<number>singular</number>
@@ -246,4 +246,4 @@ cd Dictionaries
 2. and create your dictionary
 ```bash
 python3 dict_TEI_to_JSON.py your_file.xml
-```
+``
