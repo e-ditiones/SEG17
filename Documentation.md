@@ -3,21 +3,21 @@
 Using the lemmatization and dictionaries, we offer an alternative normalization, not seg-based but token-based.
 
 There are two dictionaries :
-* [an intermediary dictionary]()
-* [a dictionary based on Morphalou]()
+* [an intermediary dictionary](https://github.com/e-ditiones/SEG17/blob/master/Dictionaries/intermediary_dict.xml.json)
+* [a dictionary based on Morphalou](https://github.com/e-ditiones/SEG17/blob/master/Dictionaries/morphalou_dict.json)
 
-These two dictionaries are automaticaly generated with [*dict_TEI_to_JSON.py*](). The input file is a XML-TEI file and the output file in JSON. 
+These two dictionaries are automaticaly generated with [*dict_TEI_to_JSON.py*](https://github.com/e-ditiones/SEG17/blob/master/Dictionaries/dict_TEI_to_JSON.py). The input file is a XML-TEI file and the output file in JSON. 
 
 We generated the dictionary based on Morphalou using the XML-TEI file provided by Morphalou and available [here](https://www.ortolang.fr/market/lexicons/morphalou).
 
-In order to get better results, we decided to create an intermediary dictionary in XML-TEI format, which is converted in JSON with [*dict_TEI_to_JSON.py*]() too.
+In order to get better results, we decided to create an intermediary dictionary in XML-TEI format, which is converted in JSON with [*dict_TEI_to_JSON.py*](https://github.com/e-ditiones/SEG17/blob/master/Dictionaries/dict_TEI_to_JSON.py) too.
 You can easily add new entries in this dictionary and then process the script to get a new dictionary in JSON. 
 
 ## Getting started
 
 ### Add new entries
 
-This part explains how you can add some new entries in the intermediary dictionary and presents the XML-TEI structure of each type of entries. A part of the structure is always the same and which is required (`entry` with `@xml:id`, `form`with `@type`for example) but there are some special characteristics.
+This part explains how you can add some new entries in the intermediary dictionary and presents the XML-TEI structure of each type of entries. A part of the structure is always the same and is required (`entry` with `@xml:id`, `form`with `@type`for example) but there are some special characteristics.
 
 #### A common noun
 
@@ -246,4 +246,4 @@ cd Dictionaries
 2. and create your dictionary
 ```bash
 python3 dict_TEI_to_JSON.py your_file.xml
-```
+``

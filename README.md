@@ -66,6 +66,8 @@ The original version, and not the normalised version, is lemmatised.
 We use [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
 We offer an alternative normalisation, not seg-based but token-based. The script offer a normalised version for each token.
 
+You can have more informations about the dictionaries used [here](https://github.com/e-ditiones/SEG17/blob/master/Documentation.md).
+
 
 ## Examples
 
