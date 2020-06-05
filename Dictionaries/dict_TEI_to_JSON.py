@@ -49,5 +49,5 @@ if __name__ == "__main__":
     parser = etree.XMLParser()
     doc = etree.parse(args.file, parser)
     dictionnaire = generate_entries(doc)
-    with open(args.file, "w", encoding="utf-8") as f:
+    with open(args.file + ".json", "w", encoding="utf-8") as f:
     	json.dump(dictionnaire, f)
