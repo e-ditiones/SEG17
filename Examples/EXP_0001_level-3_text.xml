@@ -194,7 +194,7 @@ votre maison , puisque ce sont des ressentiments publiques .
             <orig>
               <w lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">
                 <orig>Nous</orig>
-                <reg cert="high">nous</reg>
+                <reg cert="high">Nous</reg>
               </w>
               <w lemma="auῶs" pos="VERcjg" msd="PERS.=2|NOMB.=p">
                 <orig>auõs</orig>
@@ -1792,7 +1792,7 @@ autre que vous qui l' entreprenne .
             <orig>
               <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">
                 <orig>Vous</orig>
-                <reg cert="high">vous</reg>
+                <reg cert="high">Vous</reg>
               </w>
               <w lemma="avoir" pos="VERcjg" msd="MODE=ind|PERS.=2|NOMB.=p">
                 <orig>auez</orig>
@@ -2245,7 +2245,7 @@ rébellion et la servitude ?
             <orig>
               <w lemma="en" pos="PRE" msd="MORPH=empty">
                 <orig>En</orig>
-                <reg cert="high">en</reg>
+                <reg cert="high">En</reg>
               </w>
               <w lemma="quel" pos="DETrel" msd="NOMB.=s|GENRE=m">
                 <orig>quel</orig>
@@ -2950,7 +2950,7 @@ deux partis contraires en même temps :
             <orig>
               <w lemma="en" pos="PRE" msd="MORPH=empty">
                 <orig>En</orig>
-                <reg cert="high">en</reg>
+                <reg cert="high">En</reg>
               </w>
               <w lemma="effet" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>effet</orig>
@@ -3106,7 +3106,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">
                 <orig>Vous</orig>
-                <reg cert="high">vous</reg>
+                <reg cert="high">Vous</reg>
               </w>
               <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">
                 <orig>m’</orig>
@@ -3202,7 +3202,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="cardinal" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Cardinal</orig>
-                <reg cert="high">cardinal</reg>
+                <reg cert="high">Cardinal</reg>
               </w>
               <w lemma="votre" pos="ADJqua" msd="NOMB.=s">
                 <orig>voſtre</orig>

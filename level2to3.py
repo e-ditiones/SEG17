@@ -108,7 +108,7 @@ def load_dict(path):
         return json.loads(Dict.read()) 
 
 morphalou = load_dict('Dictionaries/morphalou_dict.json')
-corrections = load_dict('Dictionaries/intermediary_dict.json')
+corrections = load_dict('Dictionaries/intermediary_dict.xml.json')
 
 def get_dict_entry(lemma):
     if lemma in corrections:
@@ -213,6 +213,8 @@ def normalize_w(word):
     orig.text = word.text
     reg.text, reg.attrib["cert"] = normalize_word(word)
     word.text = ""
+    if (orig.text[0].isupper() and reg.attrib["cert"] == "high") :
+        reg.text = reg.text.capitalize()
     word.extend([orig, reg])
 
 # NORMALIZATION - SEG #########################################################
