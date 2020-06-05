@@ -63,8 +63,8 @@ The original version, and not the normalised version, is lemmatised.
 
 ### The normalisation via lemmas
 
-Using [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
-We offer an alternative normalisation, not seg-based but token-based. The script offer a normalised version for each token
+We use [Morphalou](https://www.ortolang.fr/market/lexicons/morphalou).
+We offer an alternative normalisation, not seg-based but token-based. The script offer a normalised version for each token.
 
 
 ## Examples
