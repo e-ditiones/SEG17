@@ -106,12 +106,6 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:pb">
-        <xsl:copy>
-            <xsl:apply-templates/>
-        </xsl:copy>
-    </xsl:template>
-    
     <xsl:template match="tei:lb">
         <xsl:copy>
             <xsl:apply-templates/>
@@ -145,8 +139,8 @@
     
     <xsl:template match="tei:p//tei:lb | tei:l//tei:lb"/>
     
-    <xsl:template match="tei:p//tei:pb | tei:l//tei:pb"/>
+    <xsl:template match="tei:pb | tei:pb"/>
     
-    <xsl:template match="tei:p//tei:fw | tei:l//tei:fw"/>
+    <xsl:template match="tei:fw | tei:fw"/>
 
 </xsl:stylesheet>

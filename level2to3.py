@@ -98,7 +98,7 @@ def segment_document(doc):
     # Indent() inserts tail whitespace for pretty-printing an XML tree.
     etree.indent(doc)
     # This output file is specific to the project e-ditiones, you can easily change the output with e.g. doc.write("New" + args.file, ...)
-    return doc.write(args.file.replace("level-2", "level-3"), pretty_print=True, encoding="utf-8", method="xml")
+    return doc.write(args.file.replace("-2", "-3"), pretty_print=True, encoding="utf-8", method="xml")
 
 
 # DICTIONARIES ################################################################
