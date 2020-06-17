@@ -4,6 +4,8 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
     
+    <xsl:strip-space elements="*"/>
+    
     <!-- This XSL stylesheet is used to remove all tags enclosed between <p> and <l>. 
         The text is kept, only the tags are removed. -->
     <xsl:template match="tei:TEI">
