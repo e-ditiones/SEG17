@@ -166,6 +166,16 @@ def create_gram(pos, msd):
         gram["tns"] = "present"
     elif pos == "VERinf":
         gram["mood"] = "infinitive"
+    elif pos == "CONsub":
+        gram["pos"] = "conjunction"
+        gram["subc"] = "subordination"
+    elif pos == "ADVneg" :
+        gram["pos"] = "adverb"
+        gram["subc"] = "negation"
+    elif pos == "ADVgen":
+        gram["pos"] = "adverb"
+    elif pos == "PRE":
+        gram["pos"] = "preposition"
     return gram
 
 
@@ -180,7 +190,7 @@ def match_gram(gram, dict_gram):
 
 def normalize_word(word):
     """
-    This function normalize each token
+    This function normalize each token.
 
     :param word: a token
     """
@@ -192,7 +202,7 @@ def normalize_word(word):
     if not entry:
         return word.text, "low"
     gram = create_gram(pos, msd)
-    for inflected in entry["inflected"]:
+    for inflected in entry:
         if "gramGrp" in inflected and match_gram(gram, inflected["gramGrp"]):
             result.append(inflected["orth"])
     if len(result) == 1:

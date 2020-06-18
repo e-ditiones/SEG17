@@ -8,6 +8,13 @@ args = arg_parser.parse_args()
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
 def generate_entries(doc):
+	"""
+	Cette fonction permet de générer un dictionnaire ayant pour entrées le lemma 
+	et pour valeurs une liste contenant toutes les formes de ce lemma.
+
+	:param doc: document XML
+	:rtype: dict
+	"""
 	# dictionnaire contenant l'ensemble des tokens, l'entrée est le lemma
 	d_entries = {}
 
@@ -16,24 +23,24 @@ def generate_entries(doc):
 	for entry in entries:
 		orth = entry.xpath('.//tei:orth/text()', namespaces=ns)[0]
 		lemma = entry.xpath('./tei:form[@type="lemma"]', namespaces=ns)[0]
-		identifiant = entry.xpath('./@xml:id', namespaces=ns)[0]
-		# un dictionnaire par token (lemma + ses formes fléchies)
-		d_entry = {}
-		d_entry["id"] = identifiant
 		# ce dictionnaire contient les informations du lemma
 		d_lemma = create_dict(lemma)
-		d_entry["lemma"] = d_lemma
 		# Partie traitant des formes fléchies
 		inflected = entry.xpath('./tei:form[@type="inflected"]', namespaces=ns)
-		# Cette liste contient un dictionnaire pour chaque forme fléchie
-		l_inflected = []
+		# Cette liste contient un dictionnaire pour chaque forme 
+		forms = [d_lemma]
 		for form in inflected:
-			l_inflected.append(create_dict(form))
-		d_entry["inflected"] = l_inflected 
-		d_entries[orth] = d_entry
+			forms.append(create_dict(form))
+		d_entries[orth] = d_entries.get(orth, []) + forms
 	return d_entries
 
 def create_dict(form):
+	"""
+	Cette fonction permet de créer un dictionnaire pour chaque forme (lemma et formes fléchies).
+
+	:param form: XML
+	:rtype: dict
+	"""
 	d_infos = {}
 	for child in form:
 		# Permet de retirer les namespaces
