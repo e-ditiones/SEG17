@@ -18,32 +18,282 @@
   </teiHeader>
   <text>
       <body>
-         <p>
-            <entry xml:id="t1">
-               <form type="lemma" corresp="morphalou2-tlf#ABBAYE{commonNoun} dela#abbaye{N+z1} dicollecte#abbaye{nom} lefff#abbaye{nc}">
-                  <orth>test</orth>
-                  <pron>t E s t</pron>
+            <entry>
+               <form type="lemma">
+                  <orth>vieillesse</orth>
                   <gramGrp>
                      <pos>commonNoun</pos>
-                     <gen>masculine</gen>
+                     <gen>feminine</gen>
                   </gramGrp>
                </form>
-               <form type="inflected" corresp="morphalou2-morphalou1#abbaye dela#abbaye dicollecte#abbaye lefff#abbaye">
-                  <orth>test</orth>
-                  <pron>t E s t</pron>
+               <form type="inflected">
+                  <orth>vieillesse</orth>
                   <gramGrp>
+                     <pos>commonNoun</pos>
+                     <gen>feminine</gen>
                      <number>singular</number>
                   </gramGrp>
                </form>
-               <form type="inflected" corresp="morphalou2-morphalou1#abbayes dela#abbayes dicollecte#abbayes lefff#abbayes">
-                  <orth>tester</orth>
-                  <pron>t E st</pron>
+               <form type="inflected">
+                  <orth>vieillesses</orth>
                   <gramGrp>
+                     <pos>commonNoun</pos>
+                     <gen>feminine</gen>
                      <number>plural</number>
                   </gramGrp>
                </form>
             </entry>
-         </p>
+         <entry>
+            <form type="lemma">
+               <orth>sorte</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>sorte</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>sortes</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>vertu</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>vertu</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>vertues</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>lettre</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>lettre</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>lettres</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>armée</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>armée</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>armées</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>feminine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>monde</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>monde</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>mondes</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>monseigneur</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>monseigneur</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>monseigneurs</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>intérêt</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>intérêt</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>intérêts</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>prince</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>prince</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>princes</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>marquis</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>marquis</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>marquis</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         <entry>
+            <form type="lemma">
+               <orth>temps</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>temps</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>singular</number>
+               </gramGrp>
+            </form>
+            <form type="inflected">
+               <orth>temps</orth>
+               <gramGrp>
+                  <pos>commonNoun</pos>
+                  <gen>masculine</gen>
+                  <number>plural</number>
+               </gramGrp>
+            </form>
+         </entry>
+         
       </body>
   </text>
 </TEI>
