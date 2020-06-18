@@ -154,6 +154,7 @@ def create_gram(pos, msd):
                 gram["mood"] = "indicative"
             elif val == "con":
                 gram["mood"] = "conditional"
+                gram["tns"] = "present"
             elif val == "imp":
                 gram["mood"] = "imperative"
             elif val == "sub":
@@ -176,6 +177,12 @@ def create_gram(pos, msd):
         gram["pos"] = "adverb"
     elif pos == "PRE":
         gram["pos"] = "preposition"
+    elif pos == "PROrel":
+        gram["pos"] = "pronoun"
+        gram["subc"] = "relative"
+    elif pos == "PROind":
+        gram["pos"] = "pronoun"
+        gram["subc"] = "indefinite"
     return gram
 
 
