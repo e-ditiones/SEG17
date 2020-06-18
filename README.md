@@ -128,7 +128,7 @@ The output file can be found [here](https://github.com/e-ditiones/SEG17/blob/mas
 
 ### The dictionary
 
-Based on the dictionary provided in TEI by Morphalou, we created a new dictionary, in JSON, using [this script](https://github.com/e-ditiones/SEG17/blob/master/Dictionary/dico.py).
+Based on the dictionary provided in TEI by Morphalou, we created a new dictionary, in JSON, using [this script](https://github.com/e-ditiones/SEG17/blob/master/Dictionaries/dict_TEI_to_JSON.py).
 
 For the entry "abbaye", you get :
 
@@ -164,9 +164,8 @@ For the entry "abbaye", you get :
 
 ```json
 {
-   "abbaye":{
-      "id":"e69",
-      "lemma":{
+   "abbaye":[
+      {
          "orth":"abbaye",
          "pron":"a b E i @",
          "gramGrp":{
@@ -174,23 +173,21 @@ For the entry "abbaye", you get :
             "gen":"feminine"
          }
       },
-      "inflected":[
-         {
-            "orth":"abbaye",
-            "pron":"a b E i @",
-            "gramGrp":{
-               "number":"singular"
-            }
-         },
-         {
-            "orth":"abbayes",
-            "pron":"a b E i",
-            "gramGrp":{
-               "number":"plural"
-            }
+      {
+         "orth":"abbaye",
+         "pron":"a b E i @",
+         "gramGrp":{
+            "number":"singular"
          }
-      ]
-   }
+      },
+      {
+         "orth":"abbayes",
+         "pron":"a b E i",
+         "gramGrp":{
+            "number":"plural"
+         }
+      }
+   ]
 }
 ```
 

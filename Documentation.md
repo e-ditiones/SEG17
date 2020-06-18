@@ -246,4 +246,4 @@ cd Dictionaries
 2. and create your dictionary
 ```bash
 python3 dict_TEI_to_JSON.py your_file.xml
-``
+```
