@@ -226,7 +226,7 @@ votre maison , puisque ce sont des ressentiments publiques .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">
                 <orig>vous</orig>
@@ -270,7 +270,7 @@ votre maison , puisque ce sont des ressentiments publiques .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">
                 <orig>vous</orig>
@@ -298,7 +298,7 @@ votre maison , puisque ce sont des ressentiments publiques .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">
                 <orig>le</orig>
@@ -349,7 +349,7 @@ entreprendre :
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
                 <orig>il</orig>
@@ -441,7 +441,7 @@ entreprendre :
               </w>
               <w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">
                 <orig>on</orig>
-                <reg cert="high">on</reg>
+                <reg cert="low">on</reg>
               </w>
               <w lemma="remarquer" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">
                 <orig>remarquoit</orig>
@@ -533,7 +533,7 @@ entreprendre :
               </w>
               <w lemma="autre" pos="PROind" msd="NOMB.=p">
                 <orig>autres</orig>
-                <reg cert="medium">autres</reg>
+                <reg cert="low">autres</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -545,11 +545,11 @@ entreprendre :
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">
                 <orig>on</orig>
-                <reg cert="high">on</reg>
+                <reg cert="low">on</reg>
               </w>
               <w lemma="voir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>voit</orig>
@@ -593,7 +593,7 @@ entreprendre :
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="mettre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>met</orig>
@@ -770,7 +770,7 @@ Puis du même côté , l " événement des choses ne soit celui que nous aider ;
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
                 <orig>il</orig>
@@ -938,7 +938,7 @@ Puis du même côté , l " événement des choses ne soit celui que nous aider ;
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">
                 <orig>nous</orig>
@@ -985,7 +985,7 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
               </w>
               <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
-                <reg cert="low">Monſeigneur</reg>
+                <reg cert="high">Monseigneur</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -1001,11 +1001,11 @@ leurs propres forces , que par l' opinion que nous en avions conçue [ .
               </w>
               <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>temps</orig>
-                <reg cert="low">temps</reg>
+                <reg cert="high">temps</reg>
               </w>
               <w lemma="lettre" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>Lettres</orig>
-                <reg cert="low">Lettres</reg>
+                <reg cert="high">Lettres</reg>
               </w>
               <w lemma="dv" pos="VERppe" msd="MORPH=empty">
                 <orig>dv</orig>
@@ -1147,7 +1147,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
               </w>
               <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>monde</orig>
-                <reg cert="low">monde</reg>
+                <reg cert="high">monde</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -1303,7 +1303,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
               </w>
               <w lemma="dont" pos="PROrel" msd="MORPH=empty">
                 <orig>dont</orig>
-                <reg cert="medium">dont</reg>
+                <reg cert="high">dont</reg>
               </w>
               <w lemma="tout" pos="DETind" msd="NOMB.=s|GENRE=m">
                 <orig>tout</orig>
@@ -1315,7 +1315,7 @@ avantages que Dieu vous a donnés par dessus le reste des hommes ;
               </w>
               <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>monde</orig>
-                <reg cert="low">monde</reg>
+                <reg cert="high">monde</reg>
               </w>
               <w lemma="atter" pos="VERcjg" msd="NOMB.=s">
                 <orig>attẽd</orig>
@@ -1476,7 +1476,7 @@ affaires .
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
@@ -1568,7 +1568,7 @@ affaires .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
                 <orig>il</orig>
@@ -1588,7 +1588,7 @@ affaires .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">
                 <orig>vous</orig>
@@ -1712,7 +1712,7 @@ affaires .
               </w>
               <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>monde</orig>
-                <reg cert="low">monde</reg>
+                <reg cert="high">monde</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -1752,7 +1752,7 @@ affaires .
               </w>
               <w lemma="autre" pos="PROind" msd="NOMB.=s">
                 <orig>autre</orig>
-                <reg cert="medium">autre</reg>
+                <reg cert="low">autre</reg>
               </w>
               <w lemma="que" pos="CONsub" msd="MORPH=empty">
                 <orig>que</orig>
@@ -1764,7 +1764,7 @@ affaires .
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>l’</orig>
@@ -1836,7 +1836,7 @@ autre que vous qui l' entreprenne .
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
@@ -2043,7 +2043,7 @@ depuis toujours maintenue par votre courage .
               </w>
               <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>temps</orig>
-                <reg cert="low">temps</reg>
+                <reg cert="high">temps</reg>
               </w>
               <w lemma="et" pos="PONfbl" msd="MORPH=empty">
                 <orig>&amp;</orig>
@@ -2128,7 +2128,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
             <orig>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>Qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">Qui</reg>
               </w>
               <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>eſt</orig>
@@ -2140,7 +2140,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
                 <orig>peut</orig>
@@ -2176,7 +2176,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
             <orig>
               <w lemma="où" pos="PROrel" msd="MORPH=empty">
                 <orig>Où</orig>
-                <reg cert="medium">où</reg>
+                <reg cert="high">Où</reg>
               </w>
               <w lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">
                 <orig>ſont</orig>
@@ -2188,7 +2188,7 @@ l' usurpation de la puissance légitime vous avez conservé tout seul la libert�
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="se" pos="PROper" msd="PERS.=3|NOMB.=s|CAS=r">
                 <orig>ſe</orig>
@@ -2277,7 +2277,7 @@ rébellion et la servitude ?
               </w>
               <w lemma="vieillesse" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>vieilleſſe</orig>
-                <reg cert="low">vieilleſſe</reg>
+                <reg cert="high">vieillesse</reg>
               </w>
               <w lemma="si" pos="ADVgen" msd="MORPH=empty">
                 <orig>ſi</orig>
@@ -2293,7 +2293,7 @@ rébellion et la servitude ?
               </w>
               <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>monde</orig>
-                <reg cert="low">monde</reg>
+                <reg cert="high">monde</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -2354,7 +2354,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
             <orig>
               <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
-                <reg cert="low">Monſeigneur</reg>
+                <reg cert="high">Monseigneur</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -2502,7 +2502,7 @@ et tant de bonne et de mauvaise fortune également glorieuse ?
               </w>
               <w lemma="rien" pos="PROind" msd="NOMB.=s|GENRE=m">
                 <orig>rien</orig>
-                <reg cert="high">rien</reg>
+                <reg cert="low">rien</reg>
               </w>
               <w lemma="dire" pos="VERinf" msd="MORPH=empty">
                 <orig>dire</orig>
@@ -2556,7 +2556,7 @@ donner pour me faire rien dire contre ma conscience .
               </w>
               <w lemma="sorte" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>ſorte</orig>
-                <reg cert="low">ſorte</reg>
+                <reg cert="high">sorte</reg>
               </w>
               <w lemma="pour" pos="PRE" msd="MORPH=empty">
                 <orig>pour</orig>
@@ -2572,7 +2572,7 @@ donner pour me faire rien dire contre ma conscience .
               </w>
               <w lemma="intérêt" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>intereſt</orig>
-                <reg cert="low">intereſt</reg>
+                <reg cert="high">intérêt</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -2584,7 +2584,7 @@ donner pour me faire rien dire contre ma conscience .
               </w>
               <w lemma="vertu" pos="NOMcom" msd="NOMB.=s|GENRE=f">
                 <orig>vertu</orig>
-                <reg cert="low">vertu</reg>
+                <reg cert="high">vertu</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -2684,7 +2684,7 @@ donner pour me faire rien dire contre ma conscience .
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=n">
                 <orig>elle</orig>
@@ -2718,7 +2718,7 @@ les ennemis , afin de lui rendre ce qu' elle mérite .
               </w>
               <w lemma="lettre" pos="NOMcom" msd="NOMB.=p|GENRE=f">
                 <orig>Lettres</orig>
-                <reg cert="low">Lettres</reg>
+                <reg cert="high">Lettres</reg>
               </w>
               <w lemma="dv" pos="VERppe" msd="MORPH=empty">
                 <orig>dv</orig>
@@ -2852,7 +2852,7 @@ faire fortune en Hollande :
               </w>
               <w lemma="prince" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Prince</orig>
-                <reg cert="low">Prince</reg>
+                <reg cert="high">Prince</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>d’</orig>
@@ -2876,7 +2876,7 @@ faire fortune en Hollande :
               </w>
               <w lemma="marquis" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Marquis</orig>
-                <reg cert="low">Marquis</reg>
+                <reg cert="high">Marquis</reg>
               </w>
               <w lemma="de" pos="PRE" msd="MORPH=empty">
                 <orig>de</orig>
@@ -2932,7 +2932,7 @@ faire fortune en Hollande :
               </w>
               <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>temps</orig>
-                <reg cert="low">temps</reg>
+                <reg cert="high">temps</reg>
               </w>
               <w lemma=":" pos="PONfbl" msd="MORPH=empty">
                 <orig>:</orig>
@@ -2962,7 +2962,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
-                <reg cert="low">Monſeigneur</reg>
+                <reg cert="high">Monseigneur</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -3002,7 +3002,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">
                 <orig>me</orig>
@@ -3058,7 +3058,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>monde</orig>
-                <reg cert="low">monde</reg>
+                <reg cert="high">monde</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
@@ -3194,7 +3194,7 @@ deux partis contraires en même temps :
               </w>
               <w lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>Monſeigneur</orig>
-                <reg cert="low">Monſeigneur</reg>
+                <reg cert="high">Monseigneur</reg>
               </w>
               <w lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">
                 <orig>le</orig>
@@ -3238,7 +3238,7 @@ Monseigneur le Cardinal votre Fils ;
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>qu’</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="il" pos="PROimp" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">
                 <orig>il</orig>
@@ -3318,7 +3318,7 @@ Monseigneur le Cardinal votre Fils ;
               </w>
               <w lemma="intérêt" pos="NOMcom" msd="NOMB.=p|GENRE=m">
                 <orig>intereſts</orig>
-                <reg cert="low">intereſts</reg>
+                <reg cert="high">intérêts</reg>
               </w>
               <w lemma="ne" pos="ADVneg" msd="MORPH=empty">
                 <orig>ne</orig>
@@ -3396,7 +3396,7 @@ point avec elle :
               </w>
               <w lemma="un" pos="PROind" msd="NOMB.=s|GENRE=f">
                 <orig>vne</orig>
-                <reg cert="medium">une</reg>
+                <reg cert="low">vne</reg>
               </w>
               <w lemma="mauvais" pos="ADJqua" msd="NOMB.=s|GENRE=f">
                 <orig>mauuaiſe</orig>
@@ -3513,7 +3513,7 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
               </w>
               <w lemma="temps" pos="NOMcom" msd="NOMB.=s|GENRE=m">
                 <orig>temps</orig>
-                <reg cert="low">temps</reg>
+                <reg cert="high">temps</reg>
               </w>
               <w lemma="il" pos="DETdef" msd="NOMB.=s|GENRE=f">
                 <orig>la</orig>
@@ -3565,7 +3565,7 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
               </w>
               <w lemma="qui" pos="PROrel" msd="MORPH=empty">
                 <orig>qui</orig>
-                <reg cert="medium">qui</reg>
+                <reg cert="high">qui</reg>
               </w>
               <w lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">
                 <orig>m’</orig>
@@ -3593,7 +3593,7 @@ d' avoir été du plus faible parti , à cause que je croyais qu' il était le p
               </w>
               <w lemma="que" pos="PROrel" msd="MORPH=empty">
                 <orig>que</orig>
-                <reg cert="medium">que</reg>
+                <reg cert="high">que</reg>
               </w>
               <w lemma="je" pos="PROper" msd="NOMB.=s|GENRE=f">
                 <orig>i’</orig>
@@ -3678,7 +3678,7 @@ que j' ai fait , étant encore les mêmes , je suis véritablement comme j' ai t
             <orig>
               <w lemma="monseigneur" pos="NOMpro" msd="NOMB.=s|GENRE=m">
                 <orig>MONSEIGNEVR</orig>
-                <reg cert="low">MONSEIGNEVR</reg>
+                <reg cert="high">Monseigneur</reg>
               </w>
               <w lemma="," pos="PONfbl" msd="MORPH=empty">
                 <orig>,</orig>
