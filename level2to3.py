@@ -183,6 +183,16 @@ def create_gram(pos, msd):
     elif pos == "PROind":
         gram["pos"] = "pronoun"
         gram["subc"] = "indefinite"
+    elif pos == "NOMcom":
+        gram["pos"] = "commonNoun"
+    elif pos == "ADJqua":
+        gram["pos"] = "adjective"
+    elif pos == "DETind":
+        gram["pos"] = "determiner"
+        gram["subc"] = "indefinite"
+    elif pos == "DETdef":
+        gram["pos"] = "determiner"
+        gram["subc"] = "definite"
     return gram
 
 

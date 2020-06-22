@@ -30,7 +30,13 @@ def generate_entries(doc):
 		# Cette liste contient un dictionnaire pour chaque forme 
 		forms = [d_lemma]
 		for form in inflected:
-			forms.append(create_dict(form))
+			d_form = create_dict(form)
+			# On ne conserve que les formes qui ont déjà un "gramGrp" pour éviter les doublons.
+			if "gramGrp" not in d_form:
+				continue
+			# On fusionne les deux dictionnaires pour ne pas perdre d'informations (notamment pour les noms).
+			d_form["gramGrp"] = {**d_lemma.get("gramGrp", {}), **d_form.get("gramGrp", {})}
+			forms.append(d_form)
 		d_entries[orth] = d_entries.get(orth, []) + forms
 	return d_entries
 
