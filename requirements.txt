@@ -1,2 +1,2 @@
-lxml==4.5.0
+lxml==4.6.2
 pie_extended==0.0.13
