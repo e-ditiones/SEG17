@@ -136,8 +136,7 @@
     
     <xsl:template match="tei:p//tei:orgName/text() | tei:l//tei:orgName/text()">
         <xsl:copy/>
-    </xsl:template>
-    
+    </xsl:template> 
     
     <xsl:template match="tei:p//tei:lb | tei:l//tei:lb"/>
     
