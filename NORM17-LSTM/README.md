@@ -1,5 +1,11 @@
 # Normalisation of Modern French with an LSTM 'NMT' model
 
+## Requirements
+
+- Tested with Python>=3.7
+- Install python dependencies: `pip install -r requirements.txt`
+- Download model: `bash download_model.sh`
+
 ## Basic Usage
 
 From untokenised text, input directly from standard input
@@ -42,6 +48,19 @@ moment	moment
 ,	,
 
 ```
+
+## Notes on the normalised text
+
+There can be differences in segmentation between the original text and the normalised version that would be lost with the above token-level alignment. In the normalised version, where the left/right boundary of a word does not represent a word boundary, it is marked with an initial/final '▁'.
+
+E.g. 'long tems' normalised to 'longtemps':
+
+```
+long  long▁
+tems  ▁temps
+```
+
+
 
 ## TEI format
 
