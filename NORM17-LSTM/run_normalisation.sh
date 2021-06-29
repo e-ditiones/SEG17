@@ -22,5 +22,6 @@ python $thisdir/align/align.py $thisdir/model/input.$pid $thisdir/model/output.p
 
 # remove temporary files
 rm $thisdir/model/input.$pid
+rm $thisdir/model/input.preproc.$pid
 rm $thisdir/model/output.$pid
 rm $thisdir/model/output.postproc.$pid
