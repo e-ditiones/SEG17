@@ -7,3 +7,4 @@ cd $thisdir
 wget http://almanach.inria.fr/files/modfr_norm/lstm_best/model.tar.gz
 tar -xzvf model.tar.gz
 
+rm -r model.tar.gz
