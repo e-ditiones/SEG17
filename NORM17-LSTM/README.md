@@ -27,7 +27,7 @@ moment	moment
 
 ```
 
-N.B. The tokenisation used (scripts found in align/) is from [pie-taggers, v0.0.13](https://github.com/hipster-philology/nlp-pie-taggers/blob/80a1b7477abb4abaaac943c793cf1fb2c106749a/pie_extended/models/fr/tokenizer.py). The necessary files for tokenised have been copied here (in `align/`) to avoid having to import heavy dependencies.
+N.B. The tokenisation used is from [pie-taggers, v0.0.13](https://github.com/hipster-philology/nlp-pie-taggers/blob/80a1b7477abb4abaaac943c793cf1fb2c106749a/pie_extended/models/fr/tokenizer.py). The necessary files for tokenised have been copied here (in `align/`) to avoid having to import heavy dependencies.
 
 
 ## Notes on the normalised text
