@@ -11,7 +11,8 @@ thisdir=`dirname $0`
 pid=$$ # get process id to use to name files to avoid conflict in cases of parallelisation
 
 # pre-normalisation, apply sentencepiece
-echo $text | bash pre-norm.sh > $thisdir/model/input.$pid
+echo "$text"
+echo "$text" | bash pre-norm.sh > $thisdir/model/input.$pid
 cat $thisdir/model/input.$pid | python encode_sp.py $thisdir/model/bpe_joint_1000.model > $thisdir/model/input.preproc.$pid
 
 # normalisation using fairseq model
