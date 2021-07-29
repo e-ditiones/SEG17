@@ -2,6 +2,12 @@
 
 This script process segmentation, normalization and lemmatization of XML-TEI encoded files. Except the first, each step can be activated separately.
 
+```diff
+- This repo is not updated anymore. Please use the Annotator repo.
+```
+
+For the Annotator repo, cf. [here](https://github.com/e-ditiones/Annotator).
+
 ## Getting starded
 
 #### To install SEG17, using command lines, you have to :
